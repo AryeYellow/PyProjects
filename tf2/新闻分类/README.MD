@@ -1,0 +1,32 @@
+https://blog.csdn.net/Yellow_python/article/details/90034067
+
+模型|时间|空间|精度
+-|-|-|-
+贝叶斯|42|高|0.83
+逻辑回归|223|高|**0.85**
+随机森林|325|高|0.81
+贝叶斯+TfIdf|86|高|0.84
+逻辑回归+TfIdf|306|高|0.84
+贝叶斯+FastText|1|低|0.77
+逻辑回归+FastText|21|低|0.82
+决策树+FastText|6|低|0.71
+随机森林+FastText|23|低|0.80
+SVM+FastText|22|低|0.83
+贝叶斯+Word2Vec|1|低|0.78
+逻辑回归+Word2Vec|20|低|0.82
+决策树+Word2Vec|6|低|0.75
+随机森林+Word2Vec|23|低|0.81
+SVM+Word2Vec|23|低|0.82
+贝叶斯+Word2Vec+TfIdf|1|低|0.78
+逻辑回归+Word2Vec+TfIdf|60|低|0.83
+决策树+Word2Vec+TfIdf|7|低|0.75
+随机森林+Word2Vec+TfIdf|23|低|0.82
+`SVM+Word2Vec+TfIdf`|51|低|**0.85**
+CNN|317（5 epoch）|中|0.83
+GRU|976（6 epoch）|中|0.78
+CNN+FastText|181（4 epoch）|中|0.81
+GRU+FastText|1218（8 epoch）|中|0.84
+CNN+Word2Vec|134（3 epoch）|中|0.81
+GRU+Word2Vec|1159（8 epoch）|中|0.84
+CNN+Word2Vec|188（4 epoch）|中|0.80
+GRU+Word2Vec|1696（9 epoch）|中|0.82
