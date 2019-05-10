@@ -1,6 +1,6 @@
 from time import time
-from sklearn.metrics import classification_report, confusion_matrix
 from a_Data_preprocessing import id2label
+from sklearn.metrics import classification_report, confusion_matrix
 from seaborn import heatmap
 from matplotlib import pyplot
 from pandas import DataFrame
@@ -14,14 +14,15 @@ class Timer:
         print('\033[033m%.2f分钟\033[0m' % ((time() - self.t) / 60))
 
 
-def metric(y_test, y_pred):
+def metric(y_test, y_pred, verbose=True):
     i2l = id2label()
     y_test = [i2l[i] for i in y_test]
     y_pred = [i2l[i] for i in y_pred]
     report = classification_report(y_test, y_pred)
     print(report)
-    labels = [i2l[i] for i in range(9)]
-    matrix = confusion_matrix(y_test, y_pred)
-    matrix = DataFrame(matrix, labels, labels)
-    heatmap(matrix, center=400, fmt='d', annot=True)
-    pyplot.show()
+    if verbose:
+        labels = [i2l[i] for i in range(9)]
+        matrix = confusion_matrix(y_test, y_pred)
+        matrix = DataFrame(matrix, labels, labels)
+        heatmap(matrix, center=400, fmt='d', annot=True)
+        pyplot.show()

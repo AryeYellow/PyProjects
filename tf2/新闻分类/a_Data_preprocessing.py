@@ -56,6 +56,7 @@ if __name__ == '__main__':
                     ls_of_words.append(words)
                     ls_of_label.append(label_id)
     X_train, X_test, y_train, y_test = train_test_split(ls_of_words, ls_of_label, test_size=.2)
+    del ls_of_words, ls_of_label  # 释放内存
 
     # 词频统计
     counter = Counter()
@@ -63,9 +64,6 @@ if __name__ == '__main__':
         for word in words:
             counter[word] += 1
     counter = counter.most_common(vocabs)
-    with open('sw.txt', 'w', encoding='utf-8') as f:
-        for word, num in counter:
-            f.write(word + str(num) + '\n')
     w2i = {w[0]: i for i, w in enumerate(counter, 1)}
 
     # 过滤低频词
