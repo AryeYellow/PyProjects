@@ -8,8 +8,8 @@ PATH1 = 'unigram'
 PATH2 = 'bigram'
 PATH3 = 'trigram'
 
-# N-gram建模训练
-if not exists(PATH2) or not exists(PATH3) or not exists(PATH3):
+"""N-gram建模训练"""
+if not (exists(PATH2) and exists(PATH3) and exists(PATH3)):
     with open('corpus.txt', encoding='utf-8') as f:
         corpus = [lcut(line) for line in f.read().strip().split()]
 
@@ -40,7 +40,7 @@ if not exists(PATH3):
 with open(PATH3, 'rb') as f:
     trigram = pickle.load(f)
 
-# 文本生成
+"""文本生成"""
 n = 9  # 开放度
 while True:
     first = input('首字：').strip()
@@ -53,17 +53,17 @@ while True:
     sentence = [first, next_word]
     next_word = first + next_word
     for i in range(99):
-        if next_word in trigram:
-            next_word = sorted(trigram[next_word], key=lambda w: trigram[next_word][w])
+        next_word = trigram.get(next_word, '')
+        next_word = sorted(next_word, key=lambda w: next_word[w]) if next_word else next_word
+        if next_word:
+            next_word = choice(next_word)
+        else:
+            next_word = sentence[-1]
+            next_word = sorted(bigram[next_word], key=lambda w: bigram[next_word][w])[:n]
             if next_word:
                 next_word = choice(next_word)
             else:
-                next_word = sentence[-1]
-                next_word = sorted(bigram[next_word], key=lambda w: bigram[next_word][w])[:n]
-                if next_word:
-                    next_word = choice(next_word)
-                else:
-                    break
+                break
         sentence.append(next_word)
         next_word = ''.join(sentence[-2:])
         print(i, next_word)
