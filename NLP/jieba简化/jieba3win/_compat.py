@@ -3,12 +3,10 @@ import os
 import sys
 
 import pkg_resources
-get_module_res = lambda *res: pkg_resources.resource_stream(__name__,
-                                                            os.path.join(*res))
+get_module_res = lambda *res: pkg_resources.resource_stream(__name__, os.path.join(*res))
 
 default_encoding = sys.getfilesystemencoding()
 
-string_types = (str,)
 
 def strdecode(sentence):
     if not isinstance(sentence, str):
