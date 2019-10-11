@@ -321,7 +321,7 @@ class Tokenizer:
         Word type may be ignored
         """
         self.check_initialized()
-        if isinstance(f, string_types):
+        if isinstance(f, (str,)):
             f_name = f
             f = open(f, 'rb')
         else:
@@ -386,7 +386,7 @@ class Tokenizer:
         self.check_initialized()
         ftotal = float(self.total)
         freq = 1
-        if isinstance(segment, string_types):
+        if isinstance(segment, (str,)):
             word = segment
             for seg in self.cut(word, HMM=False):
                 freq *= self.FREQ.get(seg, 1) / ftotal
@@ -443,11 +443,9 @@ class Tokenizer:
 
 
 # default Tokenizer instance
-
 dt = Tokenizer()
 
 # global functions
-
 get_FREQ = lambda k, d=None: dt.FREQ.get(k, d)
 add_word = dt.add_word
 calc = dt.calc
