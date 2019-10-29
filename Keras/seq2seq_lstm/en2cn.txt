@@ -1,0 +1,5000 @@
+Hi.	嗨。
+Run.	你用跑的。
+Wait!	等等！
+Hello!	你好。
+I try.	让我来。
+I won!	我赢了。
+Oh no!	不会吧。
+Cheers!	乾杯!
+He ran.	他跑了。
+Hop in.	跳进来。
+I lost.	我迷失了。
+I quit.	我退出。
+I'm OK.	我沒事。
+Listen.	听着。
+No way!	不可能！
+No way!	没门！
+Really?	你确定？
+Try it.	试试吧。
+We try.	我们来试试。
+Why me?	为什么是我？
+Ask Tom.	去问汤姆。
+Be calm.	冷静点。
+Be fair.	公平点。
+Be kind.	友善点。
+Be nice.	和气点。
+Call me.	联系我。
+Call us.	联系我们。
+Come in.	进来。
+Get Tom.	找到汤姆。
+Get out!	滾出去！
+Go away!	走開！
+Goodbye!	再见！
+Hang on!	等一下！
+He came.	他来了。
+He runs.	他跑。
+Help me.	帮我一下。
+Hold on.	坚持。
+Hug Tom.	抱抱汤姆！
+I agree.	我同意。
+I'm ill.	我生病了。
+I'm old.	我老了。
+It's OK.	没关系。
+It's me.	是我。
+Join us.	来加入我们吧。
+Keep it.	留着吧。
+Kiss me.	吻我。
+Perfect!	完美！
+See you.	再见！
+Shut up!	閉嘴！
+Skip it.	不管它。
+Take it.	拿走吧。
+Wake up!	醒醒！
+Wash up.	去清洗一下。
+We know.	我们知道。
+Welcome.	欢迎。
+Who won?	谁赢了？
+Why not?	为什么不？
+You run.	你跑。
+Back off.	往后退点。
+Be still.	静静的，别动。
+Cuff him.	把他铐上。
+Drive on.	往前开。
+Get away!	走開！
+Get down!	趴下！
+Get lost!	滾！
+Get real.	醒醒吧。
+Grab Tom.	抓住汤姆。
+Grab him.	抓住他。
+Have fun.	玩得開心。
+He tries.	他来试试。
+Humor me.	你就随了我的意吧。
+Hurry up.	趕快!
+Hurry up.	快点！
+I forgot.	我忘了。
+I resign.	我放弃。
+I'll pay.	我來付錢。
+I'm busy.	我很忙。
+I'm cold.	我冷。
+I'm fine.	我很好。
+I'm full.	我吃飽了。
+I'm sick.	我生病了。
+Leave me.	让我一个人呆会儿。
+Let's go!	我們走吧!
+Look out!	当心！
+She runs.	她跑。
+Stand up.	起立。
+They won.	他们赢了。
+Tom died.	汤姆去世了。
+Tom quit.	汤姆不干了。
+Tom swam.	汤姆游泳了。
+Trust me.	相信我。
+Try hard.	努力。
+Try some.	试试吧。
+Who died?	谁死了？
+Birds fly.	鳥類飛行。
+Call home!	打电话回家！
+Catch him.	抓住他。
+Come home.	回家吧。
+Do it now.	現在就做。
+Dogs bark.	狗会叫。
+Don't cry.	别哭。
+Excuse me.	对不起。
+Feel this.	来感受一下这个。
+Follow me.	请跟我来。
+Follow us.	请跟着我们。
+Good luck.	祝你好运。
+Grab that.	抓住那个。
+Grab this.	抓住这个。
+Hands off.	手举起来。
+He's a DJ.	他是一个 DJ 。
+He's lazy.	他很懒。
+Hold fire.	停火。
+Hold this.	我住这个。
+How awful!	太可怕了。
+I am cold.	我冷。
+I am okay.	我沒事。
+I am sick.	我生病了。
+I get you.	我了解你。
+I hope so.	我希望如此。
+I laughed.	我笑了。
+I promise.	我向你保证。
+I saw Tom.	我看見湯姆了。
+I'll swim.	我要游泳。
+I'm a man.	我是个男人。
+I'm right.	我是對的。
+I'm sorry.	我很抱歉。
+I'm young.	我還年輕。
+Is it far?	遠嗎？
+It snowed.	下雪了。
+It's 3:30.	3点半了。
+It's cold.	天很冷。
+It's free.	它是免費的。
+It's late.	很晚了。
+It's true.	這是真的。
+Let me in.	让我进去。
+Lie still.	躺着不动。
+Look back!	回头看！
+Move over.	腾一下地方。
+Of course!	當然!
+Of course.	當然。
+Of course.	当然了。
+Oh please!	噢拜托了！
+Open fire!	开火！
+Read this.	念这个。
+See above.	参见上文。
+She cried.	她哭了。
+She tried.	她试过了。
+She walks.	她在行走。
+Sit tight.	耐心等着。
+Slow down.	慢一點。
+Stay calm.	保持冷靜。
+Stay down!	趴着！
+Stop that!	住手。
+Take care!	照顾好自己。
+Take care.	照顾好自己。
+Tom swims.	Tom游泳。
+Tom tried.	湯姆累了。
+Tom waved.	汤姆挥手了。
+Tom'll go.	湯姆要走。
+Turn left.	向左转。
+Wait here.	在这等着。
+Well done!	做得好！
+Who cares?	爱谁谁。
+Wonderful!	很棒！
+You idiot!	蠢货！
+All aboard!	请上船！
+Am I wrong?	我錯了嗎？
+Birds sing.	鳥兒歌唱。
+Can I help?	我可以幫忙嗎?
+Come along.	快点。
+Definitely!	必须的！
+Don't move!	别动！
+Don't move.	不要动。
+Fill it up.	把它填滿。
+Follow him.	跟著他走。
+God exists.	上帝存在。
+Good night.	晚安。
+He gave in.	他让步了.
+He is mean.	他很凶。
+He is poor.	他很穷。
+He is tall.	他高。
+Hello, Tom.	你好，汤姆。
+Hey, relax.	嘿，放松点。
+How lovely!	多可爱啊！
+Hurry home.	赶快回家。
+I am a man.	我是个男人。
+I am short.	我个头矮。
+I can cook.	我会做饭。
+I can swim.	我會游泳。
+I eat here.	我在這裡吃。
+I envy her.	我嫉妒她。
+I envy him.	我羡慕他。
+I hate you.	我恨你。
+I know Tom.	我认识汤姆。
+I know him.	我認識他。
+I like tea.	我喜欢茶。
+I like you.	我喜歡你。
+I like you.	我喜欢你。
+I love her.	我愛她。
+I love you.	我爱您。
+I miss him.	我想念他。
+I miss you.	我想念你。
+I need you.	我需要你。
+I think so.	我想是這樣的。
+I use this.	我使用这个。
+I'll do it.	我會做的。
+I'm a hero.	我是個英雄。
+I'm humble.	我是谦虚的。
+I'm single.	我单身。
+I'm sleepy.	我困了。
+I'm so fat.	我好胖哦。
+Ignore Tom.	别理汤姆。
+Is it love?	那是愛嗎？
+It's great.	真是太好了。
+It's night.	是晚上了。
+Just relax.	放松点吧。
+Keep quiet!	保持安静！
+Let him in.	让他进来。
+Let me die.	让我去死。
+Let me see.	让我想一想。
+Let's walk.	我们走走吧。
+Look there.	看那里。
+No comment.	禁止评论。
+No problem!	没问题！
+No problem.	没关系。
+No problem.	没问题。
+Oh, really?	噢，真的嗎?
+Once again.	再一次。
+She smiled.	她笑了。
+Stand back!	往后站！
+Stay sharp.	保持警惕。
+Stay there.	留在这里别动。
+Step aside.	让开。
+Study hard.	好好学习。
+That hurts.	真疼。
+Time flies.	時光飛逝。
+Tom is shy.	汤姆害羞。
+Tom smiled.	汤姆笑了。
+Tom yawned.	汤姆打哈欠了。
+Turn right.	向右转。
+We laughed.	我们笑了。
+We lost it.	我们失去了它。
+What is it?	這是什麼啊？
+What's new?	有什么新鲜事吗？
+Where am I?	我在哪裡？
+Where am I?	這是什麼地方?
+Who are we?	我們是誰？
+Wood burns.	木材燃燒。
+Are we done?	我们完成了吗？
+Are you Tom?	你是汤姆吗？
+Are you mad?	您生气了吗？
+Are you mad?	你生气了吗？
+Are you sad?	你傷心嗎？
+Be friendly.	友好点。
+Break it up!	停手！
+Can you see?	你能看吗？
+Count me in.	算我一个.
+Do as I say.	按我說的做。
+Don't leave!	別走！
+Don't panic!	不要恐慌！
+Don't shout.	不许大叫。
+Don't worry.	別擔心。
+Don't worry.	别擔心。
+Get serious.	认真点。
+He is alone.	他獨自一人。
+He is drunk.	他醉了。
+He's strong.	他很強壯。
+Here we are!	我們到了！
+Here, catch!	这里，快抓住。
+How are you?	你們好嗎？
+How are you?	你好嗎？
+How curious!	多怪啊！
+How strange!	真奇怪。
+I am coming.	我來了。
+I buy tapes.	我買磁帶。
+I can't say.	我不能说。
+I don't lie.	我不說謊。
+I eat bread.	我吃面包。
+I feel cold.	我觉得冷。
+I feel fine.	我感觉很好。
+I feel weak.	我感到虚弱。
+I have time.	我有时间。
+I heard you.	我聽你的。
+I like fish.	我喜欢鱼。
+I like jazz.	我喜歡爵士樂。
+I live here.	我住在這。
+I need glue.	我需要胶水。
+I overslept.	我睡过头了。
+I said that.	我是那樣說的。
+I smell gas.	我聞到瓦斯味。
+I trust him.	我信任他。
+I trust you.	我信任你。
+I want more.	我想要更多。
+I was wrong.	我搞错了。
+I will obey.	我会听从指示。
+I will wait.	我會等。
+I work here.	我在這裡工作。
+I'll attend.	我會參加。
+I'll get in.	我會進去。
+I'm 17, too.	我也是17岁。
+I'm a loser.	我是個不成器的人。
+I'm at home.	我在家。
+I'm curious.	我很好奇。
+I'm married.	我结婚了。
+I'm married.	我已婚。
+I'm reading.	我在读书。
+I'm serious.	我是認真的。
+I'm thirsty.	我渴了。
+Is Tom well?	汤姆还好吧？
+Is it yours?	这是你的吗？
+It can't be!	这不可能！
+It can't be!	不可能！
+It's my job.	這是我份內的事。
+Just say no.	只要說不。
+Keep trying.	继续努力。
+Let me know.	讓我知道。
+Let's begin.	讓我們開始吧。
+Let's leave.	走吧。
+Let's start!	讓我們開始吧。
+Life is fun.	人生是有趣的。
+Look around.	四处看看。
+Lunch is on.	午餐送到了。
+Many thanks.	非常感谢！
+Money talks.	金钱万能。
+Nice timing.	好时机。
+No one came.	没有人来了。
+OK. I agree.	好。我同意。
+Please come.	请来吧。
+Please sing.	请唱歌。
+Release him.	放开他。
+She hit him.	她打了他。
+Stand aside.	一边站着。
+Step inside.	进来。
+That's life.	這就是生活。
+That's life.	人生就是如此。
+That's true.	這是真的。
+They hugged.	他们拥抱。
+They kissed.	他们亲吻了。
+This is ice.	這是冰塊。
+Tom blushed.	汤姆脸红了。
+Tom frowned.	湯姆皺著眉頭。
+Tom got fat.	汤姆变胖了。
+Tom saw you.	湯姆看見你了。
+Tom'll wait.	湯姆會等。
+Tom's wrong.	湯姆錯了。
+Turn around.	转过来。
+Was I wrong?	我错了吗？
+We are boys.	我們是男孩。
+We are late.	我們遲到了。
+We both won.	我們都贏了。
+We can rest.	我们可以休息。
+We know him.	我們認識他。
+We love Tom.	我们爱汤姆。
+We want Tom.	我们想要汤姆。
+What a pity!	太可惜了！
+What a pity!	多遗憾啊！
+What is new?	有什么新鲜事吗？
+What's that?	那是什么？
+What's this?	這是什麼啊？
+What's this?	那是什么？
+Who are you?	你是誰？
+Who drew it?	誰畫的？
+Who is that?	那是谁？
+Whose is it?	这是谁的？
+Wood floats.	木头会漂浮。
+Work slowly.	干活慢点。
+You're sick!	你有病！
+Anything new?	有什么新鲜事吗？
+Are you busy?	你忙嗎？
+Are you lost?	您迷路了吗？
+Are you lost?	你迷路了吗？
+Are you sure?	你确定吗？
+Be realistic!	现实点！
+Bring him in.	带他进来。
+Call Tom now.	现在给汤姆打电话。
+Can we do it?	我们能做到吗？
+Can you come?	你能來嗎？
+Can you read?	你能閱讀嗎？
+Can you swim?	你會游泳嗎?
+Did you call?	你打過電話了嗎？
+Do you smoke?	你吸烟吗?
+Do your best.	盡力而為。
+Don't be shy.	不要害羞。
+Don't bother.	不用麻烦了。
+Don't bug me.	别来烦我。
+Drive safely.	安全地駕駛。
+Drive slowly.	开车慢点。
+Ghosts exist.	鬼魂是存在的。
+Give it back.	还回去
+Good evening.	晚上好。
+Good evening.	晚上好！
+Good morning.	早上好！
+He got angry.	他生气了。
+He has a car.	他有辆车。
+He likes tea.	他喜歡茶。
+He loves her.	他愛她。
+He was brave.	他很勇敢。
+He's out now.	他现在出去了。
+How annoying!	真烦人。
+How dare you!	你敢！
+How horrible!	真糟糕！
+I admire you.	我欣赏你。
+I almost won.	我几乎赢了。
+I am at home.	我在家。
+I am curious.	我很好奇。
+I am married.	我结婚了。
+I am praying.	我在祈禱。
+I am thirsty.	我渴了。
+I ate caviar.	我吃了魚子醬。
+I called Tom.	我給湯姆打了電話。
+I don't care.	我无所谓。
+I have a car.	我有一辆车。
+I have a dog.	我有一条狗。
+I have a map.	我有一張地圖。
+I like these.	我喜欢这些。
+I love music.	我爱音乐。
+I missed you.	我想你。
+I see a book.	我看到一本書。
+I understand.	我明白了。
+I want a dog.	我想要一隻狗。
+I'll sue you.	我要告你。
+I'm all ears.	我洗耳恭聽。
+I'm free now.	我现在有空了。
+I'm innocent.	我是清白的。
+I'm new here.	我是新來的。
+I'm not sure.	我不确定。
+I'm pregnant.	我怀孕了。
+I'm so happy.	我好高興。
+I'm so tired.	我好累。
+I'm starving!	我饿死了！
+I'm starving!	我餓死了！
+I'm the best.	我是最好的。
+I'm thrilled.	我激動不已。
+I've decided.	我決定了。
+Is that love?	那是愛嗎？
+Is that true?	真的？
+It's amazing.	太神奇了。
+It's obvious.	它是明顯的。
+It's raining.	下雨了。
+It's raining.	在下雨。
+It's snowing.	正在下雪。
+It's so hard.	太难了。
+It's too big.	它太大了。
+Keep looking.	繼續看！
+Keep reading.	继续看。
+Keep working.	繼續工作！
+Let me think.	讓我想一想。
+Let's go now.	我们现在去吧。
+Life goes on.	人生會繼續。
+Mary came in.	瑪麗進來了。
+Mary is tall.	瑪麗很高。
+May I go now?	我现在能去了吗？
+Move quietly.	轻轻地移动。
+My eyes hurt.	我的眼睛痛。
+No one knows.	沒有人知道。
+Nobody asked.	没人问过。
+Open the box.	打開箱子。
+Please hurry.	请抓紧时间。
+Please leave.	請你離開。
+See you soon!	一会儿见！
+See you then.	到時候見。
+Shame on you!	你真丢脸！
+Shame on you.	你真丢脸！
+She is quiet.	她很安静。
+She is upset.	她心情不好。
+She may come.	她可以來。
+She may come.	她也許來。
+Someone came.	有人来了。
+Stop gawking.	别再傻看着。
+Stop reading.	别再念了。
+Stop staring.	别再盯着了。
+Stop talking.	不要说话了。
+Stop whining.	别再埋怨了。
+Stop yelling!	别再喊叫了！
+Sweet dreams!	祝你好梦。
+Take it easy.	放輕鬆。
+Take it easy.	別緊張。
+Take me home.	带我回家。
+Tell us more.	告訴我們多一點。
+That is mine.	那是我的。
+That's crazy.	那是瘋狂的。
+That's great.	那真是太好了。
+That's right.	对！
+They refused.	他們拒絕了。
+This is mine.	这是我的。
+This is true.	這是真的。
+Tom followed.	汤姆跟着。
+Tom is clean.	湯姆是干净的。
+Tom is happy.	湯姆高興。
+Tom knows me.	Tom認識我。
+Tom sat down.	汤姆坐下了。
+Tom told him.	汤姆告诉了他。
+Tom was full.	汤姆饱了。
+Tom, wake up.	汤姆，快起来！
+Try it again.	再試一次。
+Unbelievable!	難以置信!
+Unbelievable!	难以置信！
+Vote for Tom.	投票給湯姆。
+Wait and see.	走著瞧
+We are happy.	我們很快樂。
+We can begin.	我們能開始。
+We need more.	我們需要更多。
+We succeeded.	我们成功了。
+We surrender.	我們投降。
+We're hiding.	我们在藏着。
+Welcome back.	欢迎回来。
+What is love?	愛是什麼？
+What is that?	那是什么？
+What is this?	這是什麼啊？
+Who built it?	这是谁建的？
+Who was here?	谁来了这里？
+Years passed.	多少年过去了。
+Anything else?	还有别的吗？
+Are you angry?	您生气了吗？
+Are you angry?	你生气了吗？
+Are you happy?	你快樂嗎？
+Are you ready?	您准备好了吗？
+Are you ready?	你们准备好了吗？
+Are you ready?	你准备好了吗？
+Are you tired?	你累了嗎?
+Bring the key.	帶鑰匙來。
+Call security!	叫保安来！
+Can you skate?	你会溜冰吗？
+Check, please.	請結帳。
+Don't give up!	不要放棄!
+Draw a circle.	画一个圈。
+Flowers bloom.	鮮花盛開。
+He can't swim.	他不會游泳。
+He is a thief.	这是一个小偷。
+He is at home.	他在家裡。
+He is my type!	他是我的菜!
+He is no fool.	他不是傻子。
+He is no fool.	他没疯。
+He is out now.	他现在出去了。
+He isn't home.	他不在家。
+He lied to us.	他欺騙了我們。
+He sells cars.	他賣車子。
+He shot at me.	他槍擊了我。
+He tries hard.	他努力地嘗試。
+He wants more.	他想要更多。
+He's not home.	他不在家。
+How about you?	你怎麼樣？
+How about you?	那你呢?
+How about you?	你們呢？
+How about you?	您呢？
+How beautiful!	多美啊！
+I am divorced.	我离婚了。
+I am very sad.	我很难过。
+I approved it.	我同意它。
+I believe you.	我相信你。
+I believe you.	我信过你。
+I can see Tom.	我看得见汤姆。
+I can't do it.	我無法做到這一點。
+I despise you.	我鄙视你。
+I did my best.	我做得好到不能再好了。
+I did see him.	我确实看见他了。
+I didn't pass.	我没通过。
+I feel lonely.	我觉得很孤独。
+I got it free.	我是免費得到的。
+I have a home.	我有一个家。
+I have an egg.	我有一只蛋。
+I have to win.	我必须赢。
+I like sports.	我喜歡運動。
+I like sweets.	我喜歡甜食。
+I like to eat.	我喜歡吃。
+I like to run.	我喜欢跑步。
+I love coffee.	我愛咖啡。
+I love movies.	我愛電影。
+I love nature.	我愛大自然。
+I love sports.	我喜歡運動。
+I miss Boston.	我想念波士頓。
+I must go now.	我現在必須走了。
+I need to try.	我需要尝试。
+I respect Tom.	我尊敬湯姆。
+I think I can.	我想我可以。
+I use Twitter.	我用Twitter。
+I want to cry.	我想哭。
+I want to die.	我想死
+I was at home.	我刚才在家。
+I was so cold.	我很冷。
+I'll buy this.	我要買這個。
+I'll call you.	我会打电话给你。
+I'll eat here.	我會在這裡吃飯。
+I'll take him.	我会去接他的。
+I'm a teacher.	我是個老師。
+I'm exhausted.	我累死了。
+I'm exhausted.	困死了。
+I'm on a diet.	我在節食。
+I'm on my way.	我这就上路。
+I'm so stupid.	我真蠢。
+I'm very busy.	我很忙。
+I've got time.	我有时间。
+I've got wine.	我有酒。
+Is it serious?	严重吗？
+It is raining.	下雨了。
+It is raining.	在下雨。
+It looks good.	看起来不错。
+It might rain.	可能会下雨。
+It might rain.	可能要下雨了。
+It's a secret.	它是個秘密。
+It's business.	公事公辦。
+It's freezing.	天氣好冷。
+It's improved.	它有改善了。
+It's my treat.	我請客。
+It's not mine.	不是我的。
+It's too long.	它太長了。
+It's too loud.	它太大聲。
+It's very big.	它很大。
+Keep Tom safe.	确保汤姆安全。
+Keep it quiet.	保持安静
+Let me see it.	讓我看看。
+Lock the gate.	鎖大門。
+May I come in?	我可以進來嗎?
+Meet me there.	在那裡見我。
+My foot hurts.	我的脚痛。
+My pen is new.	我的钢笔是新的。
+Never give up.	决不放弃。
+Pace yourself.	量力而行。
+Quit gambling.	戒掉赌博吧。
+Read this now.	现在读这个。
+Save yourself.	拯救你自己。
+See you again.	再见！
+See you later.	再见。
+Shake my hand.	和我握手。
+Shall we walk?	我们该步行吗？
+She felt blue.	她感到闷闷不乐的。
+She hated him.	她恨他。
+She loves Tom.	她愛湯姆。
+She's dieting.	她在节食中。
+She's my type.	她是我的菜。
+Shut the door.	不要把门开着。
+Shut the door.	关门。
+Sit beside me.	坐我旁边。
+Speak clearly.	講清楚。
+Stir the soup.	搅一下汤。
+Stop meddling.	别再插手。
+Stop shooting.	停止射击。
+Straighten up.	改邪归正。
+Stuff happens.	事情难免会发生。
+Tell me again.	重新告訴我。
+Thanks anyway.	还是要说谢谢的。
+That's a book.	那是一本書。
+The bell rang.	铃响了。
+They're armed.	他們有帶武器。
+This is a wig.	这是假发。
+Time is money.	时间就是金钱。
+Today was fun.	今天很有趣。
+Tom came back.	湯姆回來了。
+Tom didn't go.	汤姆没走。
+Tom is a hick.	汤姆是个乡巴佬。
+Tom is absent.	湯姆缺席。
+Tom is boring.	汤姆是个无聊的人。
+Tom is so hot.	汤姆非常性感。
+Tom isn't old.	湯姆不老。
+Tom knows him.	湯姆認識他。
+Tom loves you.	汤姆爱你。
+Tom overslept.	汤姆睡过头了。
+Tom runs fast.	汤姆跑得快。
+Tom was fired.	湯姆被解僱了。
+Wait a moment.	請稍等。
+We kept quiet.	我们保持了沉默。
+We like music.	我們喜歡音樂。
+We missed you.	我們想你。
+We need money.	我們需要錢。
+We understand.	我们明白。
+We want candy.	我們想要糖。
+We'll be busy.	我們會很忙。
+We'll do that.	我們會去做。
+We're worried.	我们很担心。
+We've arrived.	我們已經到了。
+Where are you?	你在哪儿?
+Who helps her?	谁帮帮她？
+Whose is this?	这是谁的？
+Why blame Tom?	为什么责备汤姆？
+You are lying.	你在撒谎。
+You are sharp.	你很聰明。
+You could run.	你能跑。
+You look pale.	你看起來很蒼白。
+You should go.	你應該去。
+You should go.	你最好去。
+You will fail.	你會失敗。
+You work hard.	你工作努力。
+You're joking!	你在開玩笑吧！
+You're so bad.	你真壞。
+A bird can fly.	鸟会飞。
+Allow me to go.	請允許我去。
+Are you crying?	你在哭嗎？
+Aren't you Tom?	你不是湯姆嗎?
+Aren't you Tom?	你不是湯姆嗎？
+Aren't you hot?	你不热吗？
+Be nice to her.	对她好点。
+Birds lay eggs.	鳥下蛋。
+Boil the water.	把水燒開。
+Bring it to me.	把它带给我。
+Can I eat this?	我可以吃这个吗?
+Can I help you?	我能幫你嗎？
+Can I sit here?	我能坐这里吗？
+Clean the room.	打掃房間。
+Close the door.	关门。
+Coffee, please.	我要咖啡，谢谢。
+Deal with them.	解决他们。
+Do we know you?	我们认识你么？
+Do you know me?	你认识我吗？
+Do you know me?	你还认识我吗？
+Do you like it?	你喜欢吗 ?
+Do you like it?	你喜歡嗎？
+Do you miss me?	你想我了？
+Do you miss me?	你想我吗？
+Do you promise?	你保证吗？
+Don't touch it.	別碰它。
+Everybody lies.	每个人都会说谎。
+Foxes eat hens.	狐狸吃母鸡。
+Get out of bed!	起床!
+Good afternoon.	下午好。
+Happy New Year!	新年快樂！
+Have some more.	你該多吃點。
+He accelerated.	他提速了。
+He cannot swim.	他不會游泳。
+He confused us.	他把我們弄糊塗了。
+He doesn't lie.	他不说谎。
+He held a ball.	他举办了一场舞会。
+He is American.	他是美国人。
+He lives alone.	他一个人生活。
+He lives alone.	他独自生活。
+He looks young.	他看起来很年轻。
+He lost a book.	他弄丟了一本書。
+He sang a song.	他唱了一首歌。
+He was drowned.	他被淹死了。
+He was drowned.	他溺水而亡。
+He's a big boy.	他是個大男孩。
+He's an author.	他是作家。
+Here is a book.	這裡有一本書。
+How much is it?	它多貴?
+How much is it?	多少錢?
+How's it going?	你們好嗎？
+I am Hungarian.	我是匈牙利人。
+I am a teacher.	我是個老師。
+I am exhausted.	我累死了。
+I am off today.	我今天休息。
+I am too short.	我太矮了。
+I believed you.	我相信了你。
+I borrow money.	我借錢。
+I broke my arm.	我的手臂斷了。
+I don't get it.	我不懂。
+I go to school.	我去学校。
+I got arrested.	我被逮捕了。
+I got up early.	我起床早。
+I had a vision.	我有一个设想。
+I had a vision.	我有一个愿景。
+I hate Mondays.	我讨厌星期一。
+I have a cough.	我咳嗽。
+I have a dream.	我有一个梦想。
+I have hiccups.	我打嗝了。
+I have no time.	我没时间。
+I hiccup a lot.	我经常打嗝。
+I like flowers.	我喜歡花。
+I like jogging.	我喜欢跑步。
+I like reading.	我喜欢阅读。
+I like running.	我喜欢跑步。
+I like to read.	我喜欢阅读。
+I love my life.	我爱我的生活。
+I love my life.	我爱我的生命。
+I love my wife.	我爱我的妻子。
+I love parties.	我愛派對。
+I met a friend.	我遇见一个朋友。
+I need a stamp.	我需要一張郵票。
+I need it ASAP.	我尽快需要。
+I need my coat.	我需要我的大衣。
+I need to know.	我需要知道。
+I often hiccup.	我经常打嗝。
+I said shut up!	我说过了，闭嘴！
+I saw five men.	我看到了五個男人。
+I should do it.	我应该去做。
+I study Korean.	我学韩语。
+I was a doctor.	我以前是醫生。
+I was learning.	我在學習。
+I will sue you.	我要控告你。
+I'd like to go.	我想要去。
+I'll alert Tom.	我会警告汤姆。
+I'll come back.	我会回来的。
+I'll scold him.	我會責備他。
+I'll see to it.	我會留意的。
+I'll see to it.	由我来做.
+I'll stay home.	我會待在家裡。
+I'll treat you.	我請你。
+I'm a free man.	我是一個自由的人。
+I'm a good guy.	我是一个好人。
+I'm behind him.	我在他後面。
+I'm free today.	我今天有空。
+I'm from Tokyo.	我来自东京。
+I'm not greedy.	我不貪婪。
+I'm not guilty.	我没有罪。
+I'm so excited.	我很激动。
+I'm undressing.	我脱衣服。
+I'm very happy.	我很快樂。
+I'm very happy.	我很快乐。
+I've seen that.	我見過。
+Is he Japanese?	他是日本人吗？
+Is that better?	那更好吗？
+Isn't it black?	它不是黑色的嗎？
+It is so early.	太早了。
+It is too late.	太晚了。
+It makes sense.	那样说得通。
+It took months.	它花了几个月。
+It's brand new.	这是全新的。
+It's dangerous!	它是危險的!
+It's not funny.	这不好笑。
+It's our fault.	它是我們的錯誤。
+It's the truth.	这是事实。
+It's too large.	它太大了。
+It's up to you.	这就要看您了。
+It's up to you.	由你來決定。
+It's very cold.	非常冷。
+It's well done.	做得很好。
+It's your book.	它是你的書。
+It's your move.	該你走了。
+Keep listening.	继续听。
+Let me do that.	让我去做。
+Let us go home.	让我们回家吧。
+Let's just eat.	我們吃吧。
+Listen to this.	聽聽這個。
+May I use this?	我可以用嗎？
+My name is Tom.	我叫Tom。
+Now I remember.	现在我想起来了。
+Please come in.	請進來。
+Please do that.	麻煩您那樣做。
+Please help me.	請幫助我。
+Please help me.	請幫我。
+Please join us.	請加入我們。
+Please tell me.	請告訴我。
+Please wash it.	请清洗它。
+Prices went up.	物價上漲。
+Read this book.	看这本书。
+Say it clearly.	說清楚。
+Science is fun.	科學好玩。
+See you around.	再见！
+She fooled him.	她愚弄了他。
+She grew roses.	她種了玫瑰。
+She might come.	她也許會來。
+She seems rich.	她看來有錢。
+Smoke appeared.	烟雾出现了。
+Someone called.	有人打電話來。
+Stop grumbling.	停止发牢骚吧。
+Stop resisting!	停止抵抗！
+Take your time.	你可以慢慢来。
+That's a shame.	那是一個恥辱。
+That's logical.	那符合逻辑。
+That's my coat.	那是我的大衣。
+That's perfect.	那是完美的。
+That's too bad.	多遗憾啊！
+That's too bad.	那太糟糕了。
+The birds sang.	鳥兒歌唱。
+The flag is up.	旗子升起了。
+The phone rang.	電話正在響。
+Their eyes met.	他們目光相接。
+These are pens.	這些是筆。
+They hated Tom.	他們恨湯姆。
+They have jobs.	他們有工作。
+They let me go.	他們讓我走。
+They love that.	他们喜欢那个
+They trust Tom.	他们信任汤姆。
+They want more.	他們想要更多。
+They want this.	他們想要這個。
+They were good.	他们不错。
+This is a book.	这是一本书。
+This is my bag.	那是我的包。
+Tom can change.	湯姆能改變。
+Tom can't swim.	汤姆不会游泳。
+Tom has a plan.	湯姆有個計畫。
+Tom is a rabbi.	汤姆是个拉比。
+Tom isn't dumb.	汤姆不傻。
+Tom looks pale.	湯姆看起來很蒼白。
+Tom walked out.	湯姆走了出去。
+Tom's fearless.	汤姆无所畏惧。
+Tom's laughing.	汤姆在笑。
+Tom's thrilled.	汤姆兴奋不已。
+Treat him well.	對他好一點。
+Turn on the TV.	开电视。
+Turn up the TV.	把电视声音调大点儿。
+Was Tom asleep?	汤姆睡着了吗？
+Wash your feet.	洗您的脚。
+Wash your feet.	洗你的脚。
+Watch yourself.	自己当心啊。
+We forgive you.	我們原諒你。
+We knew no one.	我們誰也不認識。
+We study music.	我们学习音乐。
+We're a family.	我們是個家庭。
+We're not late.	我们没迟到。
+Well, let's go.	好吧，我們走吧。
+Were you right?	你是对的吗？
+What about you?	你們呢？
+What about you?	您呢？
+What do you do?	你的職業是什麼?
+What's her job?	她做什么工作？
+Where do we go?	我们去哪儿？
+Where were you?	之前你在哪里？
+Who's that guy?	那家伙是谁？
+Why do you ask?	你問這個幹什麼?
+Why is he here?	为什么他在这儿？
+Wipe your eyes.	擦擦你的眼睛。
+Yes, I know it.	是的，我知道。
+Yes, of course.	是的，當然。
+You look bored.	你看起來很無聊。
+You look tense.	你看起来很紧张。
+You look tired.	你看起來很疲倦。
+You must do it.	你必須去做。
+You'll love it.	你會愛它。
+You're kidding!	你開玩笑吧！
+Are you over 18?	你有18歲了嗎？
+Are you serious?	你是认真的吗？
+Are you thirsty?	你渴吗？
+Balls are round.	球是圆的。
+Be happy for me.	为我感到高兴吧。
+Behave yourself.	规矩点。
+Black suits you.	黑色很衬你。
+Boil some water.	烧一点水。
+Call the police!	叫警察！
+Call the police!	报警！
+Call the police.	报警！
+Can you find it?	你能找到它嗎？
+Clean your room.	清掃你的房間。
+Close your eyes.	闭上你的眼睛。
+Close your eyes.	闭上你们的眼睛。
+Come if you can.	如果你能就來吧。
+Congratulations!	祝贺你。
+Congratulations!	恭喜！
+Could you do it?	你能做到嗎？
+Count to thirty.	数到三十。
+Did Tom say who?	汤姆说是谁了吗？
+Did you like it?	你以前喜欢吗？
+Did you miss me?	你想我了？
+Do you go often?	您经常去吗？
+Do you have one?	你有嗎？
+Do you know him?	你认识他吗?
+Do you like rap?	你喜欢说唱音乐吗？
+Do you remember?	你记得吗？
+Does love exist?	愛存在嗎？
+Don't be fooled.	別被騙了。
+Don't bother me.	别来烦我。
+Don't forget me.	別忘了我。
+Don't open that.	别打开那个。
+Don't run risks.	不要冒险。
+Don't tell lies.	别说谎!
+Drive carefully.	开车小心点。
+Get out of here.	離開這裡。
+Give Tom a hand.	幫湯姆一把。
+Give it to them.	把它给他们。
+Go to the patio.	去露台。
+Green suits you.	綠色適合你。
+Have a nice day.	祝你一天过得愉快。
+He acts quickly.	他行动迅速。
+He began to cry.	他开始哭了。
+He is my father.	他是我父親。
+He is very kind.	他非常親切。
+He is very tall.	他很高。
+He just arrived.	他刚到。
+He looks strong.	他看起來很強壯。
+He loves trains.	他喜歡火車。
+He pressured me.	他向我施压。
+He studied hard.	他努力學習。
+He tends to lie.	他企图说谎。
+He tires easily.	他很容易觉得累。
+He was very old.	他很老。
+He will survive.	他會倖存。
+He's a comedian.	他是喜剧演员。
+He's a good guy.	他是個好人。
+He's a good lad.	他是個好人。
+He's a good man.	他是个好人。
+He's a good man.	他是個好人。
+He's a tall boy.	他是一个高大的男孩。
+He's not a hero.	他不是英雄。
+He's not stupid.	他不是傻子。
+He's very angry.	他非常生气。
+Here's your tea.	这是你的茶。
+Hi! How are you?	嗨！你好嗎？
+His word is law.	他的话就是命令。
+How do you feel?	你感觉如何？
+How do you know?	我怎麼知道？
+How is everyone?	大家好嗎？
+How is it going?	你們好嗎？
+How old are you?	你幾歲?
+How rude of you!	你真粗魯！
+How unfortunate!	可憐!
+How's the apple?	這個蘋果怎麼樣？
+I ache all over.	我全身酸痛。
+I am a good boy.	我是一个好男孩。
+I am from China.	我是从中国来的。
+I am from China.	我来自中国。
+I am in trouble.	我有麻煩了。
+I am in trouble.	我遇到困難了。
+I ate the apple.	我吃了這個蘋果。
+I baked cookies.	我烤了曲奇。
+I began running.	我開始跑。
+I booked a seat.	我訂了一個位子。
+I bought a book.	我買了一本書。
+I called Tom up.	我打電話給湯姆了。
+I called her up.	我叫她起来。
+I can swim well.	我游泳可以游得很好。
+I can't see you.	我看不見你。
+I can't undo it.	我不能取消它。
+I don't want it.	我不要.
+I feel relieved.	我感觉轻松了。
+I get up at six.	我六點起床。
+I had no choice.	那时我没有选择的余地。
+I hate studying.	我讨厌学习。
+I have brothers.	我有兄弟。
+I have ten pens.	我有十支筆。
+I have to hurry!	我要赶紧了!
+I have two cats.	我有两只猫。
+I have two sons.	我有兩個兒子。
+I just threw up.	我剛才吐了。
+I lent him a CD.	我借给他一盘CD。
+I like Tom, too.	我也喜歡湯姆。
+I like eggplant.	我喜歡茄子。
+I like football.	我喜歡足球。
+I like potatoes.	我喜歡土豆。
+I like the cold.	我喜歡寒冷。
+I like this dog.	我喜欢这只狗。
+I like your car.	我喜欢您的车。
+I lived in Rome.	我住在羅馬。
+I love this car.	我愛這台車。
+I might say yes.	我可能会说是。
+I must help her.	我必須幫助她。
+I need a friend.	我需要个朋友。
+I need evidence.	我需要證據。
+I need you here.	我需要你在這裡。
+I paid the bill.	我买了单。
+I played tennis.	我打網球了。
+I run every day.	我每天跑步。
+I speak Swedish.	我说瑞典语。
+I talked to her.	我跟她谈了话。
+I teach Chinese.	我教中文。
+I think it's OK.	我想沒關係。
+I took a shower.	我洗了澡。
+I want a guitar.	我想要一把吉他。
+I want that bag.	我想要那個袋子。
+I want to drive.	我想開車。
+I was surprised.	我吃惊了。
+I wish you'd go.	我希望你去。
+I woke up early.	我起得早。
+I work too much.	我工作得太多了。
+I'll bring wine.	我会带酒来。
+I'll never stop.	我絕不會停。
+I'm a foreigner.	我是一個外國人。
+I'm a night owl.	我是個夜貓子。
+I'm about ready.	我快好了。
+I'm always here.	我一直在這裡。
+I'm daydreaming.	我在做白日梦。
+I'm feeling fit.	我覺得精神很好。
+I'm left-handed.	我是左撇子。
+I'm not serious.	我不是认真的。
+I'm out of time.	我没时间了。
+I'm pretty busy.	我挺忙。
+I'm really busy.	我真的好忙。
+I'm really cold.	我真的冷。
+I'm still angry.	我还饿着呢。
+I'm very hungry.	我很餓。
+I'm very lonely.	我很寂寞。
+I've had enough.	我已經受夠了。
+I've had enough.	我已經吃飽了。
+Is Tom Canadian?	Tom是加拿大人嗎?
+Is he breathing?	他在呼吸嗎?
+Is it all there?	全都在那裡嗎？
+Is it too salty?	还有多余的盐吗？
+Is she Japanese?	她是日本人嗎？
+Is this a river?	這是一條河嗎?
+Isn't that mine?	那是我的吗？
+It is up to you.	由你來決定。
+It snowed a lot.	下了很多的雪。
+It was terrible.	真糟糕。
+It was very far.	它很遠。
+It'll be cloudy.	天要变多云了。
+It's a dead end.	这是个死胡同。
+It's a new book.	那本書是一本新書。
+It's a nice day.	今天天氣很好。
+It's a surprise.	这是一个惊喜。
+It's almost six.	快要六點了。
+It's already 11.	已经是11点了。
+It's fine today.	今天天气很好。
+It's impossible.	這是不可能的。
+It's lunch time.	午餐時間到了。
+It's okay to go.	你可以走了。
+It's over there.	在那里。
+It's time to go.	該走了。
+It's time to go.	是該離開的時候了。
+Jesus loves you.	耶穌愛你。
+Keep on smiling.	保持微笑。
+Keep on working.	繼續工作！
+Keep the change!	不用找零钱了。
+Large, isn't it?	很大, 不是嗎?
+Lemons are sour.	檸檬是酸的。
+Let me go alone.	讓我一個人去。
+Let me see that.	讓我看看。
+Let them decide.	讓他們決定。
+Let's eat sushi.	讓我們吃壽司吧。
+Let's go by bus.	讓我們坐公共汽車去。
+Let's not argue.	我們別吵了。
+Let's turn back.	我们掉头吧！
+Look at the sky.	看天上。
+Look behind you.	瞧你身後。
+Make it smaller.	把它弄小一點。
+May I leave now?	我现在能走了吗？
+May I try it on?	我能试一下吗？
+Maybe next time.	也许下一次吧。
+Men should work.	男人应该工作。
+Merry Christmas!	聖誕快樂。
+Mom, I'm hungry.	妈妈，我肚子饿了。
+My father walks.	我爸爸走路。
+My house is big.	我家很大。
+Never say never.	永远不要说永远。
+No one was late.	没有人迟到。
+No, I didn't go.	不，我沒去。
+Open the bottle.	把瓶子打开。
+Open your mouth!	把嘴张开！
+Please be quiet.	請安靜。
+Please continue.	请继续。
+Please sit down.	請坐下。
+Put your hat on.	戴上你的帽子。
+Say no to drugs.	對毒品說不。
+Scary, isn't it?	嚇人，不是麼？
+See you about 7.	我们7点左右碰头。
+See you tonight.	今晚見。
+She calmed down.	她冷靜下來。
+She disappeared.	她消失了。
+She is graceful.	她举止优雅。
+She looked away.	她轉移了視線。
+She looks young.	她看起来很年轻。
+She lost a book.	她弄丟了一本書。
+She married him.	她嫁给了他。
+She woke him up.	她把他叫醒了。
+She worked hard.	她努力地工作。
+She's my sister.	她是我的姊妹。
+Spring has come.	春天到了。
+That dog is big.	這隻狗很大。
+That feels good.	感觉良好。
+That isn't fair.	這不公平。
+That smells bad.	那不好聞。
+That's not fair.	那是不公平的。
+That's too easy.	那太简单了。
+That's very big.	那是很大的。
+The boy is kind.	他是个好孩子。
+The leaves fell.	叶子落了。
+The light is on.	灯亮着。
+There's no rush.	不急。
+There's no salt.	没有盐。
+They all did it.	他们都做了。
+They are melons.	它们是瓜。
+They sell candy.	他們賣糖果。
+This book's new.	这本书是新的。
+This is my bike.	这是我的自行车。
+This is my book.	这是我的书。
+This is my wife.	这是我的妻子。
+This is the end.	這是結束。
+This is too big.	這個太大了。
+This is typical.	这是典型的。
+This isn't good.	这不好。
+This isn't love.	这不是爱。
+Time for dinner.	吃饭时间到了。
+Tom also talked.	湯姆也說話了。
+Tom did nothing.	汤姆什么都没做。
+Tom disappeared.	汤姆不见了。
+Tom fell asleep.	汤姆睡着了。
+Tom felt hungry.	汤姆觉得饿了。
+Tom hugged Mary.	汤姆拥抱了玛丽。
+Tom is a racist.	汤姆是种族主义者。
+Tom is escaping.	湯姆在逃跑。
+Tom is laughing.	汤姆在笑。
+Tom is swimming.	汤姆在游泳。
+Tom isn't lying.	湯姆沒有說謊。
+Tom lived there.	汤姆住在这里。
+Tom seems tough.	汤姆看来难缠。
+Tom stayed home.	湯姆留在家裡。
+Tom was a nurse.	汤姆是个护士。
+Tom was at home.	汤姆在家的。
+Tom was bullied.	汤姆被欺负了。
+Tom was popular.	汤姆挺受欢迎。
+Tom was sobbing.	汤姆在啜泣。
+Tom wasted time.	湯姆浪費時間。
+Tom wears a wig.	湯姆戴假髮。
+Tom went abroad.	湯姆出國了。
+Turn off the TV.	关闭电视机
+Watch your step.	走路小心。
+Watch your step.	小心脚下。
+We can't escape.	我們逃不出去。
+We have no time.	我们没时间。
+We want to know.	我們想知道。
+We were friends.	我们是朋友。
+We were worried.	我们很担心。
+We're Canadians.	我們是加拿大人。
+We've lost them.	我們失去他們了。
+What a surprise!	太惊喜了!
+What can Tom do?	汤姆能做什么？
+What did he say?	他说了什么？
+What do we want?	我們要什麼？
+What is missing?	少了什么？
+What time is it?	几点了？
+What time is it?	現在幾點？
+What time is it?	幾點了？
+What's happened?	怎么了？
+When can we eat?	我們什麼時候可以吃？
+Where is Manila?	馬尼拉在哪裡？
+Where's my wife?	我的妻子在哪裡？
+Who is this boy?	这个男孩是谁？
+Who likes beans?	谁喜欢豆子？
+Who was playing?	誰在玩？
+Why did we fail?	我們為甚麼失敗了？
+Why did you cry?	你为什么哭？
+Why did you cry?	你為什麼哭？
+Why do that now?	为什么现在做那个？
+Wolves scare me.	狼嚇到了我。
+You can come in.	你可以進來。
+You can tell us.	你能告诉我们。
+You look stupid.	你看上去很傻。
+You must choose.	你必须选择。
+You'd better go.	你最好走。
+You'll get lost.	你会迷路的。
+You're a person.	你是人。
+You're so right.	你真是太對了。
+You're terrible.	你真壞。
+You're very shy.	你很害羞。
+You've been had.	你们被骗了。
+You've been had.	您被骗了。
+Your time is up.	你的時間到了。
+"Look," she said.	“看啊！” 她说道。
+Accidents happen.	事故發生。
+Answer the phone.	接电话。
+Are you Japanese?	你是日本人嗎？
+Are you a doctor?	你是医生吗？
+Are you a wizard?	你是个术士吗？
+Are you busy now?	現在你們忙嗎？
+Are you busy now?	現在您忙嗎？
+Are you finished?	你结束了吗？
+Are you students?	你們是學生嗎？
+Aren't you happy?	你不快樂嗎?
+Ask him his name.	问他一下他的名字。
+Can I rest a bit?	我能休息一会儿吗？
+Can I sleep here?	我能在這裡睡覺嗎？
+Can anyone drive?	有人会开车吗？
+Can you eat this?	这个能吃吗？
+Can you save Tom?	你能救汤姆吗？
+Come with me now.	现在就跟我来。
+Did Spot go, too?	Spot也去了嗎？
+Did you ever try?	你试过吗？
+Did you meet Tom?	你见过汤姆了吗？
+Do as you please.	你可以隨心所欲。
+Do you have a TV?	你有电视吗？
+Do you have kids?	你們有小孩嗎?
+Do you like snow?	你喜欢雪吗？
+Do you live here?	你住這裡嗎?
+Do you need help?	你需要幫助嗎？
+Do you own a gun?	你拥有枪支吗？
+Do you trust her?	你相信她嗎?
+Do you want more?	你想要更多嗎？
+Don't kid around.	別開玩笑了。
+Drink this juice.	喝這果汁。
+Everybody laughs.	每個人都在笑。
+Everybody saw it.	每個人都看見了。
+Everyone noticed.	所有人都注意到了。
+Fight like a man!	像男人一样战斗！
+For what purpose?	為了什麼目的？
+Get off the lawn!	離開草坪!
+Get on the horse.	上马。
+Give Tom a chair.	給湯姆一把椅子。
+Give me the book.	給我這本書。
+Give me the book.	把书给我。
+Go straight home.	直接回家。
+Go up the stairs.	上楼。
+Go when you want.	你想走的时候就走吧。
+He broke the law.	他触犯了法律。
+He can read well.	他能讀得很好。
+He caught a cold.	他着凉了。
+He caught a cold.	他感冒了。
+He died recently.	他最近去世了。
+He has long hair.	他有長頭髮。
+He heard a shout.	他聽到了叫聲。
+He is a tall boy.	他是一个高大的男孩。
+He is an Italian.	他是義大利人。
+He is in trouble.	他有麻烦。
+He is not stupid.	他不是傻子。
+He is still here.	他还在这儿。
+He is very angry.	他非常生气。
+He isn't at home.	他不在家。
+He just got home.	他刚回到家。
+He likes fishing.	他喜歡釣魚。
+He likes hunting.	他喜欢打猎。
+He likes oranges.	他喜欢橙子。
+He loves to fish.	他酷爱钓鱼。
+He must love you.	他一定很愛你。
+He played tennis.	他打了网球。
+He shut the door.	他關上了門。
+He told us a lie.	他對我們說了一個謊。
+He wears glasses.	他戴眼鏡。
+He writes Arabic.	他写阿拉伯文。
+He's at her side.	他在她的旁邊。
+He's new in town.	他刚来这镇上。
+He's your friend.	他是你的朋友。
+Here is your bag.	你的袋子在這裡。
+How are you, Tom?	你好嗎，湯姆？
+How did Tom know?	湯姆怎麼知道？
+How do I sign up?	我怎样报名参加呢？
+How is your wife?	你太太怎么样？
+How long is this?	這有多長？
+How tall are you?	你多高？
+How tall are you?	你多高?
+How was the food?	食物怎麼樣？
+How're you doing?	你們好嗎？
+I agree with him.	我同意他。
+I almost drowned.	我差點被淹死。
+I always eat out.	我總是在外面吃飯。
+I am a bit drunk.	我有點醉了。
+I am eating rice.	我在吃米饭。
+I am not a witch.	我不是巫婆。
+I am not curious.	我不好奇。
+I am your father.	我是你爸爸。
+I believe in you.	我相信你。
+I bet Tom forgot.	我打賭湯姆忘了。
+I bought a watch.	我買了一只手錶。
+I can't hear you.	我聽不到你的聲音。
+I can't meet you.	遇不到你。
+I can't reach it.	我搆不到它。
+I can't remember.	我記不得了。
+I can't remember.	我想不起來。
+I can't stand it.	我不能忍受。
+I collect stamps.	我收集郵票。
+I could see that.	我能看見。
+I couldn't sleep.	我無法入睡。
+I couldn't sleep.	我睡不著。
+I didn't like it.	我没有喜欢过。
+I didn't mean it.	我不是这个意思。
+I didn't see him.	我没见到他。
+I do forgive Tom.	我原谅汤姆。
+I don't doubt it.	我没有疑问。
+I don't know her.	我不認識她。
+I don't like her.	我不喜歡她。
+I don't like tea.	我不喜欢喝茶。
+I don't like you.	我不喜欢你。
+I don't remember.	我不記得了。
+I don't want you.	我不想要你。
+I feel very sick.	我覺得我病得很厲害。
+I had a hard day.	我过了难挨的一天。
+I hate chemistry.	我讨厌化学。
+I have a big dog.	我有条大狗。
+I have a new car.	我有辆新车。
+I have asked him.	我問過他。
+I have no excuse.	我没有借口。
+I have to say no.	我必须拒绝。
+I hope Tom loses.	我希望湯姆輸。
+I know it's hard.	我知道它有困難。
+I like chocolate.	我喜歡巧克力。
+I like pop music.	我喜歡流行音樂。
+I like red roses.	我喜歡紅色的玫瑰。
+I like to travel.	我喜歡旅行。
+I like traveling.	我喜歡旅行。
+I like your city.	我喜欢你们的城市。
+I like your room.	我喜欢你的房间。
+I live near here.	我住在這附近。
+I love this song.	我爱这首歌。
+I made a mistake.	我犯了一個錯。
+I made her angry.	我讓她生氣。
+I made it myself.	我自己做的。
+I miss you badly.	我非常想你。
+I need more time.	我需要更多时间。
+I play in a band.	我在一個樂團裡演奏。
+I still love her.	我仍然爱着她。
+I still love him.	我依旧爱着他。
+I tried to smile.	我試著微笑。
+I want beef, too.	"我也要牛肉。"
+I want much more.	我要多很多。
+I want you to go.	我要你去。
+I want your love.	我要你的愛。
+I wasn't yelling.	我沒有在吼。
+I wrote a letter.	我写了一封信。
+I'll do anything.	我不会做任何事。
+I'll eat it here.	我會在這裡把它吃了。
+I'm able to swim.	我會游泳。
+I'm free tonight.	我今晚有空。
+I'm just looking.	我只是隨便看看。
+I'm not a beggar.	我不是乞丐。
+I'm not a doctor.	我不是醫生。
+I'm not busy now.	我現在不忙。
+I'm not so brave.	我没那么勇敢。
+I'm not the boss.	我不是老闆。
+I'm on your side.	我站在你这边。
+I'm proud of you.	我以你為榮。
+I'm really tired.	我累死了。
+I'm staying home.	我在家裡待著。
+I'm still sleepy.	我还很困。
+I'm very thirsty.	我很渴。
+I've lost my pen.	我弄丟了我的筆。
+If not now, when?	如果不是现在，那是什么时候？
+Is she all right?	她是正确的吗？
+Is that your car?	那是你的車嗎?
+Is the door open?	門開著嗎？
+Is the work hard?	工作困難嗎？
+Is this your car?	這是你的車嗎?
+Is this your pen?	這是你的筆嗎？
+Isn't he Italian?	他不是意大利人吗？
+It began to snow.	开始下雪了。
+It began to snow.	開始下雪了。
+It can't be true.	那不可能是真的。
+It's a clear day.	它是一個晴朗的日子。
+It's a good deal.	这是一笔不错的交易。
+It's a sunflower.	那是一朵向日葵。
+It's frozen hard.	真的很冰冷。
+It's hard to say.	難講喔。
+It's no big deal.	这没什么大不了的。
+It's not a watch.	這不是手錶。
+It's on the sofa.	它在沙發上。
+It's very normal.	它很正常。
+Japan is in Asia.	日本在亚洲。
+Keep the dog out.	别让狗进来。
+Let's discuss it.	来商量吧。
+Let's fly a kite.	讓我們放風箏。
+Let's go indoors.	我們進屋吧。
+Let's take a bus.	讓我們搭公車吧。
+Let's try it out.	我们试试。
+Listen carefully.	仔细听着。
+Listen to me, OK?	聽我說，好嗎？
+Mail this letter.	把这封信寄了。
+Make your choice.	做出您的選擇。
+Mars is a planet.	火星是一顆行星。
+May we swim here?	我们能在这里游泳吗？
+My album is here.	我的相簿在這裡。
+My house is here.	我家在這裡。
+My stomach hurts.	我胃痛。
+Nice to meet you.	很高興認識你。
+No one will talk.	没人会讲。
+No pain, no gain.	一分耕耘，一分收穫。
+Nobody knows why.	沒人知道為什麼。
+Nobody likes war.	没有人喜欢战争。
+Nothing happened.	什麼事都沒有發生。
+Please copy this.	麻煩拷貝這個。
+Please don't ask.	請不要問。
+Please let me go.	請讓我走。
+Please let me go.	請允許我去。
+Put the box down.	把箱子放下。
+She began crying.	她开始哭泣。
+She despised him.	她看不起他。
+She disliked him.	她不喜歡他。
+She is mad at me.	她跟我生气了。
+She kept working.	她不停地工作。
+She put on socks.	她穿上袜子。
+She quit smoking.	她停下來抽煙。
+She was promoted.	她晉升了。
+Someone is lying.	有人說謊。
+Sorry to be late.	對不起我來晚了。
+Summer has ended.	夏天已經結束。
+Swimming is easy.	游泳很容易。
+Tell me about it!	跟我讲讲那件事。
+That is a pencil.	那是一支铅笔。
+That makes sense.	那是有道理的。
+That wasn't nice.	那不好。
+That's avoidable.	那是可避免的。
+That's our house.	那是我們的房子。
+That's the point.	这正是问题的关键。
+That's very rare.	那太稀少了。
+The box is empty.	盒子裡面沒有東西。
+The car is ready.	汽车准备好了。
+The curtain fell.	谢幕了。
+The dog is dying.	這隻狗快要死了。
+The fire was out.	火熄灭了。
+The man is naked.	那人沒穿衣服。
+The sky is clear.	天空很晴朗。
+The storm abated.	风暴减弱了。
+The well ran dry.	這口井乾涸了。
+There were risks.	有風險。
+There's no doubt.	毫无疑问。
+There's no sugar.	没有糖。
+There's no water.	沒有水。
+They aren't dead.	他們沒死。
+They were afraid.	他们害怕了。
+They'll kill you.	他們要殺你。
+They're children.	他们是孩子。
+They're children.	她们是孩子。
+This book is new.	这本书是新的。
+This is Room 839.	这是839号房间。
+This is a pencil.	這是一支鉛筆。
+This is not safe.	这不安全。
+This is the best.	这是最好的。
+This is your dog.	这是你的狗。
+This is your key.	這是您的鑰匙。
+This isn't money.	这不是钱。
+This one's yours.	這個是你的。
+Tom bought a car.	湯姆買了輛車。
+Tom can run fast.	Tom可以跑得很快。
+Tom cannot drive.	湯姆不能開車。
+Tom did it again.	汤姆又做了一次。
+Tom glanced away.	汤姆瞥了一眼就移开目光了。
+Tom has no money.	Tom沒有錢。
+Tom hit a triple.	湯姆擊出三壘安打。
+Tom hurt himself.	湯姆弄傷了自己。
+Tom is a fat man.	湯姆是個胖子
+Tom is a student.	湯姆是個學生。
+Tom is an artist.	湯姆是藝術家。
+Tom is deceitful.	汤姆是个骗子。
+Tom is in danger.	湯姆有危險。
+Tom is my friend.	湯姆是我的朋友。
+Tom is very kind.	汤姆人很好。
+Tom isn't a fool.	汤姆不是傻瓜。
+Tom isn't a hero.	湯姆不是英雄。
+Tom likes it hot.	汤姆喜欢热的。
+Tom lost his job.	湯姆丟了工作。
+Tom saw the file.	湯姆看了文件。
+Tom studies hard.	汤姆努力学习。
+Tom walks slowly.	汤姆走得很慢。
+Tom will do that.	湯姆會做。
+Tom would accept.	湯姆會接受。
+Try it once more.	再試一次。
+Turn off the gas.	把煤气关了！
+Turn to the left.	向左转。
+We accept checks.	我們接受支票。
+We depend on you.	我们可全指望你了。
+We depend on you.	我们可全靠你了。
+We expect to win.	我们打算赢。
+We have two ears.	我們有兩隻耳朵。
+We help the poor.	我們幫助窮人。
+We just moved in.	我們才剛搬進來。
+We live together.	我們住在一起。
+We lost the game.	我们比赛输了。
+We may need some.	我們可能需要一些。
+We need Tom back.	我們需要湯姆回來。
+We never gave up.	我們從不放棄。
+We'd better talk.	我们谈谈比较好。
+We'll meet again.	后会有期。
+We'll stay quiet.	我們會保持安靜。
+We'll talk later.	我们过一会再谈。
+We're all hungry.	我們都餓了。
+We're classmates.	我们是同学。
+We're having fun.	我们在高兴地玩。
+We're in a hurry.	我們很匆忙。
+We're in a hurry.	我們很急。
+We're not stupid.	我們不傻。
+Welcome to Japan.	歡迎到日本。
+What a good idea!	多好的主意啊！
+What did she say?	她说了什么？
+What did she say?	她說了什麼?
+What did you buy?	你買了什麼？
+What do you have?	您有什么？
+What do you know?	你知道什么？
+What do you make?	你做什麼？
+What do you want?	你想要什么？
+What should I do?	我该做什么？
+What woke you up?	什麼吵醒你了?
+What's he hiding?	他在藏甚麼？
+What's she doing?	她在做什麼？
+What's your name?	你叫什么名字？
+What's your name?	您叫什么名字？
+What's your name?	叫什麼名字?
+Where is my book?	我的書在哪？
+Where is my seat?	我的位子在哪儿？
+Where's the boss?	老闆在哪裡？
+Where's your dog?	你的狗在哪里？
+Who decided that?	誰決定了那件事？
+Who found my bag?	誰找到了我的包？
+Who wrote Hamlet?	哈姆雷特是誰寫的？
+Whose turn is it?	輪到誰了？
+Why are you here?	你為什麼在這？
+Why did you quit?	你為什麼辭職？
+Why is he hiding?	他为什么在躲藏？
+Will you join us?	你會參加嗎？
+Winter is coming.	冬季快來了。
+You are blushing.	你脸红了。
+You can't say no.	你无法说“不”。
+You have to move.	你得行動了。
+You need to know.	你有必要了解。
+You shouldn't go.	你不應該去。
+You're impatient.	你缺乏耐心。
+You're in my way.	你擋住了我的路。
+You're no singer.	你不是歌手。
+Am I overreacting?	我反应过度了吗？
+Are they students?	他們是學生嗎？
+Are you all ready?	你們都準備好了嗎?
+Are you happy now?	你现在高兴吗？
+Be nice to others.	对他人要友善。
+Beware of the dog!	小心狗！
+Beware of thieves.	注意小偷。
+Birds build nests.	鸟儿筑巢。
+Call an ambulance.	叫救护车。
+Can I have a bite?	我可以吃一口嗎？
+Can I try this on?	我能试一下吗？
+Can we trust them?	我们能信任他们吗？
+Can you freeze it?	你能冷冻它吗？
+Can you jump rope?	你能跳绳吗？
+Champagne, please.	给我香槟，谢谢。
+Choose one person.	從中選擇一人。
+Christmas is soon.	聖誕節快到了。
+Clean up the room.	收拾房间。
+Come here quickly.	快來這裡。
+Come on, hurry up.	来吧，快一点。
+Come on, let's go.	来吧，我们一起去。
+Come on, touch it.	来吧，摸一下。
+Come on, trust me.	来吧，相信我。
+Could you tell me?	您会告诉我吗？
+Deal us the cards.	發牌給我們。
+Did you borrow it?	你借它了吗？
+Did you buy juice?	你有買果汁嗎？
+Do I need surgery?	我需要做手术吗？
+Do you believe me?	你相信我吗？
+Do you drink beer?	你喝啤酒吗？
+Do you feel lucky?	你觉得幸运吗？
+Do you feel tired?	你覺得累嗎？
+Do you have a car?	你有车吗？
+Do you have a car?	您有车吗？
+Do you have a map?	你有地圖嗎？
+Do you like China?	你喜歡中國嗎？
+Do you like juice?	你喜歡果汁嗎？
+Do you like music?	你喜欢音乐吗？
+Do you like music?	你爱音乐吗？
+Do you love music?	你爱音乐吗？
+Do you understand?	你明白了嗎?
+Don't believe him.	不要相信他。
+Don't let Tom die.	別讓湯姆死了。
+Don't let him run.	別讓他跑。
+Don't let me down.	别让我失望。
+Don't pull my leg!	不要拉我的腿！
+Don't shout at me.	別對著我吼。
+Don't touch these.	不要碰這些。
+Earth is a planet.	地球是一個行星。
+Everybody is fine.	每个人都好。
+Everybody laughed.	大家笑了。
+Everyone knows me.	大家都認識我。
+Everyone was fine.	大家都还行。
+Feel free to stay.	歡迎留下來。
+Get into your car.	进你的车里。
+Give her the book.	把这本书给她。
+God bless America.	上帝保佑美国。
+God is everywhere.	神無處不在。
+Has the bell rung?	钟响过了吗？
+Haste makes waste.	欲速則不達。
+He began to shout.	他開始喊叫。
+He bought a Honda.	他賣了一台豐田的車。
+He came in person.	他亲自来了。
+He came to see me.	他來看我了。
+He can't help you.	他不能幫你。
+He could not swim.	他不能游泳。
+He died yesterday.	他昨天去世了。
+He doesn't listen.	他没听。
+He has a few pens.	他有些鋼筆。
+He has seven sons.	他有七个儿子。
+He has three sons.	他有三个儿子。
+He himself did it.	是他自己做的。
+He is a screwball.	他是一個怪人。
+He is an American.	他是美国人。
+He is at her side.	他在她的旁邊。
+He is but a child.	他不过是个孩子。
+He is watching TV.	他在看电视。
+He likes sleeping.	他喜欢睡觉。
+He made me a suit.	他给我做了套衣服。
+He struck a match.	他劃了一根火柴。
+He studied abroad.	他出国留学了。
+He threw the ball.	他把球扔了。
+He told the truth.	他說了實話。
+He turned the key.	他转动钥匙。
+He will come back.	他会回来的。
+He won everything.	他赢得一切了。
+He wrote a letter.	他写了一封信。
+He's a bit lively.	他有点活泼。
+He's not here yet.	他還沒到這裡。
+He's really angry.	他非常生气。
+Here goes nothing.	毫無希望，白費心思。
+Here is your book.	這是你的書。
+Here's the change.	这是找零。
+How are you doing?	你們好嗎？
+How complex is it?	它有多複雜？
+How should I know?	我怎麼知道？
+How should I know?	我怎麼知道?
+How was your test?	你的测验怎么样？
+How was your trip?	你的旅行怎么样?
+I agreed with her.	我同意她。
+I am a vegetarian.	我是素食主义者。
+I am fond of cars.	我喜歡車。
+I am from Shikoku.	我來自四國。
+I am in the house.	我在家裡。
+I am on the right.	我在右邊。
+I am studying now.	我现在正在学习。
+I bathe every day.	我每天都洗澡。
+I believe in love.	我相信爱情。
+I bought that car.	我買了那輛車。
+I can comfort her.	我可以安慰她。
+I can do it alone.	我可以獨自做。
+I can drive a car.	我会开车。
+I can hardly walk.	我幾乎不能走路。
+I can play Chopin.	我會彈蕭邦。
+I can play soccer.	我會踢足球。
+I can play tennis.	我會打網球。
+I can't stand him.	我受不了他。
+I come from China.	我是从中国来的。
+I didn't feel bad.	我没觉得不好。
+I don't accept it.	我不接受。
+I don't blame you.	我不怪你。
+I don't like eggs.	我不喜欢吃鸡蛋。
+I don't like eggs.	我不喜欢鸡蛋。
+I don't like kids.	我不喜欢小孩。
+I don't like this.	我不喜欢。
+I don't like wine.	我不喜欢红酒。
+I don't regret it.	我不後悔。
+I gave you a book.	我给了你一本书。
+I got a bee sting.	我被蜜蜂蛰了一下。
+I got my hair cut.	我把我的頭髮剪了。
+I got up at seven.	我7点起床了。
+I hate mosquitoes.	我恨蚊子。
+I have a computer.	我有一台电脑。
+I have a daughter.	我有一个女儿。
+I have a headache.	我头痛。
+I have a proposal.	我有個提案。
+I have an opinion.	我有一個意見。
+I have many discs.	我有许多唱片。
+I haven't changed.	我没改变。
+I haven't met her.	我没有遇见她。
+I hope to see you.	我希望能见到你。
+I like jazz music.	我喜歡爵士樂。
+I like short hair.	我喜欢短发。
+I like snow a lot.	我很喜歡雪。
+I like your house.	我喜欢你的房子。
+I like your shoes.	我喜欢你的鞋子。
+I lost my luggage.	我的行李丢了。
+I need many books.	我需要很多書。
+I ripped my pants.	我扯掉了自己的裤子。
+I sat by his side.	我坐在他旁边。
+I saw him running.	我看見了他跑步。
+I saw the sunrise.	我看了日出。
+I should be happy.	我該高興。
+I study at school.	我在学校读书。
+I think I'll stay.	我認我會留下。
+I think I'm right.	我想我是對的。
+I took Highway 58.	我走58號高速公路。
+I tried to escape.	我试图逃跑。
+I usually eat out.	我通常在外面吃饭。
+I want Tom to win.	我想让汤姆赢。
+I want a lot more.	我要多很多。
+I want to go home.	我要回家。
+I was so homesick.	我很想家。
+I went on reading.	我继续阅读。
+I will do my best.	我會盡力而為。
+I wish I could go.	我希望我可以去。
+I woke up at 2:30.	我在2:30起床。
+I won the lottery.	我中奖了。
+I work for a bank.	我為一家銀行工作。
+I work long hours.	我工作數小時。
+I worry about him.	我擔心他。
+I wrote it myself.	我自己写了它。
+I wrote this book.	我写了这本书。
+I'd like to dance.	我想要跳舞。
+I'd wear a helmet.	我要戴頭盔。
+I'll be back late.	我會晚一點回來。
+I'll go by myself.	我會自己走。
+I'll pay the bill.	我來付賬。
+I'll tell my wife.	我會告訴我的妻子。
+I'm a new student.	我是个新生。
+I'm able to speak.	我能说。
+I'm bad at sports.	我不擅長運動。
+I'm being patient.	我很有耐心。
+I'm going to lose.	我要输了。
+I'm not a student.	我不是學生。
+I'm not too smart.	我不太聰明。
+I'm on Tom's side.	我站在湯姆一邊。
+I'm still puzzled.	我還不明白。
+I'm using Twitter.	我在用Twitter。
+Is Tom a good guy?	汤姆是好人。
+Is that pure gold?	那是純金嗎？
+Is the bath clean?	浴室干净吗？
+Is the party over?	聚會結束了嗎？
+Is this your book?	這是你的書嗎？
+It doesn't matter.	没关系。
+It is not a watch.	這不是手錶。
+It is windy today.	今天有风。
+It was our secret.	它是我們的秘密。
+It's a good start.	这是一个好的开端。
+It's all my fault.	都是我的错。
+It's already 7:00.	已经是早上七点了。
+It's confidential.	这是机密。
+It's hot out here.	这里够热。
+It's human nature.	它是人的天性。
+It's my brother's.	它是我兄弟的。
+It's not my fault.	不是我的错。
+It's not that far.	不是那么远。
+It's on the house.	这是免费的。
+It's our pleasure.	这是我们的荣幸。
+It's pretty heavy.	它真重。
+It's self-evident.	這是不證自明的。
+It's time to talk.	到談話的時間了。
+It's very special.	它很特別。
+It's warm in here.	這裡是溫暖的。
+Keep to the right.	靠右侧通行。
+Let's get started.	讓我們開始吧。
+Let's get started.	让我们开始吧。
+Let's get to work.	干活吧。
+Let's play soccer.	去踢足球吧。
+Let's shake hands.	讓我們握手吧。
+Let's take a look.	讓我們看看吧。
+Let's take a rest.	我们休息一下吧。
+Life is beautiful.	生活是美丽的。
+Life is very hard.	人生良苦。
+Long time, no see.	好久不見。
+Long time, no see.	真是好久不见啊
+Look into my eyes.	看著我的眼睛。
+May I put it here?	我可以把它放在这儿吗？
+My father is busy.	我爸爸很忙。
+My laptop crashed.	我的笔记本电脑发生故障了。
+My shoulder hurts.	我肩膀痛。
+My stomach's full.	我的胃是脹滿的。
+My stomach's full.	我吃得很飽。
+No problem at all!	什么问题都没有！
+No problem at all!	一点问题都没有！
+No problem at all!	没有任何问题!
+Pick up the phone.	接一下电话。
+Please contact us.	请联系我们。
+Please forgive me.	请原谅我。
+Please reconsider.	请重新考虑一下。
+Please wrap it up.	請包起來。
+Pretend you're me.	假装你是我。
+Put out the light.	熄灯。
+Put your hands up!	把手举起来！
+Say it in English.	用英语说。
+Shame on you guys.	替你们脸红啊。
+She began to sing.	她开始唱歌了。
+She cursed loudly.	她大声诅咒。
+She didn't go far.	她没有走远。
+She has blue eyes.	她有蓝色的眼睛。
+She likes oranges.	她喜歡柳橙。
+She likes oranges.	她喜欢橙子。
+She looks unhappy.	她看起來不快樂。
+She went upstairs.	她上樓了。
+She wept bitterly.	她痛哭。
+She's in the bath.	她在浴室。
+She's my daughter.	她是我女儿。
+She's not a child.	她不是小孩。
+Should I help you?	我该帮你吗？
+Stop bothering me.	不要烦我。
+Tell me the truth.	告訴我真相。
+That house is big.	那棟房子很大。
+That house is big.	那栋房子很大。
+That is flammable.	那是可燃的。
+That is your book.	那是你的書。
+That was fabulous.	那真是极好的。
+That wasn't funny.	那不好笑。
+That's a pheasant.	那是一隻野雞。
+That's impossible.	这不可能。
+That's my problem.	這是我的問題。
+That's so perfect.	那是完美的。
+The bath is ready.	浴缸已經準備好了。
+The cat is eating.	这只猫在吃东西。
+The clock stopped.	鐘停了。
+The dog went away.	這隻狗跑走了。
+The doorbell rang.	门铃儿响了。
+The market is big.	市場很大。
+The meeting ended.	会议结束了。
+The pain has gone.	疼痛消失了。
+The system worked.	系统运行起来了。
+The truck is gone.	貨車走了。
+The worst is over.	最壞的已經過去了。
+There is a strike.	有罢工。
+There is no water.	沒有水。
+They are at lunch.	他们在吃午饭。
+They are very big.	他們非常大。
+They can't see me.	他們看不見我。
+They like to sing.	他们都喜欢唱歌。
+They were worried.	他们担心。
+They're in danger.	他們有危險。
+This apple is bad.	这个苹果是坏的。
+This book will do.	這本書就行了。
+This could be fun.	這可能很好玩。
+This desk is mine.	這張書桌是我的。
+This is Tom's car.	這是胡安的車。
+This is a miracle.	这是一个奇迹。
+This is delicious.	很美味。
+This is difficult.	这很难。
+This is expensive.	這很貴。
+This is gibberish.	這是胡說。
+This is my mother.	这是我母亲。
+This is so boring.	这太无聊了。
+This is your book.	這是你的書。
+This makes me sad.	這讓我難過。
+Today is Thursday.	今天是礼拜四。
+Tom became a hero.	汤姆成了英雄。
+Tom began talking.	汤姆开始说话。
+Tom couldn't swim.	汤姆不会游泳。
+Tom died recently.	汤姆最近死了。
+Tom gave me a pen.	湯姆給了我一枝筆。
+Tom has blue eyes.	汤姆的眼睛是蓝色的。
+Tom has many cats.	湯姆有很多貓。
+Tom hates spiders.	汤姆恨蜘蛛。
+Tom heard a shout.	汤姆听到了一声喊叫。
+Tom heard nothing.	汤姆什么也没听见。
+Tom helped us all.	湯姆幫了我們。
+Tom is a magician.	汤姆是魔法师。
+Tom is a true man.	汤姆是个真男人。
+Tom is happy here.	湯姆在這裡很高興。
+Tom is overweight.	汤姆超重了。
+Tom is very quiet.	湯姆很安靜。
+Tom isn't unhappy.	汤姆不是不高兴。
+Tom likes to knit.	湯姆喜歡編織。
+Tom lives near me.	湯姆住在我的附近。
+Tom loves flowers.	湯姆熱愛花卉。
+Tom loves to sing.	湯姆愛唱歌。
+Tom made a choice.	汤姆做出了选择。
+Tom robbed a bank.	湯姆搶了家銀行。
+Tom sent me there.	湯姆送我去了那裡。
+Tom shut his eyes.	汤姆闭上了眼睛。
+Tom wants popcorn.	湯姆要爆米花。
+Tom wants to talk.	汤姆想说话。
+Tom was very sick.	汤姆很虚弱。
+Tom wasn't in bed.	湯姆不在床上。
+Tom works at home.	湯姆在家工作。
+Try it once again.	再试一次。
+Turn back, please.	请回来。
+Turn on the radio.	打开收音机。
+Two beers, please.	请来两杯啤酒。
+Use it or lose it.	使用它或失去它。
+Was that too much?	那太多了吗？
+We don't think so.	我们不这样认为。
+We had no secrets.	我們沒有秘密。
+We hope Tom is OK.	我們希望湯姆沒事。
+We may never know.	我们可能永远不知道。
+We must intervene.	我们必须介入。
+We need more food.	我們需要更多食物。
+We need your help.	我們需要你的幫忙。
+We started at six.	我們六點開始。
+We were kids then.	我们那时是孩子。
+We won the battle.	我们战争胜利了。
+We're not looking.	我們沒有看著。
+We're old friends.	我们是老朋友了。
+What did you make?	你做了什么？
+What do you think?	你認為如何?
+What does it mean?	这是什么意思？
+What is your name?	你叫什么名字？
+What is your name?	您叫什么名字？
+What's Tom saying?	湯姆在說甚麼？
+What's for supper?	我们晚饭吃什么？
+What's the matter?	怎么了？
+What's your hobby?	你的爱好是什么？
+When do you close?	你們公司幾點下班?
+When was it built?	它是什麼什麼時候蓋的？
+When was she born?	她是什么时候出生的？
+Where are you now?	你现在在哪里呢？
+Where is Room 105?	105号房间在哪里？
+Where is my watch?	我的手錶在哪裡？
+Where is the bank?	银行在哪里？
+Where is the book?	那本书在哪儿？
+Where is the pain?	哪裡痛？
+Where is your dog?	你的狗在哪儿？
+Where is your dog?	你的狗在哪里？
+Which tooth hurts?	哪顆牙痛？
+Who invented that?	那是谁发明的？
+Whose car is this?	這輛汽車是誰的?
+Whose car is this?	這台汽車是誰的?
+Whose car is this?	這是誰的車？
+Whose fault is it?	是誰的錯呢？
+Whose idea was it?	这是谁的主意？
+Why are you angry?	你为什么生气？
+Why were you late?	你为什么迟到？
+Why would she lie?	她為甚麼要說謊？
+Will you marry me?	你愿意嫁给我吗？
+Will you use this?	你要用這個嗎？
+Yes. That's right.	是的。沒錯。
+You are a student.	你是學生。
+You are a student.	您是學生。
+You are in my way.	你擋住了我的路。
+You are so stupid.	你真傻。
+You got here fast.	你來得很快。
+You have no fever.	你没发烧。
+You have to leave.	你們得走了。
+You have to leave.	你得走了。
+You know too much.	你知道得太多了。
+You made me laugh.	我被你逗乐了。
+You make me happy.	你讓我快樂。
+You may take this.	您可以拿着这个.
+You need to leave.	你必須離開。
+You talk too much.	你說太多了。
+You won't need it.	你不會需要它。
+You work too hard.	你工作太努力了。
+You're very alert.	你真是警惕。
+You're very smart.	你很聪明。
+You've done a lot.	你做了很多。
+Anyone can do that.	任何人都可以做到。
+Are you busy today?	你今天忙吗？
+Are your eyes open?	你睜著眼嗎？
+Be careful with it.	当心它。
+Breakfast is ready.	早饭准备好了。
+Can I see that one?	我能看那個嗎？
+Can I see this one?	我能看看這個嗎？
+Can I use your pen?	我可以用你的筆嗎？
+Can we go back now?	我們現在能回去嗎？
+Can you forgive me?	可以原谅我吗？
+Come along with me.	请跟我来。
+Come along with us.	跟我們一起來吧。
+Come in, it's open.	进来，门开着。
+Come on, try again.	来，再试试看。
+Did you bring them?	你把它们带来了么？
+Did you check this?	你检查这个了吗？
+Do you like apples?	你喜欢苹果吗？
+Do you like school?	你們喜歡學校嗎？
+Do you like school?	您喜歡學校嗎?
+Do you play soccer?	你踢足球嗎?
+Do your gums bleed?	你的牙齦流血嗎？
+Does it hurt a lot?	很痛嗎?
+Don't be terrified.	別被嚇壞了。
+Don't miss the bus.	不要错过公车。
+Don't quit English.	不要放棄英語。
+Don't talk rubbish.	别胡说。
+Don't you think so?	你不这么认为吗？
+Everybody did that.	每个人都做了那事。
+Everybody is alive.	所有人都是活着的。
+Everybody will die.	人固有一死。
+Everyone likes Tom.	大家都喜歡湯姆。
+Everyone was drunk.	所有人都喝醉了。
+Everyone was happy.	每個人都高興。
+Everything matters.	任何事情都是重要。
+Facebook is boring.	Facebook很無聊。
+For here, or to go?	內用還是外帶?
+Give me the number.	把那个号码给我。
+Give me the report.	给我报告。
+Give me your phone.	给我你的手机。
+Go get your helmet.	戴上你的安全帽。
+Have you all eaten?	你們吃飯了嗎？
+He arrived in time.	他及時趕到。
+He asked after you.	他問候了你。
+He called me a cab.	他替我叫了一部計程車。
+He can drive a car.	他會開車。
+He does speak well.	他真的說得很好。
+He found me a taxi.	他帮我打到一辆出租车。
+He gave him a book.	他給了他一本書。
+He got off the bus.	他下了公車。
+He hasn't come yet.	他還沒來。
+He insured himself.	他給自己投了保險。
+He is a bad driver.	他是個糟糕的司機。
+He is on the radio.	他上电台了。
+He is so heartless.	他是这么的无情。
+He killed that man.	他殺死了那個人。
+He lied to my face.	他在我面前撒谎.
+He loves traveling.	他愛旅行。
+He never said that.	他從來沒說過那個。
+He plays very well.	他玩得很好。
+He plays very well.	他弹得很好。
+He raised his hand.	他舉起他的手。
+He returned at six.	他六点回来了。
+He seems to be ill.	他好像病了。
+He set a precedent.	他開了先河。
+He speaks too fast.	他说话太快了。
+He still loves her.	他仍然爱着她。
+He stole her watch.	他偷了她的手表。
+He took a week off.	他休了一周的假。
+He wants affection.	他要愛。
+He was alone there.	他獨自在那裡。
+He went by bicycle.	他骑自行车去的。
+He went by bicycle.	他騎腳踏車去。
+He'll wait for you.	他會等你。
+He's a good person.	他是个好人。
+He's a good person.	他是個好人。
+He's a little pale.	他有点苍白。
+He's a meth addict.	他是个吸毒男。
+He's already a man.	他已经是个男人了。
+He's coming closer.	他在靠近。
+He's in a bad mood.	他心情不好。
+He's my new friend.	他是我新交的朋友。
+Her hair grew back.	她的頭髮長回來了。
+Her skin is smooth.	她的皮膚光滑。
+Her socks are gray.	她的襪子是灰色的。
+Here is my baggage.	这是我的行李。
+How did he find us?	他怎麼找到我們的？
+How does this work?	這是怎麼運行的？
+How is the weather?	天氣怎樣？
+How're you feeling?	你感觉如何？
+I accept the offer.	我接受了报价。
+I agree completely.	我完全同意。
+I almost never lie.	我幾乎從不說謊。
+I am a new student.	我是个新生。
+I am an only child.	我是獨生子。
+I am from Shizuoka.	我來自靜岡。
+I am not a student.	我不是學生。
+I am not a teacher.	我不是個老師。
+I am six feet tall.	我六英尺高。
+I bathe once a day.	我每天洗一次澡。
+I burned the paper.	我燒了紙。
+I can eat anything.	我甚麼都能吃。
+I can wait for you.	我可以等你。
+I can't believe it!	我没法相信！
+I can't drink milk.	我不可以喝牛奶。
+I can't drink milk.	我不能喝牛奶。
+I clapped my hands.	我拍手。
+I didn't mean that.	我沒有那個意思。
+I didn't want this.	我不想要這個。
+I don't have a car.	我沒有汽車。
+I don't have a cat.	我没有猫。
+I don't like sushi.	我不喜欢寿司。
+I don't smoke weed.	我不吸大麻。
+I don't understand.	我不懂。
+I don't understand.	不明白。
+I dreamt about you.	我梦到你了。
+I drive everywhere.	我去哪里都开车。
+I expect your help.	我期待你的幫助。
+I feel comfortable.	我感觉很舒服。
+I feel like a rest.	我想休息一下。
+I feel like crying.	我想哭。
+I felt comfortable.	我感觉很舒服。
+I felt like crying.	我想哭。
+I gave Mary a book.	我給了瑪麗一本書。
+I give you my word.	我向你保证。
+I had a lot of fun.	我玩得很開心。
+I had him write it.	我要他寫。
+I have to call Tom.	我得给汤姆打电话。
+I have to paint it.	我必須把它漆上油漆。
+I have to say this.	我得说这事。
+I heard him go out.	我聽到他出去了。
+I hope we find Tom.	我希望我们能找到汤姆。
+I know her address.	我知道她的地址。
+I know the feeling.	我知道那種感覺。
+I know the problem.	我知道问题。
+I know those girls.	我認識那些女孩。
+I know those women.	我認識那些女人。
+I know what he did.	我知道他做了。
+I know what to say.	我知道要说什么。
+I like L.A. better.	我更喜欢洛杉矶。
+I like candlelight.	我很喜欢烛光。
+I like mathematics.	我喜欢数学。
+I like mathematics.	我喜歡數學。
+I like that person.	我喜欢那个人。
+I looked around me.	我看了看周圍。
+I lost my umbrella.	我丢了我的伞。
+I love apple juice.	我愛蘋果汁。
+I made other plans.	我另有计划。
+I met an old woman.	我遇见了一位老妇人。
+I miss her so much.	我那么想念她。
+I miss my children.	我想念我的孩子。
+I miss you so much.	我如此想念你。
+I miss you so much.	好想見到你
+I need your advice.	我需要你的意见。
+I plan to go there.	我打算去那裡。
+I saw him run away.	我看見他逃跑了。
+I slapped his face.	我摑了他的臉。
+I slept on the bus.	我在公交车上睡觉了。
+I swim once a week.	我每周游一次泳。
+I think he'll come.	我想他会来的吧。
+I think he's happy.	我想他很快樂。
+I walked to school.	我走路到學校。
+I want this camera.	我要這台相機。
+I want to go there.	我想去那裡。
+I wanted red shoes.	我要紅色的鞋子。
+I was at home then.	那个时候，我在家。
+I was born in 1988.	我生于1988年。
+I was expecting it!	我一直在期待着！
+I was nervous, too.	我也紧张。
+I was very relaxed.	我很放鬆。
+I will go on ahead.	我會繼續前進。
+I wish I had a car.	但願我有一輛車。
+I wish I were rich.	但願我很有錢。
+I'd like your help.	我想請你們幫個忙。
+I'll be seeing you.	我會見到你。
+I'll call Tom back.	我会叫汤姆回来。
+I'll get some help.	我会需要帮助。
+I'll keep doing it.	我要一直做下去。
+I'll see you later.	等會兒見。
+I'll think it over.	我會考慮一下。
+I'm a little tired.	我有點累。
+I'm afraid of dogs.	我怕狗。
+I'm as tall as you.	我跟你一樣高。
+I'm from Singapore.	我是从新加坡来的。
+I'm glad it's over.	我很高興它結束了。
+I'm going to check.	我正要去签到。
+I'm good at skiing.	我擅長滑雪。
+I'm good at soccer.	我擅長足球。
+I'm good at tennis.	我擅長網球。
+I'm losing my grip.	我失去了控制。
+I'm making a movie.	我在製作電影。
+I'm not interested.	我不感兴趣。
+I'm not quite well.	我有點不舒服。
+I'm ready to leave.	我准备好出发了。
+I'm really worried.	我很着急。
+I'm too busy to go.	我太忙了不能去。
+I've gained weight.	我增加了體重。
+I've got to go now.	我現在得走了。
+I've gotten better.	我已經變得好多了。
+I've never met him.	我從來沒有見過他。
+Ignorance is bliss.	無知就是幸福。
+Is everybody ready?	所有人都准备好了吗？
+Is it large enough?	這麼大的夠用嗎？
+Is she your mother?	她是你媽媽嗎?
+Is something wrong?	有什么不对吗？
+Is this everything?	这就是全部吗？
+It came to nothing.	这没有结果。
+It is easy to swim.	游泳很簡單。
+It is really cheap.	它真的很便宜。
+It just gets worse.	它变糟了。
+It wasn't my fault.	那不是我的錯。
+It's about to rain.	天快要下雨了。
+It's going to rain.	天快要下雨了。
+It's gotten better.	它會好轉的。
+It's not important.	這個不重要。
+It's not important.	这不重要。
+It's not practical.	这不实用。
+It's snowing today.	今天下雪。
+Just let Tom speak.	就讓湯姆說吧。
+Keep off the grass.	不要踩草地。
+Knowledge is power.	知识就是力量。
+Leave my car alone.	離我的車遠一點。
+Leave my car alone.	不要碰我的車。
+Let me handle this.	讓我來處理。
+Let me have a look.	讓我看看。
+Let's be realistic.	現實點吧。
+Let's get off here.	我们在这里下车吧。
+Let's not watch TV.	我們不要看電視吧。
+Let's take it easy.	讓我們放輕鬆吧。
+Look at my new car.	看看我的新車。
+Look at that house.	看那个房子。
+Look at that smoke.	快看那個煙。
+Look what happened.	看看發生了什麼。
+Love doesn't exist.	愛不存在。
+Mary has nice legs.	玛丽的腿很漂亮。
+Mary has nice legs.	玛丽有一双美腿。
+May I pay by check?	我可以用支票付吗？
+May I run with you?	我可以跟你一起跑嗎？
+May I take a photo?	请问可以给您拍张照片吗？
+My father grew old.	我父亲变老了。
+My hand was burned.	我的手烧伤了。
+My legs still hurt.	我的腿还是很痛。
+My room faces east.	我的房間面向東邊。
+No one can help me.	没有人能帮我。
+No one will see us.	沒有人會看到我們。
+Nobody can help me.	没有人能帮我。
+Nobody can stop me!	没人能阻止我！
+Nobody was injured.	沒有人受傷。
+Nothing is missing.	什么也没少。
+Now it is official.	现在它是官方的。
+Now, wait a second.	現在等一下。
+Obey your teachers.	要听老师的话。
+Oh! That's too bad.	哦！那太糟糕了。
+Please get dressed.	请穿衣服。
+Please let us know.	請讓我們知道。
+Please sing a song.	請唱一首歌。
+Put the book there.	把書放在那裡。
+Put your guns down.	放下你的枪。
+Saturn is a planet.	土星是一顆行星。
+She cried bitterly.	她痛哭了起來。
+She is very clever.	她很聰明。
+She is very pretty.	她很可爱。
+She loves children.	她愛孩子。
+She made me a cake.	她为我做了一个蛋糕。
+She needs our help.	她需要我們的幫忙。
+She put on her hat.	她戴上了她的帽子。
+She speaks Chinese.	她讲中文。
+She was in a hurry.	她在趕時間。
+She won everything.	她贏得一切了。
+She's Tom's sister.	她是Tom的姐妹。
+She's my classmate.	她是我的同學。
+She's only a child.	她只是個孩子。
+Show me an example.	给我个例子。
+Somebody is eating.	有人在吃东西。
+Stay off the grass.	不要走在草地上。
+Stop joking around.	不要隨便開玩笑。
+Stop joking around.	別開玩笑了。
+Tell me what to do.	告訴我該做什麼。
+That is intriguing.	那真有趣。
+That is our school.	那是我们的学校。
+That was years ago.	那是好幾年前。
+That's a good idea!	真是个好主意！
+That's a good idea.	那是一個好主意。
+That's a good plan.	那是一個很好的計劃。
+That's a nice coat.	那是一件不錯的大衣。
+That's no big deal.	那没什么大不了的。
+That's really nice.	真好。
+That's what I like.	我就喜欢它。
+That's what I want.	那就是我想要的。
+The area was quiet.	這地區很安靜。
+The boy eats bread.	這個男孩吃麵包。
+The car broke down.	汽车发生故障了。
+The coffee is cold.	咖啡是冷的。
+The crow flew away.	這隻烏鴉飛走了。
+The danger is over.	危險已過去。
+The glass is dirty.	玻璃髒了。
+The lock is broken.	锁坏了。
+The plane is ready.	飞机准备好了。
+The problem is Tom.	問題是湯姆。
+The tire leaks air.	轮胎漏气了。
+There goes our bus.	我们的车走了。
+There's no mistake.	没有错误。
+These dogs are big.	這些狗很大。
+These must be fake.	這些一定是假的。
+They all have come.	他们全都来了。
+They didn't listen.	他们没听。
+They didn't see us.	他们没看见我们。
+They don't like me.	他們不喜歡我。
+They forced me out.	他们迫使我出来。
+They live in peace.	他们过着和平的生活。
+They never give up.	他们永不言弃。
+They were so young.	他們是那麼年輕。
+They will not pass!	他們不會通過的!
+They work together.	他们在一起工作。
+This book is small.	这本书小。
+This book is yours.	這本書是你的。
+This book was easy.	這本書很容易。
+This chair is ugly.	這把椅子很醜。
+This clock is mine.	這個錶是我的。
+This house is mine.	這房子是我的。
+This is Mary's dog.	這是瑪麗的狗。
+This is a hospital.	这是医院。
+This is all I know.	這是我所知道的。
+This is just wrong.	這就是錯的。
+This is my bicycle.	这是我的自行车。
+This is quite good.	这可真好。
+This is surprising.	這是令人吃驚的。
+This isn't Spanish.	這不是西班牙語。
+This isn't for you.	這不是給你的。
+This story is true.	这个故事是真的。
+Those are my pants.	那些是我的褲子。
+Those dogs are big.	那些狗都很大。
+Today is the fifth.	今天是五號。
+Tom abandoned hope.	湯姆放棄了希望。
+Tom asked for food.	汤姆要食物。
+Tom died in battle.	湯姆在戰鬥中死了。
+Tom follows orders.	汤姆服从命令。
+Tom has an old car.	湯姆有輛舊車。
+Tom has no manners.	Tom没有礼貌。
+Tom has three cats.	Tom有三隻貓。
+Tom is a good cook.	汤姆是个好厨师。
+Tom is always late.	湯姆總是遲到。
+Tom is crying, too.	湯姆也在哭。
+Tom is going crazy.	汤姆要发疯。
+Tom is more active.	汤姆更活跃。
+Tom is serious now.	汤姆现在是认真的。
+Tom is still upset.	湯姆還是不安。
+Tom is there alone.	Tom獨自在那。
+Tom isn't an angel.	汤姆不是天使。
+Tom likes swimming.	湯姆喜歡游泳。
+Tom made fun of me.	汤姆拿我开心。
+Tom runs very fast.	湯姆跑得快。
+Tom said he'd wait.	湯姆說他會等。
+Tom teaches French.	湯姆教法語。
+Tom waited outside.	湯姆在外面等。
+Tom wanted revenge.	湯姆想報仇。
+Tom wasn't thirsty.	汤姆不渴。
+Tom's door is open.	湯姆的門開著。
+Turn off the light.	關燈。
+Wait just a moment.	就等一會兒。
+Was her story true?	她的故事是真的吗？
+Was his story true?	他的故事是真的吗？
+We all fell asleep.	我们都睡着了。
+We are against war.	我们反对战争。
+We can't talk here.	我们不能在这里谈。
+We didn't break in.	我们没有打断。
+We don't have time.	我们没时间。
+We don't trust Tom.	我们不相信汤姆。
+We have many goals.	我們有許多目標。
+We have three kids.	我們有三個孩子。
+We kept them quiet.	我們讓他們保持安靜。
+We know everything.	我们什么都知道。
+We know our rights.	我们知道我们的权利。
+We love each other.	我們彼此相愛。
+We love our school.	我們愛我們的學校。
+We ran in the park.	我们在公园里跑了步。
+We should sit down.	我們應該坐下。
+We studied English.	我们学了英语。
+We want to go home.	我們想回家。
+We want to hear it.	我们想听听。
+We're almost broke.	我們快破產了。
+We're conservative.	我们很保守。
+We're the same age.	他和我同岁。
+We've been tricked.	我们被耍了。
+We've forgiven you.	我们已经原谅你了。
+Were you a soldier?	你是士兵嗎？
+What a lot of pens!	那么多钢笔！
+What a strong wind!	多麼強的風啊！
+What an idiot I am!	我真是個白痴！
+What are you doing?	你做什麼？
+What happened here?	这儿发生了什么事？
+What happened then?	然後發生了什麼事？
+What is over there?	那是什么？
+What just happened?	刚刚发生了什么？
+What will you have?	你将拥有什么？
+What will you make?	你會做什麼？
+What're you saying?	你在說什麼？
+What's in this bag?	這個袋子裡是什麼？
+What's your advice?	你有什么建议呢？
+When was Tom fired?	湯姆什麼時候被開除的?
+When was Tom fired?	湯姆什麼時候被解雇的?
+Where are my books?	我的書在哪？
+Where do you study?	你在哪讀書？
+Where does he work?	他在哪里工作？
+Where does it hurt?	哪裡痛?
+Where does it hurt?	哪裡疼?
+Where is the vodka?	伏特加在哪里？
+Where should we go?	我們應該去哪裡？
+Where're the shoes?	鞋子在哪儿？
+Which cap is yours?	哪顶帽子是你的？
+Which cup is yours?	哪个杯子是你的？
+Which hat is yours?	哪顶帽子是你的？
+Which is your book?	哪本是你的书？
+Which is your book?	哪本是你們的書？
+Which is your book?	哪本是您的書？
+Which is your book?	哪本書是您的？
+Which is your book?	哪本書是你們的？
+Who are those guys?	那些家伙是谁？
+Who is that person?	那人谁啊？
+Who took the money?	誰拿了錢？
+Who touched my gun?	誰碰了我的槍？
+Whose bike is this?	这辆自行车是谁的？
+Whose book is this?	這是誰的書？
+Whose book is this?	這書是誰的？
+Whose ring is that?	那是谁的环？
+Why are you crying?	你为什么哭？
+Why are you crying?	你為什麼哭？
+Why are you so mad?	你為什麼這麼生氣？
+Why can't you come?	你為什麼不能來?
+Why do you need it?	你為什麼需要它？
+Why should we help?	为什么我们应该要帮助？
+Why were you there?	你為什麼在那裡?
+Why worry about it?	為什麼要擔心？
+Will I have a scar?	我会留疤吗？
+You are free to go.	你可以走了。
+You are very brave.	您非常勇敢。
+You are very brave.	你非常勇敢。
+You aren't invited.	你没受到邀请。
+You broke the rule.	你坏了规矩。
+You could say that.	你不能这么说。
+You did a good job.	你干得很好。
+You don't scare us.	你別嚇我們。
+You have cute eyes.	你有一双很可爱的眼睛。
+You have nice skin.	你的皮膚真好。
+You know I'm right.	你知道我是正确的。
+You like elephants.	你喜欢大象。
+You live and learn.	你一面生活一面學習。
+You look very good.	你看上去很好。
+You look very pale.	你看上去很苍白。
+You made a mistake.	你犯了个错误。
+You might meet him.	你可能會見到他。
+You must be joking!	你一定是开玩笑！
+You should know it.	你應該知道的。
+You'd better hurry.	你最好快点。
+You'll be confused.	你會困惑。
+You'll bounce back.	你会东山再起的。
+You're a good cook.	你是个好厨师。
+You're always busy.	你一直忙。
+You're an optimist.	你是个乐观主义者。
+You're not my type.	你不是我喜欢的类型。
+You're quite right.	你是對的。
+You're still green.	你还年轻。
+You're still young.	你仍然很年輕。
+You're such a jerk.	你真是個傻子。
+You're turning red.	你脸红了。
+"Trust me," he said.	“相信我。”他说。
+A whale is a mammal.	鲸鱼是哺乳动物。
+Answer my questions.	回答我的問題。
+Answer the question.	回答問題。
+Are you guys crying?	你們在哭嗎？
+Can you drive a car?	您会开车吗？
+Can you really swim?	你真的會游泳嗎？
+Christmas is coming.	聖誕節快到了。
+Come again any time.	隨時再來。
+Could I try this on?	我能試一下這個嗎？
+Could you sign here?	你能在这里签名吗?
+Destroy this temple.	摧毁这个寺庙。
+Do you drink coffee?	你喝咖啡嗎?
+Do you go to church?	你去教堂嗎？
+Do you have a cough?	你咳嗽嗎？
+Do you have a fever?	你發燒了嗎？
+Do you know my name?	你知道我的名字嗎？
+Do you like English?	你喜歡英語嗎？
+Do you speak French?	你會講法語嗎？
+Do you want to know?	你想知道嗎？
+Does Tom have a job?	汤姆有工作吗？
+Don't let Tom leave.	别让汤姆走了。
+Don't listen to her.	別聽她的。
+Don't stand near me.	不要站在我身邊。
+Don't you know that?	你不知道那件事吗？
+Dry wood burns well.	干柴燒得旺。
+Enjoy your holidays.	度假愉快！
+Every minute counts.	分秒必争。
+Everybody knows her.	每個人都認識她。
+Everybody thinks so.	大家都是这样想的。
+Everything seems OK.	一切看上去正常。
+Excuse me, I'm lost.	不好意思，我迷路了。
+Few people think so.	很少人这么认为。
+Fish is cheap today.	今天魚很便宜。
+Give me a cigarette.	给我支香烟吧。
+Has Tom gone insane?	Tom瘋了嗎？
+Have a good weekend.	周末愉快。
+Have you been fired?	你曾經被開除過嗎?
+He accepted my idea.	他接受了我的主意。
+He appeared at last.	他终于出现了。
+He became a pianist.	他成為了一個鋼琴家。
+He called me a taxi.	他替我叫了一部計程車。
+He climbed Mt. Fuji.	他爬上了富士山。
+He cured my illness.	我的病给他治好了。
+He did it for money.	他做这个是为了钱。
+He didn't know that.	他不知道。
+He does not like us.	他不喜欢我们。
+He drives very fast.	他開車速度非常快。
+He entered the army.	他加入了陸軍。
+He has a big family.	他有个大家庭。
+He has a round face.	他有一張圓臉。
+He has his own room.	他有自己的房间。
+He has lost his job.	他已經失去了他的工作。
+He hates air travel.	他讨厌坐飞机旅行。
+He is a good fellow.	他是個好人。
+He is a learned man.	他是个有教养的人。
+He is at home today.	他今天在家。
+He is good at rugby.	他很擅長橄欖球。
+He is not religious.	他不信教。
+He is playing music.	他在演奏音樂。
+He is taking a walk.	他正在散步。
+He is telling a lie.	他說謊。
+He is very handsome.	他很英俊。
+He laid on his back.	他仰躺。
+He left an hour ago.	他一小时前走了。
+He lives by himself.	他一个人生活。
+He lives by himself.	他独自生活。
+He may not be happy.	他可能不高兴。
+He raised his hands.	他舉起了他的手。
+He saluted the lady.	他向那位女士问好。
+He sat on the bench.	他坐在長凳上。
+He seems to be rich.	他看起來很有錢。
+He shaves every day.	他每天刮鬍子。
+He should thank you.	他應該感謝您。
+He was made captain.	他被選為隊長。
+He was very patient.	他非常有耐心。
+He worked very hard.	他工作很努力。
+He wrote one letter.	他写了一封信。
+He wrote the report.	他寫了這份報告。
+He'll never beat me.	他永远不会打败我的。
+He's afraid of dogs.	他怕狗。
+He's always smiling.	他总是在笑。
+He's doing his best.	他在全力以赴。
+Her son is a genius.	她儿子是个天才。
+Here is your change.	這是你零錢。
+Here's how we do it.	以下是我们怎么做的。
+His bicycle is blue.	他的自行车是蓝色的。
+His speech bored me.	他的演讲让我很无聊。
+His speech moved us.	他的演说打动了我们。
+How I've missed you!	我多麼想念你！
+How about Thai food?	泰国菜怎么样？
+How are you feeling?	你感觉如何？
+How can I reach you?	我怎樣才能連絡到你?
+How do you feel now?	你现在感觉如何？
+How old is this zoo?	這間動物園多久了？
+How old is your son?	你兒子幾歲?
+How was the fishing?	釣魚怎麼樣？
+How was the seminar?	这研究会怎么样？
+I always study hard.	我總是用功讀書。
+I am afraid of dogs.	我怕狗。
+I am an electrician.	我是一名電工。
+I am engaged to her.	我跟她訂婚了。
+I am in Tokyo today.	我今天在東京。
+I am too busy to go.	我太忙了不能去。
+I arrived in London.	我到達倫敦了。
+I ate a hasty lunch.	我匆忙的吃了午餐。
+I can come at three.	我三點鐘可以來。
+I can help you, too.	我也能幫你。
+I can see the light.	我能看到光線。
+I can speak Chinese.	我會說中文。
+I can speak English.	我會講英語。
+I can start anytime.	我随时可以开始。
+I can win this time.	我這回能贏。
+I can't afford that.	我买不起那个。
+I can't find my pen.	我找不到我的筆。
+I cleared the table.	我清理了桌子。
+I come from England.	我來自英國。
+I continued singing.	我繼續唱歌。
+I continued singing.	我继续唱歌。
+I continued working.	我繼續工作。
+I disagree with you.	我不同意你的看法。
+I do not fear death.	我不怕死。
+I do not have a cat.	我没有猫。
+I do not understand.	我不懂。
+I don't like movies.	我不喜歡電影。
+I don't like school.	我不喜欢学校。
+I don't like summer.	我不喜欢夏天。
+I don't like winter.	我不喜欢冬天。
+I don't see why not.	我看不出为什么不。
+I don't want to eat.	我不想吃。
+I dreamed about you.	我梦到你了。
+I felt good tonight.	我今晚感觉良好。
+I forgot to ask Tom.	我忘了问汤姆。
+I forgot to ask him.	我忘了問他。
+I have a high fever.	我烧得很厉害。
+I have been to Rome.	我去过罗马。
+I have chapped lips.	我的嘴裂开了。
+I have to go to bed.	我该去睡觉了。
+I have to go to bed.	我该上床了。
+I have to stay home.	我得留在家。
+I heard her singing.	我听见她唱歌了。
+I just need a break.	我只想休息一下
+I keep a female cat.	我养了一只母猫。
+I know that feeling.	我知道那種感覺。
+I know what you did.	我知道你做了什么。
+I know where she is.	我知道她在哪里。
+I know you're upset.	我知道你难过。
+I like dragon fruit.	我喜欢火龙果。
+I like each of them.	我喜欢他们每一个。
+I like movies a lot.	我很喜歡電影。
+I like taking walks.	我喜欢散步。
+I live in this area.	我住在这区。
+I live too far away.	我住得太遠了。
+I need a bigger box.	我需要個更大的箱子。
+I never played golf.	我从没玩过高尔夫。
+I noticed a pattern.	我注意到一個圖案。
+I often catch colds.	我常常感冒。
+I often eat chicken.	我經常吃雞。
+I quickly ate lunch.	我迅速地吃了午飯。
+I really am unlucky!	我真的很倒霉！
+I really don't sing.	我真的不会唱。
+I really have to go.	我真的得走了。
+I remember this map.	我記得這張地圖。
+I retired last year.	我去年退休了。
+I talked to friends.	我和朋友们交谈。
+I told Tom I was OK.	我对汤姆说我很好。
+I want a girlfriend.	我想找女朋友。
+I want your opinion.	我想要聽聽你的意見。
+I was born in Kyoto.	我生于京都。
+I was ill yesterday.	我昨天生病了。
+I was pretty hungry.	我真是饿了。
+I was quite annoyed.	我被烦死了。
+I wasn't alone then.	我当时不孤单。
+I will try it again.	我會再試一次。
+I wish I could swim.	我希望我會游泳。
+I wish I were young.	但願我還年輕。
+I won't stay silent.	我不會保持沉默的。
+I won’t be fooled.	我不会上当的。
+I work in a factory.	我在一家工廠工作。
+I wrote it all down.	我全写下来了。
+I'll drive you home.	我開車送你回家。
+I'll join you later.	我一會兒就來。
+I'll let you decide.	我让你来决定。
+I'll make you happy.	我会让你幸福的。
+I'll return at 6:30.	我六點半回來。
+I'm Tom's assistant.	我是湯姆的助手。
+I'm a social worker.	我是個社會工作人員。
+I'm afraid of death.	我怕死。
+I'm afraid of dying.	我怕死。
+I'm as old as he is.	我和他同年。
+I'm counting on you.	我就指望你了。
+I'm looking for you.	我在找你。
+I'm not a bit tired.	我一點也不累。
+I'm not your mother.	我不是你們的媽媽。
+I'm not your mother.	我不是你母親。
+I'm proud of my son.	我为我儿子感到骄傲。
+I'm sad without you.	沒有你我很悲傷。
+I'm stuck in my job.	我被工作困住了。
+I'm taller than you.	我比你高。
+I'm very busy today.	我今天很忙。
+I'm very hungry now.	我現在非常餓。
+I'm waiting for him.	我在等他。
+I've been in prison.	我進過監獄。
+I've lost my ticket.	我把票弄丟了。
+I've missed so much.	我错过了太多。
+I've seen Tom naked.	我见过汤姆光着。
+Is Tom helping Mary?	汤姆在帮玛丽吗？
+Is anybody in there?	那边有人吗？
+Is it far from here?	离这儿远吗？
+Is that our problem?	那是我們的問題嗎？
+Is that the station?	那是車站嗎？
+Is this really real?	这真是真的吗？
+Is this your family?	这是你的家人吗？
+Is this your pencil?	這是你的鉛筆嗎？
+It can be dangerous.	它有危险。
+It hasn't been easy.	它不容易。
+It is going to rain.	天快要下雨了。
+It is going to snow.	要下雪了。
+It may never happen.	它可能從沒發生過。
+It rained yesterday.	昨天下雨了。
+It serves you right.	自作自受。
+It was a lot of fun.	它很好玩。
+It was getting dark.	天要黑了。
+It was really cheap.	它真的很便宜。
+It's a real bargain.	真是物美價廉。
+It's all your fault.	都是你的错。
+It's as cold as ice.	它冷得像冰一樣。
+It's really awesome.	太棒了。
+It's safe to say so.	這麼說是安全的。
+It's very difficult.	这很难。
+It's worth the wait.	它是值得等待的。
+Just take it slowly.	慢慢来。
+Keep going straight.	繼續直行。
+Keep your eyes open.	睜大你的眼睛。
+Let's call it a day.	今天就到此為止吧。
+Let's go to a movie.	讓我們去看電影。
+Let's keep in touch.	让我们保持联络。
+Let's play baseball!	讓我們來打棒球吧！
+Lift your right arm.	舉起你的右臂。
+Love is like oxygen.	爱就像氧气。
+Mary can dance well.	瑪麗舞跳得很好。
+May I eat that cake?	我可以吃那个蛋糕吗？
+May I say something?	我可以說些什麼嗎?
+Mercury is a planet.	水星是一顆行星。
+More coffee, please.	請再給我一點咖啡。
+My back still hurts.	我的背還在痛。
+My home is far away.	我家很远。
+My neck still hurts.	我的脖子还疼。
+My notebook is pink.	我的笔记本是粉色的。
+My purse was stolen.	我的錢包被搶了。
+My room is a pigsty.	我房间是个猪窝。
+My throat feels dry.	我喉咙很干。
+No drinkers allowed.	飲酒者不准禁入。
+Now it's your serve.	現在該你發球。
+One of us has to go.	我们中的一个得走。
+Ostriches can't fly.	鴕鳥不會飛。
+Ostriches can't fly.	鸵鸟不会飞。
+Paper burns quickly.	紙燒得快。
+People love to talk.	人們就是愛說話。
+Please make the bed.	請整理床鋪。
+Please speak slowly.	请说慢一点。
+Please speak slowly.	请说慢一些。
+Please wish me luck.	請祝我好運。
+Prices are going up.	物价上涨了。
+Roll the ball to me.	把球传给我。
+See you in two days.	后天见。
+She did not turn up.	她沒有出現。
+She didn't like him.	她不喜歡他。
+She didn't think so.	她不這麼想。
+She finally made it.	她終於做到了。
+She gave me a watch.	她給了我一支手錶。
+She got in at 9 p.m.	她晚上九點鐘上了車。
+She has lost weight.	她的体重减轻了。
+She is about my age.	她大約跟我同年紀。
+She is still a girl.	她还是个小孩儿。
+She kept on working.	她繼續工作。
+She made tea for me.	她给我沏了茶。
+She made tea for me.	她给我泡了茶。
+She went for a walk.	她去散步了。
+She went on working.	她继续工作。
+She works very hard.	她很努力工作。
+Someone is watching.	有人在监视。
+Stay out of my room.	别进我的房间。
+Stop criticizing me!	不要再批评我了！
+Stop fooling around.	不要隨便開玩笑。
+Stop talking loudly.	停止大声说话。
+Stop, or I'll shoot.	停止，不然我就開槍了。
+That boy is running.	这个男孩子在跑步。
+That boy is running.	那个男孩在跑步。
+That is not my line.	这不是我拿手的。
+That was a disaster.	那是災難。
+That was my mistake.	那是我的錯。
+That wasn't too bad.	那不太坏。
+That's Tom's mother.	那是汤姆的妈妈。
+That's a great poem.	這是一首很棒的詩。
+That's an exception.	那是例外。
+That's an imitation.	那是一個仿造品。
+That's your opinion.	那是你的想法。
+The boys kept quiet.	男孩子們保持安靜。
+The button came off.	這顆鈕扣脫落了。
+The cat is adorable.	這隻貓很可愛。
+The cat is not dead.	那猫没死。
+The crops need rain.	農作物需要雨水。
+The fire alarm rang.	火警警报响了。
+The lake was frozen.	湖冻冰了。
+The moon is shining.	月光在照耀著。
+The papers blew off.	文件被风刮起来。
+The picture is nice.	这画不错。
+The skies are clear.	天空很清朗。
+The sky turned dark.	天暗了下来。
+The train just left.	列车已经出发。
+The trees are green.	树是绿的。
+There's a book here.	這裡有一本書。
+There's nobody here.	這裡沒人。
+They have the horse.	他们有马。
+They ruined my life.	他们毁了我的生活。
+They won't find Tom.	他们不会找到汤姆。
+They'll be grateful.	他們會感激。
+They're ignoring me.	他們不理我。
+This is a bad thing.	這是件壞事。
+This is my daughter.	這是我女兒。
+This is my property.	這是我的財產。
+This is their house.	这是他们家。
+This is what I want.	这就是我想要的。
+This makes me angry.	這讓我憤怒。
+This makes me happy.	這讓我開心。
+This won't help you.	這幫不了你。
+Thou shalt not kill.	不可殺人。
+Tokyo is a big city.	东京是一个很大的城市。
+Tom bought a ticket.	汤姆买了张票。
+Tom can't find Mary.	汤姆找不到玛丽。
+Tom can't tie a tie.	汤姆不会系领带。
+Tom cares about you.	汤姆关心你。
+Tom changed clothes.	湯姆換了衣服。
+Tom dealt the cards.	Tom处理了卡片。
+Tom doesn't like me.	汤姆不喜欢我。
+Tom found me a taxi.	湯姆幫我叫了輛計程車。
+Tom gave us nothing.	汤姆什么也没给我们。
+Tom had no children.	Tom沒有孩子。
+Tom has calmed down.	汤姆冷静下来了。
+Tom has no siblings.	Tom沒有兄弟姊妹。
+Tom is a bus driver.	汤姆是个公交车司机。
+Tom is a clever kid.	汤姆是聪明的孩子。
+Tom is awfully sick.	湯姆非常虚弱。
+Tom is exaggerating.	汤姆在吹嘘。
+Tom is in the attic.	湯姆在閣樓裡。
+Tom is in the house.	湯姆在這棟房子裡。
+Tom is in the house.	湯姆在家裡。
+Tom is working hard.	汤姆在努力工作。
+Tom knows it's over.	湯姆知道它結束了。
+Tom knows my number.	Tom知道我的號碼。
+Tom likes hot curry.	湯姆喜歡辣咖哩。
+Tom made a sandwich.	汤姆做了个三明治。
+Tom needs the money.	湯姆需要錢。
+Tom nodded approval.	汤姆点头同意。
+Tom owes us a favor.	汤姆欠我们个情。
+Tom plans to return.	湯姆打算回來。
+Tom sat beside Mary.	汤姆坐在玛丽旁边。
+Tom saw Mary crying.	湯姆看見瑪麗在哭。
+Tom says he's tired.	汤姆说他累了。
+Tom should be fired.	湯姆應該要被開除。
+Tom should be happy.	汤姆应该高兴。
+Tom should thank me.	汤姆应该感谢我。
+Tom started singing.	湯姆開始唱歌。
+Tom stood behind me.	汤姆站在我后面。
+Tom swims very fast.	湯姆游泳游得非常快。
+Tom took Friday off.	汤姆星期五闲着。
+Tom took this photo.	汤姆拍了这张照。
+Tom was never happy.	湯姆從不高興。
+Tom was on the list.	湯姆在名單上。
+Tom was very scared.	湯姆非常害怕。
+Tom was very scared.	湯姆當時非常害怕。
+Tom won't be coming.	汤姆不会来了。
+Tom works in Boston.	湯姆在波士頓工作。
+Tom wrote two books.	汤姆写了两本书。
+Tom's check bounced.	汤姆的支票被退票了。
+Tom's eyes are blue.	汤姆的眼睛是蓝色的。
+Tom's mother's dead.	汤姆的妈妈去世了。
+Tom's not breathing.	汤姆没有呼吸了。
+Umbrellas sell well.	雨伞卖得好。
+Wake me up at seven.	七点叫醒我。
+Waste not, want not.	不浪費則不匱乏。
+We all have secrets.	我們都有秘密。
+We all like cycling.	我们都喜欢骑自行车。
+We are good friends.	我們是好朋友。
+We are having lunch.	我們在吃午餐。
+We couldn't do that.	我们做不到。
+We did it ourselves.	我们自己做的。
+We just need a plan.	我們只是需要個計畫。
+We're eating apples.	我們正在吃蘋果。
+We're having dinner.	我們在吃晚餐。
+We're not in Boston.	我們不在波士頓。
+We're still nervous.	我們還是緊張。
+We've not done well.	我们没有做好。
+Welcome to our home.	欢迎来到我们家。
+What am I to do now?	怎么办?
+What are you called?	你們叫什麼名字？
+What did he ask you?	他問你什麼？
+What did you answer?	你回答了什么？
+What do you do here?	你在這裡做甚麼？
+What should I bring?	我该带些什么？
+What should be done?	怎么办?
+What would you like?	你想要甚麼？
+What's Tom given us?	汤姆给了我们什么？
+What's today's date?	今天幾號？
+What's wrong, honey?	出什么事了，宝贝？
+What's your problem?	你有什么问题？
+When did you buy it?	你甚麼時候買的？
+When does it arrive?	它什么时候到？
+When will you leave?	你什麼時候離開？
+Where are you going?	你去哪儿？
+Where are you going?	你要去哪裡?
+Where are you going?	你们去哪里?
+Where have you been?	你一直在哪里？
+Where is your house?	你家在哪裡？
+Where is your house?	您的家在哪？
+Where is your house?	你們家在哪？
+Which book is yours?	哪本是你的书？
+Which book is yours?	哪本是你們的書？
+Which book is yours?	哪本是您的書？
+Which book is yours?	哪本書是您的？
+Which book is yours?	哪本書是你們的？
+Which one is easier?	哪一個最簡單？
+Who is that old man?	那個老男人是誰？
+Who is this, please?	請問這是誰？
+Who is your teacher?	谁是你老师？
+Whose shirt is this?	這是誰的襯衫。
+Why am I still here?	为什么我还在这里？
+Why did you do that?	你為什麼要那樣做呢？
+Why didn't she come?	她为什么没来？
+Why do you say that?	你為什麼那樣說?
+Why don't you do it?	你为什么不做？
+Why is the sky blue?	为什么天是蓝的？
+Why isn't that good?	那為甚麼不好？
+Why worry about Tom?	為什麼要擔心Tom？
+You are quite right.	你說得很對。
+You broke the rules.	你触犯了规则。
+You can count on it.	你可以依靠它。
+You can rely on him.	你可以依靠他。
+You can shut up now.	你現在可以住口了。
+You do have choices.	你有选择。
+You guys looked mad.	你们疯了吧
+You guys looked mad.	你們那時候看起來在生氣。
+You have many books.	您有很多书。
+You have many books.	你有许多书。
+You have some books.	您有一些书。
+You have some books.	你有一些书。
+You look pale today.	你今天看上去很苍白。
+You look very tired.	你看上去非常累。
+You may go anywhere.	您可以随便去哪儿。
+You may go anywhere.	你可以随便去哪儿。
+You may go home now.	你現在可以回家了。
+You may not come in.	你不能進來。
+You need a vacation.	你需要個假期。
+You need protection.	你需要保護。
+You should try this.	你应该试试这个。
+You'd better not go.	你最好不要去。
+You're irresistible.	你令人难以抗拒。
+You're not a doctor.	您不是医生。
+You're not too late.	你還不太晚。
+You're so beautiful!	你太漂亮了！
+You're the prisoner.	你是囚犯。
+You're too generous.	你太大方了。
+Your father is tall.	你爸爸很高。
+Your hair is pretty.	你的头发很漂亮。
+Your shoes are here.	你的鞋在这儿。
+Yours is over there.	你的在那儿呢。
+A permit is required.	需要准许。
+Almost everyone came.	几乎每个人都来了。
+Are those explosives?	那些是爆炸物嗎？
+Are we going to lose?	我们将会输了吗？
+Are you Tom's mother?	你是湯姆的母親嗎？
+Are you busy at work?	你工作很忙嗎 ?
+Are you following me?	你在跟著我嗎？
+Are you going or not?	你去還是不去？
+Are your hands clean?	你的手乾淨嗎?
+Be quiet, all of you.	你們所有的人都安靜。
+Be sure to come at 3.	務必在三點鐘來。
+Bring me a dry towel.	給我一條乾毛巾。
+But you're not there.	但你不在那裡。
+Can I ask a question?	我能问个问题吗？
+Can he speak English?	他會講英語嗎？
+Can we stop fighting?	我们能不打了吗？
+Can you ride a horse?	您会骑马吗？
+Can you speak French?	你會講法語嗎？
+Cats hate to get wet.	猫讨厌被弄湿。
+Children need loving.	孩子们需要关爱。
+Clothes make the man.	人要衣裝。
+Come again next week.	下周再來。
+Did I miss the party?	我错过派对了吗？
+Did Tom say anything?	Tom有說什麼嗎？
+Did Tom talk to Mary?	汤姆跟玛丽说话了吗？
+Did he pass the exam?	他通過考試了嗎？
+Did he pass the test?	他通過測驗了嗎?
+Did somebody hit Tom?	有人打汤姆了吗？
+Did something happen?	發生了什麼事嗎？
+Did you get up early?	你起床早嗎？
+Didn't I tell you so?	我不是告訴過你了嗎？
+Do it somewhere else.	到别处去做。
+Do what he tells you.	做他告訴你的事。
+Do you eat out often?	你常常外食嗎？
+Do you get up at six?	你六点起床吗？
+Do you have a camera?	你有照相机吗？
+Do you have a garage?	你有車庫嗎？
+Do you have children?	你有孩子嗎？
+Do you know Tom well?	你很了解汤姆吗？
+Do you like shopping?	你喜歡購物嗎？
+Do you like swimming?	你喜欢游泳吗？
+Do you run every day?	你每天都跑步吗？
+Do you speak Chinese?	你會說中文嗎？
+Do you study English?	您学英语吗？
+Do you study English?	你学英语吗？
+Do you want anything?	你想要什麼嗎？
+Does Tom play tennis?	湯姆打網球嗎？
+Does anyone know Tom?	有人認識湯姆嗎？
+Don't be so careless!	别这么粗心！
+Don't be so childish.	不要那么幼稚。
+Don't go to extremes.	别走极端。
+Don't leave the room.	别离开房间。
+Don't let the dog in.	别让狗进来。
+Don't open your book.	不要打开你的书。
+Don't try to stop me.	别想阻止我。
+Don't worry about it.	不要擔心它。
+Don't worry about me.	不要擔心我。
+Everyone, say cheese.	所有人，都请说 cheese 。
+Everything went well.	一切都很顺利。
+Finally, it's Friday.	終於星期五了。
+Go back to your seat.	回到你的座位。
+Has anything changed?	有任何事情改變了嗎？
+Have a nice day, Tom.	汤姆，希望你今天玩得开心。
+Have you been eating?	你在吃东西吗？
+Have you eaten lunch?	你吃過午飯了嗎？
+Have you finished it?	你做完了嗎?
+He accepted her gift.	他接受了她的礼物。
+He acted as my guide.	他擔任我的嚮導。
+He came to my rescue.	他拯救了我。
+He committed suicide.	他自杀了。
+He doesn't like fish.	他不喜歡吃魚。
+He had a hungry look.	他面有飢色
+He has a nice income.	他收入可观。
+He has poor eyesight.	他的视力不佳。
+He has two daughters.	他有两个女儿。
+He is a Japanese boy.	他是个日本少年。
+He is always with me.	他一直与我同在。
+He is angry with you.	他在生你的氣。
+He is apt to be late.	他很容易遲到。
+He is as tall as her.	他和她一样高。
+He is full of energy.	他充满活力。
+He is very sensitive.	他很敏感。
+He is wearing gloves.	他戴着手套。
+He isn't an American.	他不是美国人。
+He knows how to swim.	他会游泳。
+He likes to watch TV.	他喜歡看電視。
+He likes watching TV.	他喜歡看電視。
+He may have been ill.	他可能病了。
+He needs an umbrella.	他需要一把伞。
+He put away his toys.	他收起了他的玩具。
+He ran into the room.	他跑进房间内。
+He slipped me a note.	他悄悄地递给我一张纸条。
+He spoke very loudly.	他说得很大声。
+He studied very hard.	他学习非常努力。
+He took it literally.	他按照字面上的意思。
+He used to live here.	他以前住在这儿。
+He was elected mayor.	他被选为市长。
+He was sitting there.	他之前坐在这里。
+He went to the store.	他去了商店。
+He will be back soon.	他很快就会回来的。
+He's a bit energetic.	他有点活泼。
+He's a tennis player.	他是个网球球手。
+He's bound to forget.	他准会忘。
+He's eating an apple.	他正吃著一個蘋果。
+He's younger than me.	他比我年轻。
+Here comes the train.	火車來了。
+Hey you! Please wait.	嘿，你！請稍候。
+Hi! Do you work here?	嗨！你在这儿工作吗？
+His memory amazes me.	他的记忆力使我惊讶。
+How about a sandwich?	三明治怎麼樣？
+How can you say that?	你怎麼能那麼說？
+How deep is the hole?	這個洞多深?
+How did you meet Tom?	你是怎麼見到湯姆的？
+How high is Mt. Fuji?	富士山有多高？
+How much did you bid?	你出价多少？
+How was your weekend?	你週末過得怎麼樣？
+I accepted the offer.	我接受了报价。
+I already apologized.	我已经道歉了。
+I am a stranger here.	我是這裡的外地人。
+I am afraid of death.	我怕死。
+I am afraid of dying.	我怕死。
+I am counting on you.	我指望你了。
+I am leaving at four.	我四點要離開。
+I am not well at all.	我一点都不好。
+I am poor at drawing.	我不擅長畫畫。
+I ate Tom's sandwich.	我吃了湯姆的三明治。
+I believe that story.	我相信那个故事。
+I bought an old lamp.	我买了一盏很旧的灯。
+I bought her a watch.	我買了一支手錶給她。
+I broke my right leg.	我摔斷了右腿。
+I can barely see you.	我幾乎看不見你。
+I can swim very fast.	我游泳可以游得很快。
+I can talk for a bit.	我会说一点儿。
+I can't afford a car.	我買不起車子。
+I can't believe that.	我不能相信。
+I can't do it either.	我也不會做。
+I can't say for sure.	我不太確定。
+I can't shut it down.	我不能關掉它。
+I can't tell you now.	我現在不能告訴你。
+I can't wait for you.	我不能等你。
+I can't wait forever.	我不能永远地等。
+I couldn't leave Tom.	我不能離開湯姆。
+I did not order this.	我没有预定这个。
+I didn't do anything.	我什么事都没有做。
+I didn't do it alone.	我没有独自做。
+I dislike big cities.	我不喜歡大城市。
+I don't believe that.	我們不相信那個。
+I don't get the joke.	我没明白那个笑话。
+I don't go to school.	我不去学校。
+I don't like English.	我不喜歡英語。
+I don't like silence.	我不喜欢科学。
+I don't speak German.	我不会说德语。
+I don't want to swim.	我不想游泳。
+I don't want to wait.	我不想等。
+I don't want to work.	他不爱劳动。
+I found it by chance.	我偶然找到了它。
+I guess you're right.	我猜你是對的。
+I had fun last night.	昨晚我玩得开心。
+I have a job for you.	我有工作給你。
+I have a lot of cats.	我有很多狗。
+I have a new red car.	我有一輛新的紅色汽車。
+I have a sore throat.	我喉嚨痛。
+I have so many ideas.	我有那麼多的主意。
+I have three cameras.	我有三台攝影機。
+I have what you need.	我有你需要的。
+I intend to go there.	我打算去那裡。
+I just cut my finger.	我剛剛切到手指了。
+I just don't like it.	我只是不喜欢它。
+I know her very well.	我非常了解她。
+I know what you mean.	我知道你的意思。
+I know who likes Tom.	我知道谁喜欢汤姆。
+I left the door open.	我讓門開著。
+I lent Tom my camera.	我把我的相機借給了湯姆。
+I like to eat apples.	我喜欢吃苹果。
+I like walking alone.	我喜歡獨自行走。
+I like you very much.	我非常喜歡你。
+I live in a big city.	我住在一个大城市里。
+I met Mary yesterday.	昨天我遇見了瑪麗。
+I miss you very much.	我非常想你。
+I need to go to work.	我得去工作了。
+I need to study math.	我需要学习数学。
+I need to take notes.	我需要作筆記。
+I no longer love Tom.	我不再愛湯姆了。
+I owe Tom some money.	我欠湯姆錢。
+I owe a lot of money.	我欠了很多钱。
+I paid $200 in taxes.	我付了兩百元含稅。
+I paid him the money.	我付了他钱。
+I rejected the offer.	我拒绝了报价。
+I remember this word.	我记得这个单词。
+I said open the door.	我說開門。
+I should've declined.	我本应婉拒。
+I sometimes watch TV.	我有時看電視。
+I sort of understand.	我大概懂了。
+I think I understand.	我想我懂了。
+I think I understood.	我认为我明白了。
+I think Tom is awake.	我想Tom已经醒了。
+I think it was wrong.	我认为它错了。
+I think that's awful.	我看那糟透了。
+I think this is true.	我想这是真的。
+I think you're lying.	我觉得你在撒谎。
+I think you're ready.	我認為你準備好了。
+I walked up the hill.	我走上山了。
+I want an MP3 player!	我想要一个MP3播放器！
+I want some potatoes.	我要几个土豆。
+I want the other one.	我想要另一個。
+I want to make a pie.	我想做个派。
+I want to study math.	我想学数学。
+I wanted to go there.	我想去那裡。
+I wanted to stop Tom.	我想阻止湯姆。
+I was at the theater.	我在劇場。
+I went into the navy.	我加入了海軍。
+I will come with you.	我會和你一起去。
+I wish I were taller.	我希望我比較高。
+I wish you good luck.	我祝您好运。
+I'll admit I'm wrong.	我承認我錯了。
+I'll ask Tom to wait.	我會請Tom等。
+I'll be watching you.	我會看著你。
+I'll give you a book.	我會給你一本書。
+I'll give you a ride.	我會載你一程。
+I'll give you a ring.	我会打电话给你。
+I'll prove it to you.	我会给你证明的。
+I'll take care of it.	我會關照它的。
+I'm an honest person.	我是个老实人。
+I'm buying a new car.	我在买一辆新车。
+I'm closing the door.	我在關門。
+I'm coming home, Tom.	我在回家，湯姆。
+I'm friends with him.	我和他是朋友。
+I'm glad I was there.	我很高興我在那裡。
+I'm here to help you.	我來這裡幫你。
+I'm in a hurry today.	我今天趕時間。
+I'm in love with her.	我愛上她了。
+I'm incredibly tired.	我累死了。
+I'm just another man.	我只是个大众脸。
+I'm learning English.	我學英文。
+I'm not tired at all.	我根本不累。
+I'm not turning back.	我不回去。
+I'm sorry to hear it.	我听了感到抱歉。
+I'm sure they'll win.	我確定他們會贏。
+I'm sure they'll win.	我相信他們會贏。
+I'm the one you want.	我就是你要找的人。
+I'm tired of dancing.	我厭倦了跳舞。
+I'm walking with her.	我正跟她一起走。
+I'm willing to share.	我乐意分享。
+I've got a pacemaker.	我裝了個心臟起搏器。
+I've got one for you.	我給你帶了一個。
+I've won first prize!	我贏得了第一名！
+Is his pulse regular?	他的脈搏正常嗎？
+Is there a timetable?	有时间表吗？
+It belongs to me now.	它现在归我了。
+It looks like a duck.	它看起來像一隻鴨子。
+It looks like an egg.	这看上去像个蛋。
+It makes me feel sad.	这让我感到沮丧。
+It rained for a week.	雨下了一周。
+It seems so familiar.	这看起来似曾相识。
+It was a long letter.	它是封长信。
+It's a good question.	它是一個很好的問題。
+It's a piece of cake.	小菜一碟。
+It's a waste of time.	这是浪费时间。
+It's all Greek to me.	我对此一窍不通。
+It's all Tom's fault.	全是湯姆的錯。
+It's an easy victory.	這是一個輕鬆取得的勝利。
+It's been a long war.	这是场长久的战争。
+It's my CD, isn't it?	這是我的CD，不是嗎？
+It's not that simple.	它沒有那麼簡單。
+It's nothing serious.	這沒什麼要緊的。
+It's sort of strange.	有點奇怪。
+It's under the table.	它在桌下。
+Let me say one thing.	讓我說一件事情。
+Let's clean our room.	打扫我们的房间吧。
+Let's go to the club.	讓我們去俱樂部吧。
+Let's hope she comes.	讓我們祈盼她會來。
+Let's make some more.	我們做多一點。
+Let's not discuss it.	我们不要讨论它。
+Lincoln died in 1865.	林肯於1865年去世。
+Mary came on her own.	Mary自己一個人來。
+Mary hugged her doll.	Mary擁抱她的娃娃。
+Mary plays the piano.	瑪麗彈鋼琴。
+May I ask a question?	我能问个问题吗？
+May I go out to play?	我可以出去玩嗎？
+May I play the piano?	我可以彈鋼琴嗎？
+Maybe we should talk.	大概我们需要交谈。
+Maybe you'll succeed.	也許你會成功。
+My car's in the shop.	我的車在店裡修理中。
+My eyes are watering.	我在流眼淚。
+My father became old.	我爸爸變老了。
+My father grows rice.	我爸种水稻。
+My gums are bleeding.	我的牙齦流血。
+My head is exploding.	我的頭要炸了。
+My watch has stopped.	我的錶停了。
+No news is good news.	没消息就是好消息。
+No one else was hurt.	没有别的人受伤。
+No one escaped alive.	沒有人生還。
+One of them is a spy.	他們其中一人是間諜。
+Orange juice, please.	柳橙汁，麻煩你。
+Our train is delayed.	我們的車誤點了。
+Please eat some cake.	请吃点蛋糕。
+Please lock the door.	請把門鎖上。
+Please open the door.	請把門打開。
+Please open the door.	請開門。
+Please shut the door.	請關上門。
+Please think it over.	請考慮一下。
+Press the bell twice.	按两下铃。
+Put your weapon down.	把你的武器放下。
+See you at the party.	在派對上見。
+See you at the party.	在派对上见
+She gave him a watch.	她给了他一块表。
+She gave him the car.	她给了他车。
+She gets up at seven.	她早上7点起床。
+She has a pure heart.	她有一颗纯洁的心。
+She has a round face.	她有张圆脸。
+She has ten children.	她有十个孩子。
+She is a good dancer.	她是一個很好的舞者。
+She is a pretty girl.	她是一個漂亮的女孩。
+She is a quiet woman.	她是一個安靜的女人。
+She is wearing a hat.	她戴著一頂帽子。
+She raised her voice.	她提高了她的嗓音。
+She really hates him.	她非常恨他。
+She sat on the bench.	她坐在長椅上。
+She sent me a letter.	她寄给我一封信。
+She slapped his face.	她摑了他的臉。
+She wants to hug him.	她想擁抱他。
+She was hit by a car.	她被車撞了。
+She wore a red dress.	她穿了一条红色的裙子。
+She's a quiet person.	她是個安靜的人。
+She's as busy as Tom.	她和湯姆一樣忙。
+She's my best friend.	她是我最好的朋友。
+She's older than Tom.	她年紀比湯姆大。
+She's very beautiful.	她非常漂亮。
+Should we be worried?	我們應該要擔心嗎？
+Some bugs were fixed.	一些程式錯誤被改正了。
+Something did happen.	有什么事发生了。
+Stay out of the rain.	躲雨。
+Stay out of the rain.	別被雨淋了。
+Tell me when to stop.	告訴我甚麼時候停下。
+That bicycle is mine.	那自行车是我的。
+That did occur to me.	那就發生在我身上。
+That meat is chicken.	那個肉是雞肉。
+That was a month ago.	那是一個月前了。
+That was pretty neat.	那真整潔。
+That's a lot of cash.	那是很多錢。
+That's my dictionary.	那是我的字典。
+That's quite obvious.	那很明顯。
+The baby is sleeping.	宝宝正在睡觉。
+The box wasn't empty.	箱子不是空的。
+The couple had a son.	这对夫妇生了个儿子。
+The grass looks nice.	草地看来不错。
+The house is burning.	這房子正在燃燒著。
+The house is haunted.	這房子鬧鬼。
+The job is half done.	這項工作已經完成了一半。
+The lights aren't on.	灯没有亮着。
+The old man sat down.	老人坐了下来。
+The phone is ringing.	電話正在響。
+The rumor isn't true.	傳聞不是正確的。
+The taxi has arrived.	出租车到了。
+The well has run dry.	這口井乾涸了。
+The wind calmed down.	风停了。
+There isn't any soap.	沒有任何肥皂。
+There were two cakes.	那有两块蛋糕。
+There's a car coming.	有車來了。
+There's no more salt.	沒有再多的鹽了。
+These shoes are hers.	這些鞋是她的。
+They are my brothers.	他们是我的兄弟。
+They didn't like you.	他们不喜欢你。
+They failed the exam.	他們考試失敗了。
+They kept on walking.	他们继续走。
+They love each other.	他們彼此相愛。
+They made me captain.	他們讓我當了隊長。
+They went to Tottori.	他們去了鳥取。
+They were both drunk.	他們兩個都喝醉了。
+They were frightened.	他們被嚇到了。
+They were persecuted.	他们受到迫害。
+They're afraid of us.	他們害怕我們。
+They're already here.	他們已經在這裡了。
+They're both artists.	他们都是艺术家。
+This bicycle is mine.	這輛自行車是我的。
+This is a good movie.	這是一部好電影。
+This is a small town.	这是个小镇。
+This is just for you.	這是只給你的。
+This job doesn't pay.	这个工作没有酬劳。
+This job doesn't pay.	这份工作不付钱的。
+This must be my book.	这肯定是我的书。
+This novel is boring.	這本小說很無聊。
+This tea tastes good.	這茶味道不錯。
+Those apples are big.	那些蘋果很大。
+Today is my birthday.	今天是我的生日。
+Tom broke the window.	湯姆打破了窗戶。
+Tom burst into tears.	汤姆泪流满面。
+Tom doesn't eat pork.	湯姆不吃猪肉。
+Tom doesn't think so.	汤姆可不这么认为。
+Tom drank some juice.	Tom喝了些果汁。
+Tom enjoys gardening.	汤姆享受园艺。
+Tom has been wounded.	Tom负伤了。
+Tom has two children.	Tom有兩個孩子。
+Tom is a good person.	湯姆是個好人。
+Tom is a good person.	Tom是一個好人。
+Tom is a good worker.	湯姆是個好工人。
+Tom is in the shower.	Tom在洗澡。
+Tom is indispensable.	汤姆是必不可少的。
+Tom is really gifted.	湯姆真有才華。
+Tom is the one I saw.	我看见的是汤姆。
+Tom is there already.	湯姆己經在那裡了。
+Tom is very talented.	汤姆多才多艺。
+Tom let Mary go home.	湯姆讓瑪麗回家。
+Tom looks a bit sick.	湯姆看來有點不適。
+Tom loves doing this.	湯姆喜歡做這事。
+Tom needed treatment.	汤姆需要接受治疗。
+Tom said Mary is shy.	湯姆說瑪麗害羞。
+Tom said he loved me.	汤姆说他爱我。
+Tom said he was sick.	湯姆說他病了。
+Tom saw the exhibits.	汤姆看了展览会。
+Tom slept until noon.	汤姆睡到中午。
+Tom still can't read.	汤姆还是不能读书。
+Tom sure talks a lot.	汤姆一定很能讲。
+Tom taught me French.	汤姆教了我法语。
+Tom tried to stab me.	汤姆企图刺我。
+Tom turned up the TV.	汤姆把电视调大声。
+Tom wanted to see me.	汤姆想见我。
+Tom was all worn out.	湯姆完全筋疲力盡了。
+Tom was an architect.	汤姆是建筑师。
+Tom was conservative.	汤姆过去很保守。
+Tom wouldn't like it.	湯姆不會喜歡它。
+Tom, we have to talk.	汤姆，我们必须谈谈。
+Turtles are reptiles.	海龟是爬行动物。
+We are having dinner.	我們在吃晚餐。
+We can seat you soon.	我们很快就可以安排您入座。
+We can't sit idly by.	我們不能光坐著。
+We got to be friends.	我们交了朋友。
+We have a great team.	我们有个好极了的团队。
+We have two children.	我們有兩個孩子。
+We haven't lost much.	我們沒有失去太多。
+We knew it all along.	我们一开始就知道。
+We met at the church.	我们在教堂里遇到。
+We must do something.	我們必須做點甚麼。
+We must go to school.	我们必须去学校了。
+We need an ambulance.	我们需要一辆救护车。
+We ran after the cat.	我們追著貓。
+We ran down the hill.	我們跑下山。
+We require your help.	我們需要你的幫助。
+We sell orange juice.	我們賣柳橙汁。
+We took a wrong turn.	我們拐錯彎了。
+We tried to stop you.	我們試著阻止你。
+We want a new carpet.	我们想要一条新毯子。
+We went to the races.	我们去看了比赛。
+We're going by train.	我们要乘火车去。
+We're going downtown.	我们正在去市里。
+We're ready to leave.	我們準備離開。
+We're very different.	我们很不一样。
+What a bizarre story!	多么荒唐的故事！
+What are you cooking?	你在煮什麼?
+What are you reading?	你在看什麼？
+What are you writing?	你在寫什麼？
+What do you want now?	您现在想要什么？
+What do you want now?	你现在想要什么？
+What does it contain?	它包含了什么？
+What happened to him?	他發生了什麼事？
+What we need is help.	我们需要的是帮助。
+What'll you give Tom?	你会给汤姆什么？
+What's not necessary?	什麼是不必要的?
+What's the daily fee?	每天费用多少？
+What's your job here?	你在这里的工作是什么？
+What's your nickname?	你的昵称是甚麼？
+When does that start?	什么时候开始？
+When was it finished?	是什么时候完成的？
+When will you go out?	你什麼時候要出去？
+Where is my umbrella?	我的傘在哪？
+Where is the mailbox?	郵箱在哪裡？
+Where is the problem?	哪裡有問題?
+Where's the bathroom?	廁所在哪裡？
+Which book is better?	哪一本書比較好？
+Who do you live with?	你和誰住在一起？
+Who else is in there?	谁还在这里？
+Who gave them to you?	谁给了你这些东西？
+Who invented glasses?	玻璃是谁发明的？
+Who invited you guys?	誰邀請了你們？
+Who is the secretary?	谁是秘书？
+Who wrote this story?	谁写了这个故事？
+Why do you work here?	你為什麼在這兒工作？
+Why don't we go home?	我们何不回家呢？
+Why don't you hug me?	你為甚麼不抱我？
+Will he be here soon?	他很快就會到這裡嗎?
+Would you like to go?	你想去嗎？
+You always work hard.	你一直努力工作。
+You are irresistible.	你是不可抗拒的。
+You are not a coward.	您不是个懦夫。
+You are not a coward.	你不是个懦夫。
+You are not a doctor.	您不是医生。
+You are now an adult.	你现在是大人了。
+You can bank on that.	你可以相信那個。
+You can bank on that.	你可以寄希望于此。
+You can come with me.	你可以跟我來。
+You can count on her.	你可以相信她。
+You can hold my hand.	你能握我的手。
+You can use this car.	你可以使用這輛車。
+You can't go outside.	你不能到外面去。
+You don't deserve it.	你不配。
+You don't need a gun.	你不需要枪。
+You don't seem happy.	你看起来不高兴。
+You don't understand.	你不了解。
+You look happy today.	你今天看起來很高興。
+You may use this car.	你可以使用這輛車。
+You owe me something.	你欠我點東西。
+You should apologize.	你應該道歉。
+You should know this.	你該知道這個。
+You shouldn't go out.	你不應該出去。
+You'd better go home.	你最好回家。
+You're a good driver.	你开车很好。
+You're a good leader.	你是個好的領導人。
+You're a real friend.	你是個真正的朋友。
+You're bound to fail.	你注定失败。
+You're just a coward.	你就是胆小鬼。
+You're such an idiot!	你真是個傻瓜！
+You've been deceived.	你被騙了。
+You've made progress.	你进步了。
+Your answer is wrong.	你的回答是错的。
+Your dog is very big.	您的狗非常胖。
+Your dog is very big.	你的狗非常胖。
+Your dog is very fat.	你的狗非常胖。
+Your opinion matters.	你的觀點是重要的。
+A dolphin is a mammal.	海豚是哺乳動物。
+Above all, be patient.	尤其是要有耐心。
+All lawyers are liars.	律师都是骗子。
+All this is new to me.	这对我来说全是新的。
+Any child can do that.	任何小孩都能做到。
+Are these your things?	這些是你的東西嗎？
+Are they all the same?	他们都是一样的吗？
+Are you afraid of Tom?	你會怕Tom嗎？
+Are you dating anyone?	你跟人约会吗？
+Are you free tomorrow?	你明天有空吗？
+Are you going outside?	你去外面吗？
+Are you going to sing?	你要唱歌嗎？
+Are you satisfied now?	你現在滿意了嗎？
+Are you still at home?	你還在家裡嗎？
+Are you still at home?	你們還在家裡嗎？
+Are you still winning?	你還在贏嗎？
+Are you talking to me?	你在跟我说话吗？
+Ask for what you want!	要你想要的！
+Bears can climb trees.	熊会爬树。
+Better luck next time.	祝你下一次好运。
+Beware of pickpockets.	小心扒手。
+Both of you are wrong.	你們倆都錯了。
+Call me at the office.	打電話到我辦公室來。
+Can I borrow your car?	我能借你的车吗？
+Can I eat this orange?	我能吃这只橙子吗？
+Can I use your pencil?	我可以用你的鉛筆嗎？
+Can his story be true?	他的故事可能是真的吗?
+Can we go now, please?	请问我们现在能走吗？
+Check your dictionary.	查你的字典。
+Come here, all of you.	你们全都过来。
+Control is everything.	控制就是一切。
+Did he go to see Mary?	他去看瑪麗了嗎？
+Did he propose to you?	他向你求婚了嗎？
+Did you cut the paper?	你裁切紙張了嗎？
+Did you get my letter?	你收到了我发的邮件了吗？
+Did you get your wish?	你如願以償了嗎?
+Did you hear the news?	你听到新闻了吗？
+Did you lock the door?	你有關門嗎？
+Did you not know that?	你了解它吗
+Do I need to transfer?	我需要换乘吗?
+Do they learn English?	他們學習英語嗎？
+Do you believe in God?	你相信上帝吗？
+Do you know this song?	你知道這首歌嗎？
+Do you know who he is?	你知道他是誰嗎？
+Do you like this book?	你喜欢这本书吗？
+Do you meet him often?	你常常跟他見面嗎？
+Do you need this book?	你需要这本书吗？
+Do you really want it?	你真的想要嗎？
+Do you speak Japanese?	你说日语吗?
+Do you still love Tom?	你依然爱汤姆吗？
+Do you still need tea?	你还需要茶吗？
+Does Tom drink coffee?	汤姆喝咖啡吗？
+Does anybody know him?	有人认识他吗？
+Does he speak English?	他说英语吗？
+Does she have a piano?	她有鋼琴嗎？
+Does she like oranges?	她喜歡柳橙嗎？
+Don't ask me anything.	什麼都別問我。
+Don't be disappointed.	不要失望。
+Don't expect miracles.	別期盼奇跡。
+Don't forget about me.	別忘了我。
+Don't leave the TV on.	不要让电视机开着。
+Don't let him hit you.	别让他打到你。
+Don't speak to anyone.	你們別和任何人說。
+Don't stare at others.	别盯着别人看。
+Don't step in the mud.	别走进泥地。
+Don't touch my camera.	不要碰我的相機。
+Don't try my patience.	別挑戰我的耐心。
+Don't waste your time.	别浪费时间。
+Don't you play tennis?	你不打網球嗎?
+Every dog has his day.	凡人皆有得意时。
+Everything went black.	一切都變成了黑色。
+Everything will be OK.	一切都会好的。
+Fur coats are on sale.	毛皮大衣在打折。
+Get down on the floor!	趴在地上!
+Give it to me, please.	請把它給我。
+Give me your location.	给我你的位置。
+Go back to the office.	回辦公室去。
+Good luck on the test!	祝考试好运!
+Goodbye and good luck.	再见，祝好运。
+Guess what he told me.	猜猜看他告訴了我什麼。
+Has he met them today?	他今天見他們了嗎？
+Have a good Christmas.	祝您有一個愉快的聖誕節。
+Have we made progress?	我們取得進步了嗎？
+Have you eaten dinner?	你吃晚飯了嗎？
+Haven't we met before?	我们以前没见过吗？
+He admitted his guilt.	他承認他有罪。
+He broke into a house.	他闖入一間房子。
+He came several times.	他来了很多次了。
+He came to pick me up.	他來接我走。
+He can swim very fast.	他能游得很快。
+He cleared his throat.	他清了清喉嚨。
+He climbed the stairs.	他爬上了樓梯。
+He comes from England.	他来自英格兰。
+He drives his own car.	他開他自己的車。
+He gave it a new name.	他给了它一个新名字。
+He gave me 10,000 yen.	他给了我1万日元。
+He got 90% in English.	他英文得到了九十分。
+He grew up in Germany.	他在德國長大。
+He had the right idea.	他的想法是对的。
+He had to stay in bed.	他得卧床休息.
+He has a large family.	他有一個大家庭。
+He has a lot of money.	他有很多钱。
+He has done it before.	他以前做過。
+He has gone to London.	他去了伦敦。
+He has just left home.	他刚离开家。
+He has three brothers.	他有三个哥哥。
+He has three brothers.	他有三名兄长。
+He hopes to go abroad.	他希望到國外去。
+He is always laughing.	他总是在笑。
+He is good at driving.	他擅長駕駛。
+He is like his father.	他像他父亲。
+He is mad about music.	他痴迷于音乐。
+He is no longer a boy.	他不再是个男孩。
+He is not an American.	他不是美国人。
+He is sure to succeed.	他一定会成功。
+He is washing his car.	他正在洗他的车。
+He knows who they are.	他知道他们是谁。
+He lived a moral life.	他以君子之道生活。
+He married an actress.	他和一个女演员结婚了。
+He might not be happy.	他可能會不高興。
+He must be over sixty.	他应该超过六十岁了。
+He rested for a while.	他休息了一会儿。
+He sang while working.	他一边唱歌一边工作。
+He says he won't come.	他說他不會來。
+He speaks poor French.	他讲不好法语。
+He was born in Africa.	他出生在非洲。
+He works in a factory.	他在一家工廠工作。
+He's afraid of snakes.	他害怕蛇。
+He's afraid of snakes.	他怕蛇。
+He's my older brother.	他是我的哥哥。
+He's shorter than Tom.	他比湯姆矮。
+His concert was great.	他的演唱會很棒。
+His plan is dangerous!	他的計劃是危險的！
+His story sounds true.	他的故事聽起來是真的。
+How dare you say that!	你怎么敢那么说。
+How did you get there?	你怎麼到那的？
+How do you like Japan?	你覺得日本怎麼樣？
+How do you make a box?	你怎么做箱子？
+How high can you jump?	您能跳多高？
+How high can you jump?	你能跳多高？
+How long did you stay?	你待了多久?
+How long does it take?	要花多久時間？
+How many does he want?	他要多少?
+How much do I owe you?	我欠您多少？
+How much does it cost?	多少錢?
+How much time is left?	还剩多少时间？
+How much will it cost?	这要多少钱？
+How soon can we leave?	我们过多久才能离开？
+How was the interview?	面試怎麼樣？
+I admire your courage.	我佩服你的勇氣。
+I always lock my room.	我總是鎖上我的房間。
+I am 30 years old now.	我现在30岁了。
+I am an honest person.	我是个老实人。
+I am folding my dress.	我在叠我的连衣裙。
+I am here on business.	我在這裡出差。
+I am near the station.	我在車站附近。
+I am playing baseball.	我在打棒球。
+I am poor at swimming.	我不擅長游泳。
+I am shorter than you.	我比你矮。
+I am tired of my work.	我厌倦了我的工作。
+I am tired of reading.	我厭倦了閱讀。
+I am tired of reading.	我讀書讀膩了。
+I am very, very sorry.	我非常，非常抱歉。
+I am writing a letter.	我正在寫一封信。
+I bet he will get mad.	我打賭他會生氣。
+I bought it last week.	我上週買了它。
+I can do it by myself.	我可以自己做。
+I can do it in a week.	我可以在一週內做。
+I can open the window.	我可以打開這扇窗。
+I can't find my shoes.	我找不到我的鞋子。
+I caught the last bus.	我趕上了最後一班公車。
+I chose the wrong one.	我選了錯的那個。
+I dialed Tom's number.	我拨打了Tom的号码。
+I didn't get his joke.	我不懂他的玩笑話。
+I didn't get the joke.	我没明白那个笑话。
+I didn't see anything.	我什麼都沒看見。
+I dislike being alone.	我不喜歡獨處。
+I don't like anything.	我什么都不喜欢。
+I don't like big dogs.	我不喜歡大狗。
+I don't like drinking.	我不喜欢喝酒。
+I don't like her face.	我不喜歡她的臉。
+I don't like homework.	我不喜欢作业。
+I don't like studying.	我不喜欢学习。
+I don't like that guy.	我不喜欢那家伙。
+I don't like this one.	我不喜欢这个。
+I don't need anything.	我不需要任何東西。
+I don't need anything.	我什么都不需要。
+I don't want any more.	我不想要了。
+I dove into the river.	我跳进了河里。
+I even made Tom laugh.	我甚至讓湯姆笑了。
+I finally found a job.	我終于找到工作了。
+I found you, didn't I?	我找到你了，没有么？
+I gave it to my mommy.	我给我妈了。
+I gave my cold to him.	我的感冒传染了他.
+I go to bed at eleven.	我十一点上床。
+I go to school by bus.	我乘车去学校。
+I had nothing to hide.	我没什么可隐藏。
+I had to stay at home.	我得留在家裡。
+I have a bad headache.	我頭疼得厲害。
+I have class tomorrow.	我明天有课。
+I have eight siblings.	我有八個兄弟姐妹。
+I have lost my wallet.	我掉了我的钱包。
+I have many abilities.	我有很多才能。
+I have met him before.	我以前见过他。
+I have nothing to say.	我没什么可说的。
+I have to go to sleep.	我该去睡觉了。
+I have to wake Tom up.	我得叫醒汤姆。
+I haven't decided yet.	我還沒決定。
+I heard a car pull up.	我听到一辆车停了下来。
+I hid under the table.	我藏在桌子底下。
+I hired someone today.	我今天雇了个人。
+I just can't solve it.	我解决不了了。
+I knew you'd find Tom.	我知道你会找到汤姆。
+I know everybody here.	我認識這裡的每個人。
+I know my limitations.	我知道我的限度。
+I know what you meant.	我知道你是什么意思。
+I laughed at his joke.	他的笑話讓我大笑了。
+I like playing sports.	我喜歡運動。
+I met your girlfriend.	我見過你的女朋友。
+I miss Mary's cooking.	我想念Mary 的廚藝。
+I must be leaving now.	我現在必須離開。
+I must help my mother.	我必須幫忙我母親。
+I must repay the debt.	我必须偿还债务。
+I need a lot of books.	我需要很多書。
+I need to get a stamp.	我需要一張郵票。
+I never liked biology.	我從來沒喜歡過生物學。
+I owe you ten dollars.	我欠你10美元。
+I prefer cats to dogs.	比起狗，我更喜欢猫。
+I ran a race with him.	我和他比賽跑步。
+I ran away in a hurry.	我趕快跑走了。
+I really do want that.	我真的很想要它。
+I really like to read.	我真喜欢阅读。
+I remember seeing her.	我記得我看過她。
+I remember seeing him.	我记得见过他。
+I respect the elderly.	我尊敬长辈。
+I saw you kissing Tom.	我看到了你在吻汤姆了。
+I shave every morning.	我每天早上刮鬍子。
+I think Tom can't win.	我認為湯姆不會贏。
+I think he won't come.	我认为他不会来。
+I think you're stupid.	我认为你傻。
+I thought it was true.	我以为这是真的。
+I threw away my shoes.	我把自己的鞋子扔掉了。
+I told Tom what to do.	我告诉了汤姆要做什么。
+I told you to get out.	我告诉过你出去。
+I turned the doorknob.	我轉動了門把。
+I used to play tennis.	我以前打网球。
+I want a few potatoes.	我要幾個土豆。
+I want to become rich.	我想變有錢。
+I want to go to Italy.	我要去義大利。
+I want to go with you.	我想和你一起去。
+I want to keep moving.	我想继续走。
+I want to leave Paris.	我想离开巴黎。
+I want to lose weight.	我想减肥。
+I want to retire soon.	我想早點退休。
+I want to see a movie.	我要去看電影。
+I want to sing a song.	我想唱個歌。
+I want to take a bath.	我要洗澡。
+I want to talk to him.	我想跟他說話。
+I want to visit Korea.	我想访问韩国。
+I want you to grow up.	我希望你能长大。
+I wanted to smack you.	我想过扇你一巴掌。
+I was quite satisfied.	我真是满意。
+I will make you happy.	我会让你幸福的。
+I wish I had seen her.	但願我見過她。
+I wish I were younger.	但願我年輕一點。
+I won't do this again.	我不想再做這個了。
+I won't need any help.	我不需要任何帮助。
+I won't see her again.	我不會再見她。
+I wonder who has come.	我想知道谁来了。
+I'd like to go skiing.	我喜歡去滑雪。
+I'll be back tomorrow.	我明天回來。
+I'll be there at once.	我會立刻到那裡。
+I'll drive to Detroit.	我會開車到底特律。
+I'll get some glasses.	我會去拿一些玻璃杯。
+I'll let Tom tell you.	我会让汤姆告诉你。
+I'll miss you so much.	我會非常想念你。
+I'll show you my room.	我會帶你看看我的房間。
+I'll show you the way.	我會為你帶路。
+I'm a little confused.	我有一点困惑了。
+I'm absolutely elated.	我真是欣喜若狂。
+I'm afraid of heights.	我恐高。
+I'm afraid of spiders.	我怕蜘蛛。
+I'm almost sure of it.	我幾乎能確定。
+I'm doing my homework.	我正在做我的作业。
+I'm glad to hear that.	我很高興聽到這個消息。
+I'm going to the bank.	我要去银行了。
+I'm going to the park.	我去公園。
+I'm grateful for that.	我对那事很是感激。
+I'm playing a TV game.	我在玩電視遊樂器。
+I'm still your friend.	我还是你的朋友。
+I'm used to it by now.	我现在已经习惯它了。
+I've been on vacation.	我在休假。
+I've had a good sleep.	我睡得很好。
+I've run out of money.	我錢已經用完了。
+Is Tom ready for that?	汤姆准备好了吗？
+Is breakfast included?	包括早饭吗？
+Is he afraid of death?	他怕死吗？
+Is it near your house?	它在你家附近嗎？
+Is it really possible?	真的是可能的嗎？
+Is it really worth it?	这真的值得吗？
+Is there life on Mars?	火星上有生命嗎？
+Is this your daughter?	這是你的女兒嗎？
+Is this your notebook?	這是你的書嗎？
+It makes me feel good.	它讓我感覺很好。
+It might be a wedding.	這可能是一場婚禮。
+It seemed to be cheap.	似乎很便宜。
+It tastes really good.	它的滋味真的很好。
+It was a terrible day.	這是糟糕的一天。
+It was amazingly easy.	这出乎意料地容易。
+It was really special.	它真特別。
+It won't take so long.	它不會花很長的時間。
+It'll definitely rain.	绝对将要下雨。
+It's OK not to eat it.	你不吃沒關係。
+It's a very sad story.	这是一个非常悲伤的故事。
+It's been a long time.	已經很長一段時間了。
+It's my birthday soon.	我的生日就快到了。
+It's so different now.	现在真是不一样了。
+Keep next Sunday free.	把下周日空出来。
+Lawyers are all liars.	律师都是骗子。
+Leave my camera alone.	別碰我的相機。
+Let me think about it.	让我想一想。
+Let's go to the beach.	讓我們去海邊吧。
+Let's meet again soon.	讓我們很快地再次見面。
+Let's start the party.	讓我們開始這個派對吧。
+Like father, like son.	有其父必有其子。
+Look, it's my problem.	看，这是我的问题。
+Make yourself at home.	就当在家一样。
+May I borrow your car?	我可以借用你的車嗎？
+May I eat this orange?	我可以吃這個柳橙嗎？
+May I use your pencil?	我可以用你的鉛筆嗎？
+May I use your toilet?	我能用一下你们的厕所吗？
+Maybe I'm just a fool.	可能我就是個傻子。
+Maybe some other time.	也许下一次吧。
+Maybe you should move.	你可能該動一動。
+My baggage is missing.	我的行李丢了。
+My children are twins.	我的孩子是雙胞胎。
+My father is a doctor.	我父亲是个大夫。
+My father loves pizza.	我父親愛吃比薩。
+My nickname is "Itch."	我的綽號是“Itch。"
+My right hand is numb.	我的右手麻了。
+My room is just below.	我的房間就在樓下。
+My room is very small.	我的房間很小。
+My sister often cries.	我妹妹经常哭。
+My underpants are wet.	我的內褲是濕的。
+No one listened to me.	沒有人聽我的。
+No one's stopping you.	没有人在阻止你。
+No, I didn't write it.	不，我沒寫。
+Nobody understands me.	没有人理解我。
+Open the door, please.	請把門打開。
+Open the door, please.	请开门。
+Our team won the game.	我們這隊贏得了比賽。
+Playing tennis is fun.	打網球很有趣。
+Please allow me to go.	請允許我去。
+Please close the door.	請關門。
+Please don't say that.	请不要这样说。
+Please go to the bank.	請去銀行。
+Please keep it secret.	請保守秘密。
+Please leave me alone.	请让我静一静。
+Please show me around.	請帶我到處看看。
+Please take your seat.	请坐。
+Please think about it.	請你考慮考慮。
+Put away your bicycle.	把你的自行车放好。
+Red is out of fashion.	红色不流行了。
+Restart your computer.	重新启动你的电脑。
+Say it in another way.	换种方式说。
+She accepted his gift.	她收下了他的礼物。
+She almost passed out.	她几乎喝晕了。
+She answered in tears.	她很傷心地回答。
+She asked me for help.	她向我求助。
+She can play the drum.	她會打鼓。
+She decided to resign.	她決定辭職了。
+She gave me a present.	她給了我一件禮物。
+She gave us a present.	她給了我們一個禮物。
+She graduated in 1996.	她在1996年畢業。
+She has been to Paris.	她去过巴黎。
+She hated her husband.	她恨她的丈夫。
+She hated him so much.	她非常恨他。
+She hit the ball hard.	她用力地拍了球。
+She is a noted singer.	她是一个著名的歌手。
+She is as tall as you.	她跟你一樣高。
+She is evidently sick.	她明顯生病了。
+She isn't a good cook.	她不是一個好廚師。
+She isn't at home now.	她現在不在家。
+She lives in New York.	她住在纽约。
+She loves Tom, not me.	她爱汤姆，而不是我。
+She made a man of him.	她使他長大成人。
+She never wears green.	她從來不穿綠色的衣服。
+She seems to hate you.	她好像很讨厌你。
+She talked childishly.	她说话幼稚。
+She teaches us French.	她教我们法语。
+She turned eighty-one.	她八十一歲了。
+She was wearing pumps.	她穿著舞鞋。
+She weeded the garden.	她给花园除了草。
+She's a stubborn girl.	她是个倔强的女孩。
+She's eating an apple.	她正吃著一個蘋果。
+She's in the restroom.	她在上廁所。
+She's my older sister.	她是我的姐姐。
+She's sure to succeed.	她理所当然的取得了胜利。
+Should Tom be worried?	Tom應該要擔心嗎？
+Sit wherever you like.	你愛坐哪裡就坐哪裡。
+Smoking is prohibited.	禁止吸烟。
+So you give up, right?	所以你放弃了，是吗？
+Somebody was murdered.	有人被謀殺了。
+Someone has been here.	有人來過這裡。
+Someone saved my life.	有人救了我的命。
+Something is changing.	有些東西在變化。
+Stop swearing, please.	请别再发誓了。
+Take care of yourself.	照顾好自己。
+Tears filled her eyes.	她热泪盈眶。
+Tell me what happened.	告訴我發生了什麼事。
+Tell me what you want.	告訴我你要什麼。
+Tell me when to begin.	告诉我什么时候开始。
+Tell me when to start.	告诉我什么时候开始。
+Thanks for calling me.	谢谢你给我打电话。
+Thanks for your reply.	谢谢你的答复。
+That book is very old.	那本書很舊。
+That book's over here.	那本书在这里。
+That car is quite new.	那辆车十分新。
+That is useless to me.	那對我沒有用處。
+That looks like blood.	那看起来像血。
+That wasn't very good.	那不太好。
+That's awesome, right?	很棒，不是吗？
+That's good, isn't it?	那太好了，不是嗎？
+The baby smiled at me.	宝宝对我笑了。
+The boy was shirtless.	男孩赤裸着上身。
+The cake is delicious.	蛋糕很美味。
+The child will be six.	那孩子要六歲了。
+The clock has stopped.	時鐘已經停止了。
+The door clicked shut.	门咔哒一声关上了。
+The fire has gone out.	火已經灭了。
+The girls were asleep.	女孩们睡着了
+The lake is deep here.	这个湖在这个地方很深。
+The meat has gone bad.	這肉已經壞了。
+The news made her sad.	这个消息让她很伤心。
+The problem isn't Tom.	問題不是湯姆。
+The risk is too great.	风险太大。
+The train has arrived.	這班火車已經到了。
+The war has not ended.	战争还没结束。
+There are no problems.	沒有問題。
+There's no way to win.	沒有辦法贏。
+These boxes are heavy.	这些箱子是重的。
+They burst into tears.	他們突然哭了。
+They made fun of Mary.	他們取笑瑪麗。
+They should be scared.	他们应该会被吓到。
+They tasted the bread.	他們嚐了麵包。
+They wash their hands.	他們洗手。
+They work really hard.	他们工作的很辛苦。
+They're eating apples.	他們正在吃蘋果。
+This dog is a mongrel.	這隻狗是雜種狗。
+This is how I made it.	这就是我的办法。
+This is my dictionary.	这是我的字典。
+This is my first time.	這是我的第一次。
+This is not important.	這個不重要。
+This is not important.	这不重要。
+This is not true love.	這不是真實的愛情。
+This may take a while.	这要花时间。
+This pear smells nice.	这只梨闻上去很香。
+This work doesn't pay.	这个工作没有酬劳。
+Those are my trousers.	那些都是我的褲子。
+Those are their books.	这是他们的书。
+Time waits for no one.	时间不等人。
+Tom and I are friends.	湯姆和我是朋友。
+Tom became a minister.	汤姆当上了部长。
+Tom bought new gloves.	湯姆買了新手套。
+Tom burned the letter.	汤姆烧掉了信。
+Tom called the police.	汤姆叫了警察。
+Tom can keep a secret.	汤姆会保密。
+Tom can't afford that.	汤姆负担不起。
+Tom can't afford this.	汤姆买不起这个东西。
+Tom can't drive a bus.	湯姆不能開巴士。
+Tom could be Canadian.	汤姆可能是加拿大人。
+Tom doesn't talk much.	汤姆说话不多。
+Tom doesn't work here.	湯姆不在這裡工作。
+Tom got ready for bed.	湯姆準備睡覺。
+Tom had to go himself.	汤姆不得不自己去。
+Tom has a good memory.	湯姆有好的記憶力。
+Tom has a reservation.	汤姆有预约。
+Tom has gained weight.	湯姆變胖了。
+Tom has lost his keys.	湯姆弄丟了他的鑰匙。
+Tom has lost his keys.	湯姆遺失了他的鑰匙。
+Tom has lost his mind.	湯姆失去理智了。
+Tom has written to me.	汤姆写给我了。
+Tom is consoling Mary.	汤姆在安慰玛丽。
+Tom is drinking juice.	Tom正在喝果汁。
+Tom is friendly to me.	湯姆對我友好。
+Tom is my grandfather.	Tom是我爺爺。
+Tom is our oldest son.	汤姆是我们最大的儿子。
+Tom is the one I want.	汤姆是我想要的人。
+Tom is very angry now.	汤姆现在很生气。
+Tom is wearing gloves.	汤姆戴着手套。
+Tom likes me the most.	Tom 最喜欢我。
+Tom lost his car keys.	汤姆丢了他的车钥匙。
+Tom needs Mary's help.	湯姆需要瑪麗的幫助。
+Tom seems to know how.	湯姆看來知道那是怎樣。
+Tom should be worried.	Tom應該要擔心。
+Tom snickered at Mary.	汤姆暗中笑玛丽。
+Tom sold Mary his car.	汤姆把他的汽车卖给了玛丽。
+Tom told Mary his age.	湯姆告訴瑪麗他的年齡。
+Tom used to work here.	汤姆过去在这里工作。
+Tom walks very slowly.	汤姆走得很慢。
+Tom wants to sit down.	汤姆想坐下。
+Tom was a little late.	Tom迟到了一小段时间。
+Tom was afraid of you.	湯姆怕你。
+Tom was buried Monday.	汤姆在周一被埋了。
+Tom was ready to work.	湯姆準備去工作。
+Tom watched in horror.	汤姆惊恐地盯着。
+Tom's coach likes him.	汤姆的教练喜欢他。
+Two times two is four.	二乘以二等于四。
+Wait here for a while.	在这儿等一会儿。
+We all hope for peace.	我們都希望和平。
+We call our dog Pochi.	我们把我们的狗叫做Pochi。
+We defeated the enemy.	我們戰勝了敵人。
+We do the best we can.	我们尽我们所能。
+We had a lot to drink.	我们喝了很多。
+We have time to spare.	我們有多餘的時間。
+We have two daughters.	我们有两个女儿。
+We hear with our ears.	我们用耳朵听。
+We just wanted to win.	我們只想贏。
+We owe you an apology.	我们欠你个道歉。
+We ran short of money.	我们缺钱了。
+We should do our best.	我们应该做到最好。
+We should go to sleep.	我该去睡觉了。
+We sometimes see them.	我們有時會看見他們。
+We took turns driving.	我們輪流開車。
+We watch TV every day.	我们每天看电视。
+We'll begin work soon.	我們立即開始施工。
+We'll have to go back.	我们还得回去。
+We're waiting for Tom.	我们在等汤姆。
+We've got a situation.	我们有情况了。
+We've had it analyzed.	我们已经将它做了分析。
+Well, let's get going!	好吧，讓我們出發吧!
+What did you find out?	你發現了甚麼？
+What do we have to do?	我們必須做甚麼？
+What's my room number?	我的房间号是多少？
+What's wrong with you?	你到底怎么回事啊？
+What's wrong with you?	你到底怎麼回事啊？
+When did you get here?	你是什麼時候來的？
+When is your bed time?	你什么时候睡觉？
+When will they arrive?	他們何時抵達?
+When will you be free?	你什麼時候有空?
+Where are the showers?	浴室在哪里？
+Where are your things?	你的東西在哪裡?
+Where are your things?	你們的東西在哪裡？
+Where are your things?	您的東西在哪裡？
+Where are your things?	你的東西在哪裡？
+Where can I find them?	在哪儿我能找着他们？
+Where did you guys go?	你们这些家伙去哪儿了？
+Where did you see her?	你在哪儿看到了她？
+Where do you work now?	你现在在哪里工作？
+Where is my newspaper?	我的报纸在哪里？
+Where was the mistake?	錯在哪裡？
+Who do you think I am?	你把我当什么啦？
+Who told you the news?	誰告訴了你這個消息？
+Who's your girlfriend?	你女朋友是谁？
+Whose bicycle is this?	这辆自行车是谁的？
+Whose is this bicycle?	这辆自行车是谁的？
+Why are you asking me?	你為什麼問我？
+Why can't we talk now?	为什么我们现在不能讲？
+Why did you come here?	你為什麼來這裡？
+Why did you marry Tom?	你為甚麼跟湯姆結婚？
+Why don't you go home?	你为什么不回家呢？
+Why don't you grow up?	你为什么长不大呢？
+Why is change so hard?	為什麼改變那麼難？
+Why should I hire Tom?	为什么我要雇佣Tom？
+Will it rain tomorrow?	明天会下雨吗？
+Will you stay at home?	你会待在家吗？
+Would you like a tour?	你想去旅游嗎？
+Write everything down.	把所有東西寫下來。
+Write me sometime, OK?	有时间给我写信，好吗？
+Write your goals down.	把你的目標寫下來。
+You are a good person.	你是一個好人。
+You are a good person.	您是一個好人。
+You are her daughters.	你是她的女兒。
+You are our only hope.	你是我们唯一的希望。
+You deserve the prize.	你應該得到這個獎金。
+You didn't protect me.	你没有保护我。
+You don't have to eat.	你不必吃。
+You must do your best.	你必须做到最好。
+You must stop smoking.	你必须停止吸烟。
+You need to get ready.	你需要做好准备。
+You need to seek help.	你需要尋求協助。
+You reap what you sow.	种瓜得瓜，种豆得豆。
+You reap what you sow.	種什麼因得什麼果。
+You seem very nervous.	你看起来很紧张。
+You should make notes.	你应该做笔记。
+You weren't here then.	你那時不在這裡。
+You'll get used to it.	你会习惯的。
+You'll never be alone.	你们永远不会一个人的。
+You'll never be alone.	你永远不会一个人的。
+You're a mean old man.	你这个吝啬的老头。
+You're frightening me.	你在嚇我。
+You're in big trouble.	你们有大麻烦了。
+You're really useless.	你真沒用。
+You've got to wake up.	你必須醒醒。
+Zero comes before one.	零在一前面。
+A good idea came to me.	我有一个好主意。
+A rock fell from above.	一块岩石从上面落下。
+A sponge absorbs water.	海绵吸水。
+All you can do is wait.	所有你能做的就是等待。
+Are they all like this?	他们都像这一样吗？
+Are they both the same?	他们都是一样的吗？
+Are you afraid of bugs?	你怕虫子吗？
+Are you dating anybody?	你跟人約會過嗎？
+Are you free right now?	你現在有空嗎？
+Are you speaking to me?	你是在对我说吗？
+Be careful not to fall.	小心别摔倒了。
+Both you and I are men.	你和我都是男人。
+Bring me the magazines.	把那本雜誌拿來給我。
+Can I park my car here?	我能把我的车停在这儿吗？
+Can anyone believe you?	誰會相信你？
+Can we save the planet?	我们能拯救这颗星球吗？
+Can we talk in private?	我们能私下谈谈吗？
+Can you do bookkeeping?	你會記帳嗎?
+Can you just please go?	能請你離開嗎？
+Can you play the piano?	你會彈鋼琴嗎？
+Can you please shut up?	你可以閉嘴嗎？
+Can't we work this out?	我们做不成吗？
+Come and dance with me.	过来和我跳舞啊!
+Could I have the check?	把帳單給我好嗎？
+Could you come up here?	你能来这里吗？？
+Could you turn it down?	你可以轉小聲一點嗎?
+Dad bought me a camera.	爸爸给我买了一个照相机。
+Dead men tell no tales.	死人不會告密。
+Did they buy the juice?	他們有買果汁嗎？
+Did you hear the click?	你聽到了點擊聲嗎？
+Did you see him go out?	你看到他出去了嗎？
+Did you watch the game?	你看了比賽嗎？
+Didn't you see the man?	你沒看見那個人嗎？
+Didn't you see the man?	你們沒看見那個人嗎？
+Didn't you see the man?	你没看到那个男人吗？
+Do we have enough food?	我们有足够的食物吗？
+Do you know the answer?	你知道答案嗎?
+Do you know the reason?	你知道是什麼原因嗎？
+Do you like black cats?	你喜歡黑色的貓嗎？
+Do you study every day?	你每天都学习吗？
+Do you study every day?	你們每天都讀書嗎？
+Do you study every day?	您每天都讀書嗎？
+Do you think I'm crazy?	你认为我疯了吗？
+Do you want to be rich?	你想致富嗎？
+Do you want to come in?	你想进来吗？
+Does she speak English?	她會說英語嗎？
+Don't ask me for money.	不要問我要錢。
+Don't begin without me.	我不在就别开始。
+Don't change your mind.	不要改變你的心意。
+Don't let him bite you.	別讓他咬你。
+Don't start without me.	我不在就别开始。
+Don't tell anyone this.	不要告訴任何人這件事。
+Don't throw trash here.	别在这儿扔垃圾。
+Don't underestimate me.	别低估我。
+Don't worry about this.	別為此擔心。
+Don't write in red ink.	別用紅墨水寫。
+Don't you have to work?	你不用工作吗
+Everybody was confused.	每个人都很困惑
+Everyone knows the law.	大家都知道這個法律。
+Everything is changing.	一切都在变。
+Fancy meeting you here!	想不到會在這裡遇見你！
+Fasten your seat belts.	系上你們的安全带。
+Foxes are wild animals.	狐狸是野生动物。
+Get a grip on yourself!	冷静下来！
+Give me a little money.	给我一点钱。
+Give me some milk, too.	也給我一些牛奶。
+Give the cat some meat.	給猫喂點肉。
+Has something happened?	發生了什麼事嗎？
+Have you seen this man?	您见过这个人吗？
+He asked me a question.	他問了我一個問題。
+He brought us sad news.	他给我们带来了令人难过的消息。
+He did nothing but cry.	他只是哭。
+He didn't study at all.	他根本就没有学习。
+He died of lung cancer.	他死於肺癌。
+He doesn't like coffee.	他不喜歡喝咖啡。
+He has a good appetite.	他的胃口很好。
+He has gone to Britain.	他已经去了英国。
+He is afraid of snakes.	他害怕蛇。
+He is fluent in French.	他说法语说得很流利。
+He is good at football.	他擅長足球。
+He knocked on the door.	他敲了門。
+He must be about forty.	他应该40岁左右吧。
+He often quotes Milton.	他常引用米爾頓。
+He pretends to be deaf.	他装听不见。
+He probably won't come.	他可能不会来了。
+He returned from China.	他从中国回来了。
+He runs as fast as you.	他跑得跟你一樣快。
+He sang some old songs.	他唱了些老歌。
+He saw her and blushed.	他看到她就臉紅了。
+He sent a card to Mary.	他送了一張卡片給瑪麗。
+He was in good spirits.	他精神很好。
+He wore a dark sweater.	他穿了一件深色毛衣。
+He's out taking a walk.	他出去散步。
+He's stronger than you.	他比你強壯。
+He's such a sweetheart.	他真是甜心。
+Health is above wealth.	健康比财富重要。
+Help us reach our goal.	幫助我們達成目標。
+Her father is Japanese.	她父親是日本人。
+Here are some pictures.	這裡有一些圖片。
+Hey, look what I found.	嘿，看我找到了什么。
+His car is really cool.	他的車真的很酷。
+His father is Japanese.	他父親是日本人。
+His plan was discarded.	他的计划被驳回了。
+His words gave me hope.	他的話給了我希望。
+His words surprised me.	他的話讓我吃驚。
+Hope is not a strategy.	希望不是一种策略。
+How long did that take?	那持续了多久了？
+How long would it take?	要多长时间？
+I always keep promises.	我總是信守承諾。
+I am ashamed of myself.	我对我自己感到惭愧。
+I am in touch with him.	我與他聯繫。
+I am leaving next week.	我下個星期離開。
+I am sixteen years old.	我16岁了。
+I am tired of homework.	我厭倦了功課。
+I am worried about him.	我担心他。
+I asked her for a date.	我向她提出約會的請求。
+I asked him to help me.	我請他幫我。
+I ate lunch in a hurry.	我匆忙地吃了午飯。
+I believe Tom is right.	我相信湯姆是對的。
+I bought a good camera.	我買了一台不錯的照相機。
+I can make that happen.	我不能让那事发生。
+I can work with anyone.	我能跟任何人工作。
+I can't answer you now.	我现在不能回答你。
+I can't explain it now.	我现在不能解释。
+I can't figure him out.	我不了解他。
+I can't find my ticket.	我找不到我的票。
+I can't hear very well.	我聽不太清楚。
+I can't put up with it.	我无法忍受它了。
+I dare say he is right.	我敢说他是对的。
+I decided to buy a car.	我決定買一輛車。
+I didn't get your name.	我沒聽清楚你的名字。
+I discovered the truth.	我發現了真相。
+I don't agree with him.	我不同意他。
+I don't agree with you.	我不同意你的看法。
+I don't drink or smoke.	我既不抽烟也不喝酒。
+I don't have a partner.	我沒有夥伴。
+I don't have much time.	我时间不多。
+I don't know right now.	我现在不知道。
+I don't know who he is.	我不知道他是谁。
+I don't need your help.	我不需要你的幫助。
+I don't sing very well.	我唱歌不太好。
+I don't speak Japanese.	我不说日语。
+I don't speak Japanese.	我不說日語。
+I don't work like that.	我不像那樣工作。
+I envied his new house.	我羨慕他的新房子。
+I go to bed very early.	我很早就去睡覺。
+I go to work every day.	我每天去上班。
+I got on the wrong bus.	我上錯車了。
+I had a wonderful time.	我度過了美好的時光。
+I had a wonderful time.	我玩得很愉快。
+I had my wallet stolen.	我的钱包被偷了。
+I had to go to America.	我必須去美國。
+I have a bad toothache.	我牙痛得厲害。
+I have a dog and a cat.	我有一隻狗和一隻貓。
+I have a pair of shoes.	我有一双鞋。
+I have heard the story.	我听说过那个故事。
+I have no energy today.	今天我沒有精神。
+I heard the door close.	我听到门关了。
+I helped him yesterday.	昨天我帮了他。
+I hit him in the belly.	我打了他的肚子。
+I hope Tom isn't angry.	我希望湯姆不生氣。
+I just couldn't say no.	我就是不能说不。
+I just heard something.	我只是听到了一些消息。
+I knew he would accept.	我知道他会接受的。
+I know I owe you money.	我知道我欠你錢。
+I know how old you are.	我知道你多大了。
+I know how we can help.	我知道我們要怎麼幫忙。
+I know who you all are.	我知道你們都是誰。
+I left it on the table.	我把它留在桌上了。
+I like pizza very much.	我非常喜歡比薩。
+I like summer the best.	我最喜歡夏天。
+I like tennis and golf.	我喜歡打網球和高爾夫球。
+I like this color, too.	我也喜歡這個顏色。
+I like to travel alone.	我喜欢独自旅行。
+I love pizza very much.	我非常喜欢匹萨。
+I love the people here.	我爱这里的人们。
+I meet him at the club.	我在俱樂部見到他。
+I might make a mistake.	我可能犯了個錯。
+I prefer milk to juice.	比起果汁，我比較喜歡牛奶。
+I prefer tea to coffee.	我喜歡茶勝過咖啡。
+I put it in the drawer.	我把它放在抽屜裡。
+I saw Liz this morning.	今天早上我看到了利茲。
+I saw him wash the car.	我看見他洗車。
+I seem to have a fever.	我好像发烧了。
+I sell clothing online.	我在網路上賣衣服。
+I should clean my room.	我应该打扫我的房间。
+I slept just two hours.	我只睡了两小时。
+I slept only two hours.	我祇睡了兩小時。
+I smell something here.	我在这里闻见了什么。
+I studied for one hour.	我讀了一個小時的書。
+I suppose you like him.	我猜想您喜欢他。
+I think I'll go by bus.	我認為我要坐巴士去。
+I think Tom's cheating.	我觉得汤姆有外遇。
+I think about it often.	我经常想着它。
+I think that it's true.	我認為這是真的。
+I think you're jealous.	我觉得你妒忌了。
+I understand perfectly.	我完全明白。
+I want a quart of milk.	我要一夸脫的牛奶。
+I want some fresh eggs.	我想要一些新鲜的鸡蛋。
+I want something sweet.	我要一些甜的東西。
+I want to ride a horse.	我想騎馬。
+I was happy to see him.	我很高兴见到他。
+I was not scolding you.	我不是在罵你。
+I was totally confused.	我完全不懂了。
+I was truly astonished.	我真是惊讶。
+I went there yesterday.	我昨天去那儿了。
+I went there yesterday.	昨天我去了那裡。
+I will gladly help you.	我會很樂意幫助你。
+I will not do it again.	下次我不做了。
+I wish to go to Hawaii.	我希望去夏威夷。
+I wish you'd slow down.	我希望你慢下來。
+I worked all this week.	这周我一直在工作。
+I would like mine rare.	我的牛排要生的。
+I would like to see it.	我想看看它。
+I'd like for you to go.	我希望你去。
+I'd like to rent a car.	我想租一輛車。
+I'd rather be with you.	我更愿意跟着你。
+I'd rather go swimming.	我寧願去游泳。
+I'll be right with you.	我馬上就来。
+I'll call you up later.	我稍後會打電話給你。
+I'll have another beer.	我会再喝一杯啤酒。
+I'll leave that to you.	我會留給你。
+I'll miss your cooking.	我會想念你的廚藝。
+I'll study your report.	我會研究你的報告。
+I'll tell Tom tomorrow.	我明天告訴湯姆。
+I'll wait a day or two.	我會等一兩天。
+I'm a big football fan.	我是足球的忠实粉丝。
+I'm afraid to go alone.	我害怕一個人去。
+I'm anxious to see you.	我渴望見到你。
+I'm at the airport now.	我现在在机场。
+I'm doubling my prices.	我正在把价格涨一倍。
+I'm feeling blue today.	我今天的心情不好。
+I'm glad you came over.	我很高兴你回来了。
+I'm going to miss that.	我要失去它了。
+I'm here to assist you.	我來協助你。
+I'm listening to music.	我正在听音乐。
+I'm looking for my pen.	我在找我的鋼筆。
+I'm not as tall as you.	我沒有你高。
+I'm not married to Tom.	我没跟汤姆结婚。
+I'm thinking about you.	我正考慮到你。
+I'm thinking about you.	我突然想到你。
+I'm translating a book.	我在翻譯一本書。
+I've always been smart.	我一直聪明。
+I've caught a bad cold.	我得了重感冒。
+I've got a few friends.	我有一些朋友。
+I've got it right here.	我就是在这得到它的。
+Iron is a useful metal.	铁是个有用的金属。
+Iron is a useful metal.	铁是种有用的金属。
+Is anyone absent today?	今天有人缺席嗎？
+Is he still interested?	他還有興趣嗎？
+Is it a recent picture?	那是一张近照吗？
+Is it something I said?	是我說的嗎？
+Is there any salt left?	还有多余的盐吗？
+Is this seat available?	这个位子空着吗？
+Isn't that good enough?	那不夠好嗎？
+It doesn't surprise me.	这并不让我惊讶。
+It is me that is wrong.	是我错了。
+It looks like an apple.	看起来像个苹果。
+It may not be possible.	不太可能。
+It seems she hates you.	她好像很讨厌你。
+It took me three years.	它花了我三年。
+It'll take a long time.	我要花很长时间。
+It's awfully hot today.	今天非常熱。
+It's cold this morning.	今天早上冷。
+It's fairly warm today.	今天相當暖和。
+It's for you to decide.	這由你來決定。
+It's time to eat lunch.	午餐時間到了。
+It's you I've come for.	我是为你来的。
+Keep the window closed.	让窗子关着。
+Let bygones be bygones.	既往不咎。
+Let me try another one.	让我试试别的。
+Let them learn from us.	让他们向我们学习。
+Let's ask if it's true.	让我们来问问这是不是真的。
+Let's go ahead and eat.	咱们去吃饭吧。
+Let's go to the picnic.	讓我們去野餐。
+Let's sit on the grass.	我们坐在草地上吧。
+Let's start right away.	我们立刻开始吧。
+Let's take a break now.	现在，让我们休息一会儿吧。
+Lie on your right side.	躺在你右邊。
+May I borrow your bike?	我能借一下您的自行车吗？
+May I go to the toilet?	我可以去廁所嗎？
+May I introduce myself?	我可以自我介紹嗎?
+May I open my eyes now?	我現在能睜眼嗎？
+May I put it down here?	我可以把它放在这儿吗？
+Mind your own business!	管好你自己的事吧。
+Mom, can I go swimming?	媽，我可以去游泳嗎?
+My TV has quit working.	我的電視已經壞了。
+My cats will love this.	我的猫会爱上这个。
+My cholesterol is high.	我的胆固醇很高。
+My father went fishing.	我父親去釣魚了。
+My father will kill me.	我爸会杀了我的。
+My fountain pen is new.	我的钢笔是新的。
+My scalp is very itchy.	我的頭皮非常癢。
+My son doesn't obey me.	我儿子不听我话。
+No one came except Tom.	除了汤姆没有人来。
+No one can control him.	沒人管束或開導他。
+No one man could do it.	沒有一個人能做到這一點。
+Nobody knows the truth.	没有人知道真相。
+Not all aliens are bad.	不是所有外星人都坏。
+OK, you two, follow me.	好，你們兩個，跟著我。
+Open your eyes, please.	请睁开眼睛。
+Please add up the bill.	請確認帳單。
+Please call the police.	叫警察。
+Please drive carefully.	請小心駕駛。
+Please give me a break.	饶了我吧！
+Please kill the lights.	请关灯。
+Please open the bottle.	請打開瓶子。
+Please spell your name.	请拼一下您的名字。
+Please turn off the TV.	请关闭电视机。
+Please write back soon.	请快点回信。
+Promises aren't enough.	承諾是不夠的。
+Put on your good shoes.	穿上你的好鞋。
+Quit talking, will you?	不要说话，好不好？
+Selling cars is my job.	賣車是我的工作。
+Shall I close the door?	我應該把門關上嗎?
+She always believes me.	她一直都相信我。
+She always wears black.	她總是穿著黑色的衣服。
+She asked him for help.	她向他求助。
+She bit into the apple.	她咬了一口蘋果。
+She came into the room.	她进了房间。
+She caught colds often.	她常常感冒。
+She doesn't like sushi.	她不喜歡壽司。
+She gave him a sweater.	她给他一件毛衣。
+She got out of the car.	她下了車。
+She had a little money.	她有一点钱。
+She handed him the key.	她遞給了他鑰匙。
+She has a little bread.	她有点儿面包。
+She is fond of animals.	她很喜欢动物。
+She looks very elegant.	她看上去十分优雅。
+She married a musician.	她和一位音乐家结了婚。
+She married a rich man.	她嫁给了一个有钱人。
+She really wants to go.	她特别想去。
+She resembles her aunt.	她长得像她姑姑。
+She smiled at her baby.	她對著她的孩子微笑。
+She was born last year.	她去年出生。
+She woke up on her own.	她自己起床的。
+She wore a white dress.	她穿了一件白色的洋裝。
+She's a glamorous girl.	她是个迷人的女孩子。
+She's already sleeping.	她已经睡下了。
+She's correct for sure.	她的確是正確的。
+She's younger than him.	她比他年轻。
+Should I go to college?	我該上大學嗎？
+Sing us a song, please.	請為我們唱首歌吧。
+So what if that's true?	那如果那是真的呢？
+Someone is calling you.	有人在叫你。
+Something must be done!	必須採取一些行動了！
+Sport knows no borders.	体育无国界。
+Stay out of my kitchen.	别进我的厨房。
+Take whatever you like.	你喜歡什麼就拿吧。
+Tell me more about Tom.	告诉我汤姆的情况。
+Tell me which you want.	告訴我你想要哪個。
+Tell them we're coming.	告诉他们我们要来了。
+Thank you all the same.	同样感谢你。
+Thanks for your advice.	谢谢你的建议。
+That could be too late.	那可能太晚了。
+That means a lot to me.	那对我来说意义重大。
+That was really boring.	那真是無聊。
+That was really unfair.	那真不公平。
+That won't ever happen.	那从不会发生。
+That would be relevant.	那会有关系。
+That would be unlikely.	那不太可能。
+That's a good question.	那是一個很好的問題。
+That's my final answer.	这是我的最终回答。
+That's my sole concern.	这是我唯一关心的。
+That's not Tom's fault.	那不是湯姆的錯。
+That's weird, isn't it?	那真奇怪，不是么？
+The bell rings at noon.	正午時分鐘聲響起。
+The boy had a red face.	這個男孩有一張紅潤的臉。
+The bus will take time.	乘公交车费时。
+The girl has no mother.	这个女孩没有母亲。
+The knife is not sharp.	這刀不鋒利。
+The law is quite clear.	法律很清楚。
+The man robbed her bag.	這名男子搶走了她的包包。
+The next one's for you.	下一个给你。
+The pain is unbearable.	疼痛令人难以忍受。
+The pen is on the desk.	笔在桌上。
+The rain is letting up.	雨变小了。
+The rear gate was open.	后门曾开着。
+The snow was knee deep.	積雪深及膝蓋。
+The train passed by us.	列车从我们身边经过。
+The vase was shattered.	花瓶被打碎了。
+The wind is cold today.	今天刮冷风。
+The woman glared at us.	女人瞪了我們。
+There were no mistakes.	没有错误。
+There were two bridges.	那里有两座桥。
+There's no way to know.	沒有辦法知道。
+These are called shoes.	這些叫鞋子。
+These are the new ones.	這些是一些新的。
+These glasses are cool.	這些眼鏡真酷。
+They are having a chat.	他們正在聊天。
+They closed their eyes.	他们闭上眼睛。
+They say love is blind.	人们说爱情是盲目的。
+They settled in Canada.	他们在加拿大安家落户。
+They sometimes help us.	他們有時幫我們。
+They talked about love.	他們談論了愛情。
+They were very excited.	他们非常兴奋。
+They're digging a hole.	他們正在挖一個洞。
+This apple is very red.	这只苹果非常红。
+This decision is final.	这是最终决定。
+This is Tom's umbrella.	這是湯姆的雨傘。
+This is a great moment.	这是一个伟大的时刻。
+This is a wooden table.	这是张木桌。
+This is not a sentence.	这不是一句话。
+This is not a sentence.	這不是一個句子。
+This is old news to me.	這對我來說是舊聞了。
+This is the real world.	這是真實的世界。
+This is very good soil.	这是非常好的土壤。
+This isn't a good idea.	這不是好主意。
+This juice tastes sour.	這個果汁喝起來酸酸的。
+This makes me so angry.	這讓我非常憤怒。
+This one's still alive.	這一個還活著。
+This rose is beautiful.	這玫瑰花很美麗。
+This water tastes good.	這水很好喝。
+This wine tastes great.	這葡萄酒非常好喝。
+This writer is Russian.	这个作家是俄罗斯人。
+Tom asked Mary to help.	湯姆向瑪麗求助。
+Tom asked me about you.	汤姆向我问起你。
+Tom can't ride a horse.	湯姆不能騎馬。
+Tom doesn't have a dad.	汤姆没有父亲。
+Tom has Mary's address.	汤姆有玛丽的地址。
+Tom has a big appetite.	汤姆胃口很大。
+Tom has a twin brother.	Tom有個雙胞胎兄弟。
+Tom has visited Boston.	汤姆去过波士顿。
+Tom heard Mary's voice.	汤姆听见了玛丽的声音。
+Tom is a Boston native.	湯姆是波士頓本地人。
+Tom is good at cooking.	湯姆擅長烹飪。
+Tom is in the hospital.	Tom在醫院。
+Tom is obese, isn't he?	汤姆很胖，是吧？
+Tom is older than I am.	湯姆年紀比我大。
+Tom is on his way here.	湯姆正在來這里。
+Tom is out of his mind.	汤姆走神了。
+Tom is out of his mind.	湯姆失去理智了。
+Tom is quite drunk now.	汤姆现在醉醺醺的了。
+Tom is quite sarcastic.	汤姆真会挖苦人。
+Tom is really handsome.	汤姆真帅。
+Tom is speaking French.	汤姆在说法语。
+Tom is still in Boston.	汤姆还在波士顿。
+Tom is taller than you.	汤姆比你高。
+Tom is too old to work.	湯姆老得不能工作了。
+Tom is very much alone.	汤姆非常孤单。
+Tom isn't happy at all.	汤姆根本不高兴。
+Tom lied to the others.	汤姆向其他人撒谎了。
+Tom listened carefully.	湯姆仔細聽。
+Tom looked for his pen.	湯姆找他的鋼筆。
+Tom picked up a pencil.	汤姆拿起铅笔。
+Tom says he has a plan.	汤姆说他有个计划。
+Tom started the engine.	湯姆發動了引擎。
+Tom studies at Harvard.	汤姆在哈佛学习。
+Tom tried to kill Mary.	汤姆试着杀死玛丽。
+Tom wanted to see Mary.	湯姆想見瑪麗。
+Tom was a little drunk.	汤姆有点醉。
+Tom was not apologetic.	Tom并不觉得抱歉。
+Tom went down the hill.	汤姆走下山坡。
+Tom won't be here long.	湯姆不會在這裡久留。
+Tom wrote us postcards.	Tom寫明信片給我們。
+Tomorrow is my day off.	明天是我的休息日。
+Tulips will bloom soon.	鬱金香很快將盛開。
+Wait for me downstairs.	在楼下等我
+Was it all an illusion?	那全是幻觉吗？
+Was that what Tom said?	那就是汤姆说的吗？
+Watch my camera for me.	幫我看著我的相機。
+We can't just fire Tom.	我们不能仅仅就这样炒了汤姆
+We enjoy reading books.	我们喜欢阅读书籍。
+We gave the car a push.	我們推了車。
+We go to school by bus.	我們乘公共汽車去上學。
+We got lost in the fog.	我们在雾中迷了路。
+We have a problem here.	我们现在有了麻烦。
+We have no electricity.	我們沒有電。
+We have to do our best.	我们应该做到最好。
+We have to do our best.	我们要尽力而为。
+We have to have a plan.	我們必須有計畫。
+We help each other out.	我們互相幫忙。
+We helped them as well.	我們也幫助他們。
+We like to play soccer.	我們喜歡踢足球。
+We met her by accident.	我们偶然碰到了她。
+We must get up at dawn.	黎明時我們必須起床。
+We need to make a plan.	我们需要做计划。
+We often hear you sing.	我们经常听到你唱歌。
+We should be safe here.	我们在这里应该是安全的。
+We sometimes meet them.	我們有時會見到他們。
+We still have a chance.	我們還有次機會。
+We'll be ready in time.	我们会及时准备好。
+We're going to eat now.	我們現在就要吃飯。
+We're intimate friends.	我們是親密的朋友。
+We're out of stock now.	我们现在缺乏库存。
+We're still doing well.	我们依然做得很好。
+We're still vulnerable.	我们还是脆弱不堪。
+We've got lots of time.	我們有很多時間。
+We've got what we need.	我們得到了我們想要的。
+Well, have you decided?	那麼, 你決定好了嗎?
+Were you able to do it?	你有能力去做这个吗？
+What a wonderful night!	多美妙的夜晚啊!
+What are those numbers?	那些数字是什么？
+What are you doing now?	你現在在做什麼？
+What disease do I have?	我得了什麼病？
+What do you plan to do?	你打算怎麼辦？
+What do you want to be?	您想成为什么？
+What do you want to be?	你想成为什么？
+What do you want to do?	你想做什麼？
+What does your aunt do?	你姑姑是做什麼的？
+What illness do I have?	我得了什麼病？
+What is my room number?	我的房间号是多少？
+What made her so angry?	什麼事讓她這麼生氣？
+What made you so angry?	什麼讓你這麼生氣？
+What should I look for?	我应该寻找什么？
+What time does it open?	什么时候开门？
+What time was she born?	她幾點出生的？
+What'll the results be?	結果會是甚麼樣的？
+What's in front of you?	在你面前是什麼東西？
+What's your occupation?	您的職業是什麼？
+When do you need it by?	您何時需要它？
+When do you want to go?	你什麼時候要去?
+When does Tom get here?	湯姆是甚麼時候來到這裡的？
+Where can I get a taxi?	我在哪裡可以搭到計程車？
+Where did it come from?	它从哪里来？
+Where did you get this?	这是你哪里拿的？
+Where do you have pain?	你哪裡痛？
+Where is the cafeteria?	自助餐厅在哪里？
+Where is the city hall?	市政府在哪裡?
+Where's my apple juice?	我的蘋果汁在哪?
+Which way is the beach?	去海滩走哪条路？
+Which way should we go?	我们应该往哪个方向走？
+Who are you looking at?	你在看谁？
+Who are you voting for?	你投给谁？
+Who did you give it to?	你把它給誰了?
+Who teaches you French?	谁教你们法语？
+Who told you the story?	誰告訴你這個故事？
+Who's your favorite DJ?	谁是你最喜爱的 DJ ?
+Why are you busy today?	你今天为什么忙？
+Why do you need change?	你為什麼需要零錢?
+Why should I thank Tom?	我為甚麼該感謝湯姆？
+Why were you so scared?	你为什么这么害怕？
+Will it be much longer?	還要很久嗎？
+Will you drive me home?	你會開車送我回家嗎？
+Will you wait a minute?	麻煩您等一下。
+Will you wait a moment?	麻煩您稍待一下。
+Words express thoughts.	語言表達思想。
+Words express thoughts.	語詞表達思想。
+Would you like a drink?	你想喝點什麼嗎？
+Would you like to come?	你愿意来吗？
+Would you like to wait?	你愿意等吗 ?
+You are my best friend.	你是我最好的朋友。
+You can take today off.	你今天可以休假一天。
+You can take your time.	你可以慢慢来。
+You come back soon, OK?	你早點回來，行嗎？
+You could have done it.	你本來可以做的。
+You deserve to succeed.	你的成功是应得的。
+You don't have a fever.	你没发烧。
+You don't have to hide.	你不用藏著。
+You guys have to hurry.	你们这些家伙得快点。
+You have a point there.	喔！你提到一個重點了。
+You have to be patient.	你必須有耐心。
+You like it, don't you?	你喜歡它，不是嗎？
+You look just like Tom.	你看起来就像湯姆。
+You look like a monkey.	你看着像猴。
+You made a wise choice.	你做了一個明智的選擇。
+You may use my new car.	你可以使用我的新車。
+You must go to bed now.	你現在必須上床睡覺。
+You never get my jokes.	你从来不明白我的玩笑。
+You ought to thank him.	你应该感谢他。
+You should wear a coat.	你應該穿一件大衣。
+You shouldn't eat here.	你不该在这里吃饭。
+You sing like an angel.	你唱歌像天使。
+You speak good English.	你的英語說得很好。
+You took the wrong key.	你拿错钥匙了。
+You were at my wedding.	你出席了我的婚礼。
+You were eavesdropping.	你在偷听。
+You were late for work.	你上班迟到了。
+You'd better go by bus.	你最好坐公共汽車去。
+You'd better not speak.	你最好不要說。
+You'd better start now.	你最好現在就開始。
+You'll need their help.	你会需要他们的帮助。
+You're a celebrity now.	你现在是名人了。
+You're cuter than Mary.	你比玛丽可爱。
+You're making progress.	你在進步。
+You're not fast enough.	你不够快。
+You're quite forgetful.	你很健忘。
+Your cake is delicious.	您的蛋糕很美味。
+Your cake is delicious.	你的蛋糕很美味。
+Your plan sounds great.	你的計劃聽起來很不錯。
+All my homework is done.	我做完了所有的回家作業。
+Are there any questions?	有什么问题吗？
+Are they treated fairly?	他们受到公正对待了吗？
+Are those two going out?	那兩個要出去嗎？
+Are you coming tomorrow?	你明天要來嗎？
+Are you free on Tuesday?	周二你有空吗？
+Are you having problems?	你有问题吗？
+Are you here to see Tom?	你是來見湯姆的嗎？
+Are you referring to me?	你在说我吗？
+Are you sure about this?	你确定吗？
+Aren't you free tonight?	你今天晚上沒空嗎？
+Ask him what to do next.	问他下一步该做什么。
+Ask me something easier.	问我简单些的。
+Bear his advice in mind.	牢記他的建議。
+Beauty is but skin deep.	美貌只是表面性的东西。
+Being rich isn't enough.	有钱还不够。
+Breathing was difficult.	呼吸困難。
+Can I drive the tractor?	我能開拖拉機嗎？
+Can I eat my lunch here?	我能在這裡吃午飯嗎？
+Can I get my money back?	我是不是能收回我的钱？
+Can you eat raw oysters?	你能生吃牡蠣嗎？
+Can you get it repaired?	你能不能修理它？
+Can you make it on time?	你能准时做好吗？
+Can you play the guitar?	你会弹吉他吗？
+Can you really not swim?	你真的不會游泳嗎？
+Can you swim underwater?	你能潜水吗？
+Can't you speak English?	你不會說英語嗎?
+Children like chocolate.	孩子们喜欢巧克力。
+Children love Halloween.	孩子们喜欢圣诞节。
+Choose the one you like.	選一個你喜歡的。
+Choose the one you like.	选喜欢的。
+Classes begin next week.	课程下周开始。
+Could I borrow a pencil?	我能借支铅笔吗？
+Could you do me a favor?	請你幫我一個忙好嗎？
+Could you shut the door?	你能把門關上嗎?
+Days are getting longer.	白天越來越長了。
+Did you come here alone?	你是一个人来这儿的吗？
+Did you grade the tests?	你給測驗評分了嗎?
+Did you push the button?	你按了按鈕嗎?
+Do they love each other?	他們彼此相愛嗎?
+Do you have enough food?	你有足够的食物吗？
+Do you know what I mean?	你知道我的意思嗎？
+Do you like Indian food?	你喜歡印度菜嗎？
+Do you really mean that?	你是认真的吗？
+Do you think I can help?	你认为我能帮忙吗？
+Do you think I'm joking?	你觉得我是在开玩笑吗？
+Do you think I'm stupid?	你認為我傻嗎？
+Do you want to die here?	你想死在這裡嗎？
+Do you wish to complain?	你想抱怨嗎？
+Don't come into my room.	不要進入我的房間。
+Don't forget the ticket.	不要忘了票。
+Don't forget your money.	不要忘记您的钱。
+Don't forget your money.	不要忘记你的钱。
+Don't go out after dark.	天黑以後不要出門。
+Don't make stupid jokes.	开什么国际玩笑。
+Don't put it on my desk.	不要把它放在我的桌子上。
+Don't quit your day job.	别辞掉你的正职。
+Don't you miss anything?	难不成你漏了什么了？
+Don't you miss anything?	难道你不想念什么吗？
+Eat a lot of vegetables.	多吃点蔬菜。
+English is third period.	英語是第三節。
+Every man has his price.	每个人都有个价。
+Everybody wanted to eat.	每个人都想吃。
+Follow me into the room.	跟我进房间。
+Forewarned is forearmed.	凡事豫則立。
+Forewarned is forearmed.	凡事要預先準備好。
+Fresh food is wonderful.	新鮮的食物最棒了。
+From now on, try harder.	從現在起，更加努力。
+Get me a ticket, please.	請給我一張票。
+Give Tom back his money.	把汤姆的钱还给他。
+Give me a dozen oranges.	給我一打橘子。
+Give me something to do.	给我点事做。
+Give us a ride downtown.	載我們到市區。
+Go outside and play now.	現在出去玩吧。
+Goodbyes are always sad.	离别总是让人悲伤。
+Grab a hold of the rope.	抓住繩子。
+Have you called her yet?	你打電話給她了嗎?
+Have you heard from him?	你收到他的音訊了嗎?
+Have you met her before?	你以前見過她嗎？
+He asked for some money.	他要了一些錢。
+He asked me to help him.	他要求我幫助他。
+He ate all of the apple.	他吃了所有的蘋果。
+He began to feel afraid.	他开始害怕了。
+He bought her a sweater.	他買了一件毛衣給她。
+He bought himself a dog.	他給自己買了一隻狗。
+He came back from China.	他从中国回来了。
+He can read well enough.	他能讀得很好。
+He catches colds easily.	他很容易感冒。
+He couldn't get the job.	他無法得到這份工作。
+He decided to marry her.	他決定娶她。
+He did not get up early.	他没有早起。
+He died three years ago.	他三年前死了。
+He does not like tennis.	他不喜欢网球。
+He doesn't eat raw fish.	他不吃生鱼。
+He doesn't look his age.	他的长相与年龄不符。
+He doesn't need to work.	他不需要工作。
+He drinks too much beer.	他喝太多啤酒。
+He finally got his wish.	他終於如願以償了。
+He found me a good seat.	他幫我找到了一個好位子。
+He got tired of reading.	他厌倦了读书。
+He has a test next week.	他下禮拜要考試。
+He has been to Hokkaido.	他曾去過北海道。
+He has gone to Hokkaido.	他去北海道了。
+He has no eye for women.	他對女人沒有眼光。
+He has written a letter.	他写了一封信。
+He has written a letter.	他寫了一封信。
+He invited me to dinner.	他邀請我吃晚飯。
+He is a baseball player.	他是个棒球手。
+He is a famous composer.	他是一位著名的作曲家。
+He is a friendly person.	他是一個友善的人。
+He is eager to go there.	他渴望去那里。
+He is fluent in Chinese.	他能說流利的中文。
+He is fond of adventure.	他喜欢冒险。
+He is hard to deal with.	他很難對付。
+He is not a good driver.	他不擅长开车。
+He is not from Hokkaido.	他不是來自北海道。
+He is poor at chemistry.	他的化学很差。
+He keeps his room clean.	他保持他的房間乾淨。
+He leaned on his elbows.	他把身子靠在胳膊上。
+He left ten minutes ago.	他十分鐘前離開了。
+He likes anything sweet.	他喜歡一切甜的東西。
+He likes playing soccer.	他喜歡踢足球。
+He looked like a doctor.	他看起來像個醫生。
+He made her a bookshelf.	他做了一個書架給她。
+He made his son a chair.	他做了一把椅子給他兒子。
+He married a stewardess.	他娶了一位空姐。
+He neglected his duties.	他怠忽職守了。
+He never drinks alcohol.	他從不喝酒。
+He no longer lives here.	他不再住在這裡了。
+He objected to our plan.	他反對我們的計劃。
+He only had 100 dollars.	他只有100美元。
+He ordered a cup of tea.	他點了一杯茶。
+He sometimes watches TV.	他有時看電視。
+He stuck to his promise.	他信守了承诺.
+He thinks he's so great.	他以為自己很了不起。
+He took off his glasses.	他摘下了眼鏡。
+He traveled on business.	他旅行洽商。
+He turned down my offer.	他拒絕了我的提議。
+He used to get up early.	他以前很早起床。
+He wants a book to read.	他想找本書來讀。
+He was born in Nagasaki.	他出生於長崎。
+He was supposed to come.	他應該來的。
+He witnessed the murder.	他目睹了謀殺案。
+He wrote to his parents.	他寫信給他的父母。
+He'll be back home soon.	他很快就會回家。
+He's afraid of that dog.	他怕那只狗。
+He's crazy about soccer.	他酷爱足球。
+He's highly intelligent.	他聪明得很。
+He's just gone on leave.	他剛請假走了。
+He's my younger brother.	他是我弟弟。
+His parents ran a hotel.	他的父母经营一家酒店。
+How about another round?	再來一輪怎麼樣？
+How about taking a rest?	休息一下怎麼樣?
+How are you doing today?	你今天怎么样？
+How did you get in here?	你是怎么进来的？
+How do you go to school?	你是怎麼去上學的？
+How far is it from here?	离这儿有多远？
+How much do you love me?	你有多爱我？
+How much does this cost?	多少錢？
+How soon do you need it?	你多久后需要它？
+How's the weather there?	那儿是什么天气？
+How's the weather there?	那里的气候怎么样?
+Hurry up! We'll be late.	快點！我們要遲到了。
+I always walk to school.	我總是走路到學校。
+I am disgusted with him.	我厌恶他。
+I am proud of my father.	我为我父亲而自豪。
+I am reading a book now.	我現在正在讀一本書。
+I am the fastest runner.	我是跑得最快的人。
+I am the fastest runner.	我是最快的跑者。
+I appreciate good music.	我欣賞好音樂。
+I arrived two weeks ago.	我在兩週前到了。
+I asked him for a favor.	我請他幫忙。
+I asked him point-blank.	我直接地問了他。
+I baked some apple pies.	我烤了蘋果派。
+I believe you're honest.	我相信你是诚实的。
+I bought this yesterday.	昨天我買了這個。
+I can't believe my eyes.	我无法相信自己的眼睛。
+I can't find my glasses.	我找不到我的眼鏡。
+I can't find my glasses.	我的眼鏡不見了。
+I can't give up smoking.	我無法戒煙。
+I can't live without TV.	没有电视，我无法生活。
+I can't put up with him.	我受不了他。
+I can't stand the noise.	我不能忍受這個噪音。
+I can't stand this heat.	我受不了這麼熱。
+I can’t do any better.	我做得好到不能再好了。
+I could hardly hear him.	我幾乎聽不到他的聲音。
+I couldn't get to sleep.	我無法入睡。
+I do not play the piano.	我不彈鋼琴。
+I don't believe in that.	我們不相信那個。
+I don't have a computer.	我沒有電腦。
+I don't have any change.	我没任何零钱。
+I don't like rock music.	我不喜欢摇滚乐。
+I don't see much of him.	我不常見到他。
+I don't want Tom to die.	我不想让汤姆死。
+I don't want it anymore.	我再也不想要了。
+I don't want to grow up.	我不想长大。
+I enjoy taking pictures.	我喜欢拍照。
+I expect a lot from him.	我對他期望很高。
+I fell in love with her.	我爱上了她。
+I gave Tom one of those.	我给了汤姆其中之一。
+I got a letter from her.	我收到她的來信。
+I got up early as usual.	我和往常一样起得很早。
+I had a dream about him.	我夢到了他。
+I had her sweep my room.	我讓她打掃了我的房間。
+I have a bath every day.	我每天洗一次澡。
+I have just eaten lunch.	我剛吃過午飯。
+I have no books to read.	我没书可读。
+I have to iron my shirt.	我必須熨我的襯衫。
+I have to sell my house.	我得卖我的房子。
+I have to take medicine.	我必须吃药。
+I haven't finished this.	我做不了這個。
+I heard a strange sound.	我聽見一聲怪響。
+I heard it on the radio.	我從收音機聽到它。
+I heard it on the radio.	我從廣播中聽到它。
+I heard someone come in.	我聽到有人進來了。
+I hope we stay in touch.	我希望我们能保持联系。
+I just can't believe it.	我真是不能相信。
+I just want to be happy.	我只想高兴。
+I just want you to come.	我只是想要你来。
+I kind of lost my focus.	我有点不能集中注意力。
+I know a little Spanish.	我知道點西班牙語。
+I know all my neighbors.	我认识我所有的邻居。
+I know that he was busy.	我知道他忙。
+I know what his name is.	我知道他叫什么名字。
+I know why you're happy.	我知道你为什么高兴。
+I like my job very much.	我非常喜欢我的工作。
+I like playing baseball.	我喜歡打棒球。
+I like shopping on Ebay.	我喜欢在eBay上购物。
+I like singing with Tom.	我喜欢跟汤姆唱歌。
+I like tennis very much.	我非常喜歡網球。
+I like the way you walk.	我喜欢你走路的方式。
+I like walking at night.	我喜歡在夜晚走路。
+I love elderberry juice.	我愛接骨木果汁。
+I met him on the street.	我在街上遇到他。
+I met with an old woman.	我遇见了一位老妇人。
+I missed the last train.	我錯過了最後一班火車。
+I need some good advice.	我需要一些好的忠告。
+I need to know tomorrow.	我明天需要知道。
+I need to take a shower.	我需要洗个澡。
+I need your cooperation.	我需要你们的合作。
+I only know him by name.	我只知道他的名字。
+I only wanted to forget.	我只想忘记。
+I owe everything to Tom.	我什么都欠汤姆的。
+I owe him 1,000 dollars.	我欠他1000美元。
+I owe my success to him.	我把我的成功歸功於他。
+I paid him five dollars.	我付了他五塊美元。
+I painted the gate blue.	我把大門漆成了藍色的。
+I plan to buy him a pen.	我打算給他買一支鋼筆。
+I play volleyball a lot.	我常打排球。
+I really agree with you.	我非常同意你。
+I really don't know Tom.	我真不了解汤姆。
+I really like what I do.	我真喜欢我做的事。
+I saw him looking at me.	我看見他在看我。
+I saw him sawing a tree.	我看见他正在锯一棵树。
+I saw tears in her eyes.	我在她的眼睛裡看到淚水。
+I still have a question.	我還有个問題。
+I suppose you're hungry.	我猜想您饿了。
+I suppose you're hungry.	我猜想你饿了。
+I take a bath every day.	我每天洗一次澡。
+I think I'm going crazy.	我认为我快疯了。
+I think Tom is athletic.	我认为汤姆好运动。
+I think Tom is talented.	我認為湯姆有才能。
+I think that's not true.	我認為那不是真的。
+I thought Tom would win.	我认为汤姆会赢。
+I thought he would come.	我以为他会来的。
+I want a piece of candy.	我想要一颗糖。
+I want him to read this.	想让他读这个。
+I want to eat apple pie.	我想吃苹果派。
+I want to get rid of it.	我想擺脫它。
+I want to go for a swim.	我想去游泳。
+I want to go to Seattle.	我想去西雅图。
+I want to see you again.	我希望再次見到你。
+I wasn't busy last week.	我上周不忙。
+I wasn't busy yesterday.	我昨天不忙。
+I went there many times.	我去那裡很多次了。
+I will love you forever.	我會永遠愛你。
+I wish I could help you.	但願我可以幫助你。
+I wish he were here now.	我希望他現在在這裡。
+I wish to see my father.	我希望看看我的父親。
+I wonder if he loves me.	我不知道他是否愛我。
+I'd be crazy to do that.	我做那事会疯。
+I'd do anything for Tom.	我会为汤姆做任何事。
+I'd like three of these.	这我要三个。
+I'd like three of these.	这个给我来三个。
+I'd like to go with Tom.	我想跟湯姆走。
+I'd like to pay in cash.	我想用現金支付。
+I'd rather stay at home.	我寧願待在家裡。
+I'd rather stay than go.	我寧願待在這裡而不去。
+I'll attend the meeting.	我將參加這個會議。
+I'll be back in a jiffy.	我马上就回来。
+I'll call you on Monday.	我會在星期一給你打電話。
+I'll come to your place.	我會來你的地方。
+I'll join you all later.	我晚会加入你们。
+I'll see you next month.	我下個月會來看你。
+I'll take this umbrella.	我將拿這把傘。
+I'll tell you the truth.	我會告訴你真相。
+I'll treat you to sushi.	我會請你吃壽司。
+I'll visit him tomorrow.	明天我將拜訪他。
+I'm dripping with sweat.	我正流着汗。
+I'm glad you were right.	很高兴你是对的。
+I'm in a bad mood today.	我今天的心情不好。
+I'm just looking around.	我只是到處看看。
+I'm not absolutely sure.	我不完全肯定。
+I'm not afraid of death.	我不怕死。
+I'm not as brave as Tom.	我不像湯姆那樣勇敢。
+I'm not really prepared.	我沒有真的準備好。
+I'm open to suggestions.	我愿意接受建议。
+I'm so proud of my boys.	我為我的孩子們感到很驕傲。
+I'm sorry I didn't call.	我很抱歉我没有打电话。
+I'm sorry I was so rude.	對不起，我太無理了。
+I'm sorry to bother you.	對不起打擾你了。
+I'm still the boss here.	我仍是这里的老板。
+I'm such an unlucky guy.	我真是不走运的家伙。
+I'm sure Tom can't swim.	我确定汤姆不会游泳。
+I'm willing to help him.	我願意幫湯姆。
+I've already tried that.	我已经试过那个了。
+I've forgotten his name.	我已经忘了他的名字。
+I've never heard of Tom.	我從沒聽說過湯姆。
+I've quit drinking beer.	我已經不喝啤酒了。
+Is Tom living in Boston?	汤姆住在波士顿吗？
+Is it about ten o'clock?	大約十點鐘嗎？
+Is that a picture of me?	那是我的照片嗎？
+Is this really worth it?	这样真的值得吗？
+It all seems so strange.	看起来全都太奇怪了。
+It can be done in a day.	它可以在一天之內完成。
+It didn't cross my mind.	这不是我的想法。
+It happens occasionally.	它偶尔会发生。
+It is also a good movie.	它也是部好電影。
+It may freeze next week.	下周可能会结冰。
+It needs to be repaired.	它需要修理。
+It was truly depressing.	真的令人丧气。
+It won't take much time.	不會花很多時間的。
+It's almost six o'clock.	差不多六点了。
+It's almost six o'clock.	快要六點了。
+It's going to rain soon.	天快要下雨了。
+It's just what I wanted.	我想要的就是这个。
+It's not a dream at all.	它根本不是夢。
+It's one of the reasons.	這是其中一個原因。
+It's very uncomfortable.	它真是不舒服。
+It's your favorite song.	它是你最喜歡的歌。
+Japan is a rich country.	日本是个富有的国家。
+Keep an eye on the bags.	把包包看好。
+Keep it in a cool place.	保存在陰涼的地方。
+Kyoto is worth visiting.	京都值得游览。
+Leave the room as it is.	保留原狀地離開房間。
+Let me introduce myself.	請允許我自我介紹一下。
+Let's drive to the lake.	讓我們開車到湖邊。
+Let's end this nonsense.	让我们结束这胡言乱语。
+Let's forget it for now.	讓我們現在忘了它吧。
+Let's stay here tonight.	讓我們今晚留在這裡吧。
+Life has been very hard.	生活很艰苦。
+London is on the Thames.	倫敦在泰唔士河旁。
+Man cannot live forever.	人无法长生不死。
+Mary can speak Japanese.	瑪麗會講日語。
+Mary dyed her hair blue.	瑪麗把她的頭髮染成藍色。
+Mary has just come home.	瑪麗剛剛回家。
+Mary is Tom's secretary.	玛丽是汤姆的秘书。
+May I borrow your knife?	我能借一下你的刀吗？
+May I see the wine list?	我可以看一下酒單嗎？
+May I see your passport?	我可以看看你的護照嗎？
+May I take your picture?	我可以幫你照相嗎？
+Most boys like baseball.	大部分男生喜欢棒球。
+My mother isn't at home.	我媽媽不在家。
+My parents are divorced.	我父母离婚了。
+My plan is to buy a car.	我打算買輛車。
+My uncle gave me a book.	我的叔叔給了我一本書。
+My uncle gave me a gift.	我叔叔给了我一份礼物。
+My uncle gave me a gift.	我叔叔送了我一样礼物。
+Nara is a very old city.	奈良是个非常古老的城市。
+No one came except Mary.	除了瑪麗沒有人來。
+No one ran ahead of him.	没有人跑在他前面。
+No one voted against it.	没有人投反对票。
+No students were absent.	沒有學生缺席。
+No, thank you. I'm full.	不，謝謝你。我吃飽了。
+Nobody gave us a chance.	没人给我们机会。
+Not everyone is smiling.	不是每個人都在笑。
+Now I need you to leave.	現在我需要你離開。
+Perhaps it was worth it.	可能是值得的。
+Please bring me my bill.	請把帳單給我。
+Please give me the menu.	請給我菜單。
+Please keep this secret.	請保守這個秘密。
+Please leave right away.	請馬上離開。
+Please pass me the salt.	請把鹽遞給我。
+Please say it once more.	請再說一次。
+Please send me a letter.	請寄信給我。
+Please show me the menu.	請給我菜單。
+Please show me your bag.	請讓我看看你的袋子。
+Please show your ticket.	请出示您的票子。
+Please tell me about it.	请告诉我它的事情。
+Please write with a pen.	请用钢笔写。
+Put it back on the desk.	把它放回桌子上。
+Put it out of your mind.	別去想它。
+School starts next week.	學校下週開學。
+She always smiles at me.	她總是對我微笑。
+She asked him questions.	她問了他問題。
+She asked me a question.	她問了我一個問題。
+She came home very late.	她很晚回家。
+She can't write or read.	她不会读书写字。
+She cried her heart out.	她哭得肝腸寸斷。
+She does not like sushi.	她不喜欢寿司。
+She doesn't like soccer.	她不喜欢足球。
+She gave me a shy smile.	她給了我一個靦腆的笑容。
